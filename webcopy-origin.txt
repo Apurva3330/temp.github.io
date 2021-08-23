@@ -1,0 +1,4056 @@
+Uri: https://www.edutech.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/tools/img/Favicon.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\Favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Handlee
+File Name: C:\Downloaded Web Sites\www.edutech.com\css.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\npm\select2@4.1.0-rc.0\dist\css\select2.min.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/style.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\style.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/k12_main.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\k12_main.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/k12_inner.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\k12_inner.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/style-header.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\style-header.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/buttons.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\buttons.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/owl.theme.default.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/scrolling-nav.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\scrolling-nav.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/animate.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\animate.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/media.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\media.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\ajax\libs\magnific-popup.js\1.1.0\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/css/form.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\form.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/category/k-12-education
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/3d-printing-digital-fabrication
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\3d-printing-digital-fabrication.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/coding-computer-science
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\coding-computer-science.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/drones-space-science
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\drones-space-science.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/early-steam-education
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\early-steam-education.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/electronics-programming
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\electronics-programming.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/robotics-ai-3
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\robotics-ai-3.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/science-labs-3
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\science-labs-3.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/sustainable-energy
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\sustainable-energy.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/stem-solutions/after-school-holiday-camps
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\stem-solutions\after-school-holiday-camps.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/stem-solutions/challenges-competitions
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\stem-solutions\challenges-competitions.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/stem-solutions/space
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\stem-solutions\space.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/innovation-hubs/early-year-makerspace
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\innovation-hubs\early-year-makerspace.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/innovation-hubs/fablabs
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\innovation-hubs\fablabs.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/innovation-hubs/makerspace
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\innovation-hubs\makerspace.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/teaching-and-learning/virtual-classroom
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\teaching-and-learning\virtual-classroom.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/teaching-and-learning/vle-lms
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\teaching-and-learning\vle-lms.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/teaching-and-learning/student-engagement
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\teaching-and-learning\student-engagement.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/teaching-and-learning/digital-inclusion
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\teaching-and-learning\digital-inclusion.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/teaching-and-learning/anti-plagiarism
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\teaching-and-learning\anti-plagiarism.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/teaching-and-learning/digital-curriculum
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\teaching-and-learning\digital-curriculum.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/immersive-learning/ar-vr-experiences
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\immersive-learning\ar-vr-experiences.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/immersive-learning/virtual-labs
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\immersive-learning\virtual-labs.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/assessment-tools/career-planning
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\assessment-tools\career-planning.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/assessment-tools/assessments
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\assessment-tools\assessments.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/assessment-tools/e-marking
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\assessment-tools\e-marking.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/library-solutions/e-resources-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\library-solutions\e-resources-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/library-solutions/library-rfid-technology-for-library
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\library-solutions\library-rfid-technology-for-library.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/library-solutions/inter-library-loan-ill-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\library-solutions\inter-library-loan-ill-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/library-solutions/school-library-management
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\library-solutions\school-library-management.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/library-solutions/remote-authentication
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\library-solutions\remote-authentication.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/digital-learning/learning-platforms
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\digital-learning\learning-platforms.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/digital-learning/flipped-classrooms
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\digital-learning\flipped-classrooms.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/digital-learning/immersive-learning
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\digital-learning\immersive-learning.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/digital-learning/literacy-support
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\digital-learning\literacy-support.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/library-management/library-services-platform
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\library-management\library-services-platform.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/library-management/discovery-platform
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\library-management\discovery-platform.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/library-management/remote-authentication-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\library-management\remote-authentication-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/library-management/inter-library-loan-ill
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\library-management\inter-library-loan-ill.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/library-management/digital-repository
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\library-management\digital-repository.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/library-management/e-resources
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\library-management\e-resources.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/library-management/rfid-library-hardware
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\library-management\rfid-library-hardware.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/library-management/library-makerspace
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\library-management\library-makerspace.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/assessment-platforms/assessments-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\assessment-platforms\assessments-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/assessment-platforms/anti-plagiarism-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\assessment-platforms\anti-plagiarism-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/assessment-platforms/emarking-system
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\assessment-platforms\emarking-system.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/employability/digital-micro-credentials
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\employability\digital-micro-credentials.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/employability/career-planning-platform
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\employability\career-planning-platform.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/additive-manufacturing-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\additive-manufacturing-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/ar-vr-experiences-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\ar-vr-experiences-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/aviation
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\aviation.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/chemical-petroleum
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\chemical-petroleum.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/civil
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\civil.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/electrical-electronics
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\electrical-electronics.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/lab-maintenance-services
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\lab-maintenance-services.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/mechanical-industrial
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\mechanical-industrial.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/sciences
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\sciences.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/engineering-labs-1/virtual-labs-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\engineering-labs-1\virtual-labs-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/vocational-training/training-simulators
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\vocational-training\training-simulators.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/vocational-training/avionics-training
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\vocational-training\avionics-training.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/vocational-training/automotive-training
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\vocational-training\automotive-training.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/vocational-training/electrical-training
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\vocational-training\electrical-training.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/vocational-training/mechanical-training
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\vocational-training\mechanical-training.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/industry-4-0/digital-twin-for-education
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\industry-4-0\digital-twin-for-education.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/industry-4-0/iiot-platform
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\industry-4-0\iiot-platform.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/industry-4-0/additive-manufacturing
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\industry-4-0\additive-manufacturing.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/health-education/simulators-xr
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\health-education\simulators-xr.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/higher-education/health-education/learning-resources
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\higher-education\health-education\learning-resources.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/industry-main/industry
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\industry-main\industry.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/industry/csr-outreach
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\industry\csr-outreach.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/industry/simulators
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\industry\simulators.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/industry/micro-credentials
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\industry\micro-credentials.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/industry/assessment
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\industry\assessment.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/industry/virtual-training
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\industry\virtual-training.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/industry/online-courseware
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\industry\online-courseware.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/industry/document-management
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\industry\document-management.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/about
+File Name: C:\Downloaded Web Sites\www.edutech.com\about.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/webinars
+File Name: C:\Downloaded Web Sites\www.edutech.com\webinars.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/news-list
+File Name: C:\Downloaded Web Sites\www.edutech.com\news-list.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blogs
+File Name: C:\Downloaded Web Sites\www.edutech.com\blogs.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/events
+File Name: C:\Downloaded Web Sites\www.edutech.com\events.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/career
+File Name: C:\Downloaded Web Sites\www.edutech.com\career.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/contact-us
+File Name: C:\Downloaded Web Sites\www.edutech.com\contact-us.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=+971528631552&text=Hello%2C I'm here about...
+File Name: C:\Downloaded Web Sites\www.edutech.com\send.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/learningspecialists
+File Name: C:\Downloaded Web Sites\www.edutech.com\learningspecialists.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/edutechme/
+File Name: C:\Downloaded Web Sites\www.edutech.com\edutechme\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/edutechME
+File Name: C:\Downloaded Web Sites\www.edutech.com\edutechME.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCbMkH1qlgOjxiKlJD1lCMSA
+File Name: C:\Downloaded Web Sites\www.edutech.com\channel\UCbMkH1qlgOjxiKlJD1lCMSA.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-112269767-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-819485583
+File Name: C:\Downloaded Web Sites\www.edutech.com\gtag\js-1.js
+Content Type: application/javascript
+
+Uri: https://www.edutech.com/tools/img/logo.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\logo.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c59f2a1be5e411d835e4cd8a820cbd54.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c59f2a1be5e411d835e4cd8a820cbd54.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/721d77dd8954e4d3dbdc5334bc657d3d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\721d77dd8954e4d3dbdc5334bc657d3d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/7758e351eddcc20402c084f6b577b6f9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7758e351eddcc20402c084f6b577b6f9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5b254a5ed78a1b5a27046c5c128bb42d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5b254a5ed78a1b5a27046c5c128bb42d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/3b291889484d214e3d477e135885925a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3b291889484d214e3d477e135885925a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c2eca154fc43714f49ca09afd42b47ce.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c2eca154fc43714f49ca09afd42b47ce.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b4bf46785cc73f56caf53ece6142711a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b4bf46785cc73f56caf53ece6142711a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/aad83c2069c51c7d02c5a5ac24ded048.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\aad83c2069c51c7d02c5a5ac24ded048.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/54229498bd655f272b2244718e258e88.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\54229498bd655f272b2244718e258e88.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/077f9391c0329f3ab1046c062763d679.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\077f9391c0329f3ab1046c062763d679.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/why/pioneers.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\why\pioneers.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/why/lifelong.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\why\lifelong.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/why/deep.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\why\deep.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/why/effective.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\why\effective.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/why/future.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\why\future.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/test-img.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\test-img.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/comma.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\comma.png
+Content Type: image/png
+
+Uri: https://snazzymaps.com/embed/300372
+File Name: C:\Downloaded Web Sites\www.edutech.com\embed\300372.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\ajax\libs\jquery\1.12.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.edutech.com/tools/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.edutech.com/tools/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.edutech.com/tools/js/bootstrap-formhelpers.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\js\bootstrap-formhelpers.min.js
+Content Type: application/javascript
+
+Uri: https://www.edutech.com/tools/js/wow.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.edutech.com/tools/js/jquery.expander.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\js\jquery.expander.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\ajax\libs\jquery.form\4.2.2\jquery.form.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\ajax\libs\magnific-popup.js\1.1.0\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.edutech.com/tools/js/jquery.mobile.custom.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\js\jquery.mobile.custom.min.js
+Content Type: application/javascript
+
+Uri: https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\ajax\jquery.validate\1.11.1\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.edutech.com/tools/js/main.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\js\main.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js
+File Name: C:\Downloaded Web Sites\www.edutech.com\npm\select2@4.1.0-rc.0\dist\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://www.edutech.com/tools/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.edutech.com/tools/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.edutech.com/tools/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.edutech.com/tools/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\glyphicons-halflings-regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.edutech.com/tools/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.edutech.com/tools/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.edutech.com/tools/fonts/Swis721/swiss-bold.ttf
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\Swis721\swiss-bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.edutech.com/tools/fonts/Swis721/swiss-roman.ttf
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\Swis721\swiss-roman.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.edutech.com/tools/fonts/Kanit/Kanit-ExtraLight.ttf
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\Kanit\Kanit-ExtraLight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.edutech.com/tools/fonts/Kanit/Kanit-Light.ttf
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\Kanit\Kanit-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.edutech.com/tools/img/blog/banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\blog\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/news/banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\news\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/news/white-share.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\news\white-share.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/news/black-share.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\news\black-share.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/news/news-bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\news\news-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/newsroom/banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\newsroom\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/webinar/banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\webinar\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/thanku-bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\thanku-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/active-line.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\active-line.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/about-us/banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\about-us\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/about-us/why.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\about-us\why.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/about-us/strategic.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\about-us\strategic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/news/dropdown.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\news\dropdown.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/events/recent-event-main.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\events\recent-event-main.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/abt-bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\abt-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/solution-bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\solution-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/news-bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\news-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact-bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/png.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\png.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/social.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\social.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/greyicon.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\greyicon.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/orangeicon.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\orangeicon.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/nextprev.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\nextprev.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/k-12/bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\k-12\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/careers/banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\careers\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/careers/open.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\careers\open.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/select-bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\select-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/k-12/banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\k-12\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/k-12/k-12-banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\k-12\k-12-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/about-us/banner-mob.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\about-us\banner-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/careers/banner-mob.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\careers\banner-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/blog/bi-banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\blog\bi-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/blog/bi-bg.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\blog\bi-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/news/news-inside-banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\news\news-inside-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/blog/blog-mob.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\blog\blog-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/webinar/banner-mob.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\webinar\banner-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/newsroom/banner-mob.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\newsroom\banner-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/news/banner-mobile.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\news\banner-mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/new-events/Events-Banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\new-events\Events-Banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.w3schools.com/howto/searchicon.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\howto\searchicon.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.edutech.com/tools/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.edutech.com/tools/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.edutech.com/tools/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.edutech.com/tools/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.edutech.com/tools/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto
+File Name: C:\Downloaded Web Sites\www.edutech.com\css-1.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/uploads/images/20f08690db56e0444ad3c8b4ac1896b8.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\20f08690db56e0444ad3c8b4ac1896b8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/3e46f176a85a877f283e58e474156807.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3e46f176a85a877f283e58e474156807.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/0056b95cddcd0a2fc15598ecef5fb17b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0056b95cddcd0a2fc15598ecef5fb17b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/d888a811a326431823783998f3696c3e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d888a811a326431823783998f3696c3e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/8777aebaf34d15a2399c5ef91d09a250.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8777aebaf34d15a2399c5ef91d09a250.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/9b5326c015b7044aa11db2b4a1dfaeb7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9b5326c015b7044aa11db2b4a1dfaeb7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/e3b43f93be8b437cb8cdd387d56ba048.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e3b43f93be8b437cb8cdd387d56ba048.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/185a8270250070fcac117db405ca679c.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\185a8270250070fcac117db405ca679c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/ebc287748087651fe57f6d4a337804bb.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ebc287748087651fe57f6d4a337804bb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/f293c6dff153887e02eba9cda683f93b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f293c6dff153887e02eba9cda683f93b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=VGBSVOaFj5Y
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch.html
+Content Type: text/html
+
+Uri: https://digilab.dremel.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=MTZ5FunrcDY
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-1.html
+Content Type: text/html
+
+Uri: https://www.mayku.me/pages/educators
+File Name: C:\Downloaded Web Sites\www.edutech.com\pages\educators.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=i-3Ukyz21-E
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-2.html
+Content Type: text/html
+
+Uri: https://www.dobot.cc/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=mzH4KJjmaa8
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-3.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/8a15765efc01f74e7246f796814b1fb9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8a15765efc01f74e7246f796814b1fb9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f10dca85765ab81ca93eb02407fc0b29.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f10dca85765ab81ca93eb02407fc0b29.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5f2b14cf3a39b6aaf87f24b3f09ec1ab.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5f2b14cf3a39b6aaf87f24b3f09ec1ab.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9de5b34a99ddd1cffc9da2ff3661e906.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9de5b34a99ddd1cffc9da2ff3661e906.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/cdff2d8f961140fa2a613591dffbf2b3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cdff2d8f961140fa2a613591dffbf2b3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6b08a068aed5edf0e145b3c8c5f88249.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6b08a068aed5edf0e145b3c8c5f88249.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a8e0b7aa6bb0d2cd3919db6a1f7c03cc.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a8e0b7aa6bb0d2cd3919db6a1f7c03cc.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/edb3b397b0c9eb5a2a066a2a1d72862a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\edb3b397b0c9eb5a2a066a2a1d72862a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/39de9e2501c163be0be2ed8d2ae33b71.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\39de9e2501c163be0be2ed8d2ae33b71.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f6a92552d5dc719f29f5453b7e2f53af.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f6a92552d5dc719f29f5453b7e2f53af.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/k-12/play.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\k-12\play.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c51cf1751d28aced23c49d9dd6c66a26.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c51cf1751d28aced23c49d9dd6c66a26.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/3bcf74e5c12a00bf8d1a6cdc954156c6.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3bcf74e5c12a00bf8d1a6cdc954156c6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5c0c391cfb7673ef6d863e6953288c79.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5c0c391cfb7673ef6d863e6953288c79.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/ab259785a66a2fababb49ff5ba32923f.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ab259785a66a2fababb49ff5ba32923f.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f89214018589bb54834265171394839c.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f89214018589bb54834265171394839c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/2d16a9479307014db6082c9d6b92ca97.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2d16a9479307014db6082c9d6b92ca97.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a062b414c958ea2c6587f6aa137a457f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a062b414c958ea2c6587f6aa137a457f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=Brea1u97s8M
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-4.html
+Content Type: text/html
+
+Uri: https://www.tynker.com/school/
+File Name: C:\Downloaded Web Sites\www.edutech.com\school\index.htm
+Content Type: text/html
+
+Uri: https://sphero.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=OXnQFxBHvZQ
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-5.html
+Content Type: text/html
+
+Uri: https://ozobot.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=ZJT8zNUeNhc
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-6.html
+Content Type: text/html
+
+Uri: https://www.twinscience.com/en/
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\index.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/b0daabfa38b0d4dacdf5363a310625b1.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b0daabfa38b0d4dacdf5363a310625b1.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/28ba5899e8c1e2ff4568b395d17e4806.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\28ba5899e8c1e2ff4568b395d17e4806.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c50f66caa6029537da7f203c4a121d69.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c50f66caa6029537da7f203c4a121d69.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/60c0d09f2119bd9b63f537bd09adf83a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\60c0d09f2119bd9b63f537bd09adf83a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/433f11658676c2ef42d3376de5af6c4b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\433f11658676c2ef42d3376de5af6c4b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/faccf6850a76191458731e82c03e519b.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\faccf6850a76191458731e82c03e519b.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/57a6874c7c0fb03d0413a091b5513f43.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\57a6874c7c0fb03d0413a091b5513f43.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/d6c1e55dddec1345400fdd21708fd921.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d6c1e55dddec1345400fdd21708fd921.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d6acc03e4d2045f7aec95bae7760f4a0.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d6acc03e4d2045f7aec95bae7760f4a0.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/11f88fa2c28c38d2993b3f3134f571e4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\11f88fa2c28c38d2993b3f3134f571e4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b863cbdc15fceebe4a2d3ddab35e0701.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b863cbdc15fceebe4a2d3ddab35e0701.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/915c194e7bcc031dffa720134b81c7cd.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\915c194e7bcc031dffa720134b81c7cd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=nVogkra9qa0
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-7.html
+Content Type: text/html
+
+Uri: https://www.becauselearning.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=FVYxxHn8R-k
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-8.html
+Content Type: text/html
+
+Uri: https://www.ryzerobotics.com/tello-edu
+File Name: C:\Downloaded Web Sites\www.edutech.com\tello-edu.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/a151df0027ae6ff3a5058c1602b2c14e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a151df0027ae6ff3a5058c1602b2c14e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d49f12f41dcc16539a9252fad914de09.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d49f12f41dcc16539a9252fad914de09.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/e20e685a7f57369193dfdf85699f6cb9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e20e685a7f57369193dfdf85699f6cb9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a75cc3a0fecd20619e27542d5b23bf03.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a75cc3a0fecd20619e27542d5b23bf03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=4EDsLayRKQA
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-9.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=0_xPiDLkDFc
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-10.html
+Content Type: text/html
+
+Uri: https://matatalab.com/en
+File Name: C:\Downloaded Web Sites\www.edutech.com\en.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=fK_P4WLR6lg
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-11.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/386101b546dece4fe64072f304059692.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\386101b546dece4fe64072f304059692.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/fa9f4fad46474e980f0488b3c517a4d9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\fa9f4fad46474e980f0488b3c517a4d9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/70ef4c85d0fe5b6bf1dafdb0981efd63.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\70ef4c85d0fe5b6bf1dafdb0981efd63.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/8b4a8fb53da3c0407c42941826f50d0c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8b4a8fb53da3c0407c42941826f50d0c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/61e2a6b9195db44770f9ac8f8320f44f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\61e2a6b9195db44770f9ac8f8320f44f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b951fe1e0d23e788ebc3c9800e9b4910.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b951fe1e0d23e788ebc3c9800e9b4910.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a6baf954c0bfa82695b307a51b3e695d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a6baf954c0bfa82695b307a51b3e695d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/699760269f9f2f5e1fbe189412601303.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\699760269f9f2f5e1fbe189412601303.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/57bd1f081e5e1e33f8c46f44d70769f4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\57bd1f081e5e1e33f8c46f44d70769f4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/66c0dd4aebdb61ed2fcb3b1530e2a6c9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\66c0dd4aebdb61ed2fcb3b1530e2a6c9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5a103b9dec787f60c2486679304bc3ea.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5a103b9dec787f60c2486679304bc3ea.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/56ac8f782cc14da95a234d491c2e10a7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\56ac8f782cc14da95a234d491c2e10a7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=MMYqtCUN5X4
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-12.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=GtJXZzbfk1A
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-13.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=YCAMBxvi-Qw
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-14.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=khIQi3Dubh8
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-15.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/aa3948459a7acd65a254ad42a76e5f86.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\aa3948459a7acd65a254ad42a76e5f86.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/142cd570154d2cc82eabb0315032dba9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\142cd570154d2cc82eabb0315032dba9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/109423ee5159f4a53c2cb01427cd8cde.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\109423ee5159f4a53c2cb01427cd8cde.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/4d1c4009915aa732b22771c1a29528cc.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4d1c4009915aa732b22771c1a29528cc.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f0b89c377494aeb98a99d8812aae5c5e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f0b89c377494aeb98a99d8812aae5c5e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a083e40a1cc39f54378eedf41c711cb4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a083e40a1cc39f54378eedf41c711cb4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b178efcc46a5735720a13d6e336e84ca.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b178efcc46a5735720a13d6e336e84ca.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a8a2ede75d64f8c4e910110721610cf3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a8a2ede75d64f8c4e910110721610cf3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/2bd52e4b810af57edd3d5696206aa0f5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2bd52e4b810af57edd3d5696206aa0f5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/42221aab1a83a7b94f6527b6e43279e1.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\42221aab1a83a7b94f6527b6e43279e1.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1ffc77850ca70d8574237b389741a6ff.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1ffc77850ca70d8574237b389741a6ff.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/09bda89d36d858ee4c5e39c1726b9f06.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\09bda89d36d858ee4c5e39c1726b9f06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/24a573256e9cb51d2a65730152b1dbe0.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\24a573256e9cb51d2a65730152b1dbe0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/eb61f42ae73618d52b6d3c96397c68b4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\eb61f42ae73618d52b6d3c96397c68b4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f0e6a8b61e6e09e393d368a4b4ed1be3.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f0e6a8b61e6e09e393d368a4b4ed1be3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/8d09eb63f52f1c607b70715080e4eac8.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8d09eb63f52f1c607b70715080e4eac8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=ZluyTRFn3OY
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-16.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=jiBCCskKkv8
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-17.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/category/k-12-education/hands-on-steam-kits/www.birdbraintechnologies.com
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\hands-on-steam-kits\www.birdbraintechnologies.com.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=-LysdiKg3RM
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-18.html
+Content Type: text/html
+
+Uri: https://www.birdbraintechnologies.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.ez-robot.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.robotis.us/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=xY1JC-MF0Ao
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-19.html
+Content Type: text/html
+
+Uri: https://www.softbankrobotics.com/emea/en
+File Name: C:\Downloaded Web Sites\www.edutech.com\emea\en.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=oDeQCIkrLvc
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-20.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/2a1db7dcfefa766147fac0f3cd14e06e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2a1db7dcfefa766147fac0f3cd14e06e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/e781cf3e6179c591b092fb9b24aa772d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e781cf3e6179c591b092fb9b24aa772d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b5c1173f5827cf10a31b2fc18df29026.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b5c1173f5827cf10a31b2fc18df29026.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d81eabe3d386b11b1ab51b187dcdd559.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d81eabe3d386b11b1ab51b187dcdd559.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f9be4143b833a6dc4c71dc99472d5a3b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f9be4143b833a6dc4c71dc99472d5a3b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/0cee9c88196337c8d3886d029400dec5.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0cee9c88196337c8d3886d029400dec5.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/28225c5b6f01bea062ec890e67a2ad6e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\28225c5b6f01bea062ec890e67a2ad6e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/6d213859edc4d40d593fdd4b33c82a0a.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6d213859edc4d40d593fdd4b33c82a0a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b29dab5a5cf07810bb855c0175ef182e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b29dab5a5cf07810bb855c0175ef182e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/009e56513c1be9fe7615d7b643146e1a.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\009e56513c1be9fe7615d7b643146e1a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/af415c9c0096ff3aa8adaee9641e5d57.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\af415c9c0096ff3aa8adaee9641e5d57.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5b976a14e5c9c8cf5b7d38a575e7c63a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5b976a14e5c9c8cf5b7d38a575e7c63a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/30eb36c3123d7095ab274bd77a94996c.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\30eb36c3123d7095ab274bd77a94996c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/9c2393bb5ade101d96c5466a5623aff8.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9c2393bb5ade101d96c5466a5623aff8.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/191b11d016e69c4cddb17b3ec3217ea1.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\191b11d016e69c4cddb17b3ec3217ea1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a8c2e949b843141ded463756c2200b71.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a8c2e949b843141ded463756c2200b71.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1023e5b96d2dfb9c9ee0cceb0ca9c0b7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1023e5b96d2dfb9c9ee0cceb0ca9c0b7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/cedcbca7fd6a8559f5f19d9fac3a8e13.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cedcbca7fd6a8559f5f19d9fac3a8e13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/635fd18d0f2eb2e618b7251229429e21.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\635fd18d0f2eb2e618b7251229429e21.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/42632a3821002b1816abc8e7a670095a.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\42632a3821002b1816abc8e7a670095a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=KhlRCzFixxY
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-21.html
+Content Type: text/html
+
+Uri: https://globisens.net/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-13.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/6b8f4425a23cd17bfdbdba7858e01370.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6b8f4425a23cd17bfdbdba7858e01370.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f9a0ffc1518831bc710fb9134a34c9dd.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f9a0ffc1518831bc710fb9134a34c9dd.jpg
+Content Type: image/jpeg
+
+Uri: https://h-tec-education.com/index.php?route=common/home
+File Name: C:\Downloaded Web Sites\www.edutech.com\index.php.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/8c0bf3fc778456ee2df57ffcdb44c699.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8c0bf3fc778456ee2df57ffcdb44c699.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/eed0d58759f0e1095ee6c1b7f2964c2a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\eed0d58759f0e1095ee6c1b7f2964c2a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/20fe18c84344964a8f60c5dddb3a027e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\20fe18c84344964a8f60c5dddb3a027e.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=928Xo2_Xwgg
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-22.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/8c032e88f27e8173af5dd570954b4690.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8c032e88f27e8173af5dd570954b4690.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/3d54604b6dd423c88c758236f791abdc.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3d54604b6dd423c88c758236f791abdc.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/e47be7dc742093b32a828f78b456871a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e47be7dc742093b32a828f78b456871a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/e1a0f44978a237bc8c243341371e831c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e1a0f44978a237bc8c243341371e831c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a38508f91d4e16aa732a09e18d566583.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a38508f91d4e16aa732a09e18d566583.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=L6te5rBGI8E
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-23.html
+Content Type: text/html
+
+Uri: https://www.waicy.org/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-14.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/3907dd089307f4b271ee187131ac90d7.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3907dd089307f4b271ee187131ac90d7.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/450b617ddcfcbb9daa37a5abc745bd26.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\450b617ddcfcbb9daa37a5abc745bd26.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/7b7562787dc130c0d5012c0ede06eb7f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7b7562787dc130c0d5012c0ede06eb7f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/65c65896bfbc56a70c09505cc2d1cd97.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\65c65896bfbc56a70c09505cc2d1cd97.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/81255ebfb40a68d3ffc465799c2c132a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\81255ebfb40a68d3ffc465799c2c132a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d5dc6220a3ef8333317308dd3610ee20.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d5dc6220a3ef8333317308dd3610ee20.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9078813be3a83c1ec5a0811133081bb5.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9078813be3a83c1ec5a0811133081bb5.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/758bb513f4f12c88a442a978d39e5162.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\758bb513f4f12c88a442a978d39e5162.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/615e697f5df643988fb3efacea0f1d76.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\615e697f5df643988fb3efacea0f1d76.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/96a615b97c546e4e13296830730a5378.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\96a615b97c546e4e13296830730a5378.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1a6e6215ad14790b63b371a994d7af68.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1a6e6215ad14790b63b371a994d7af68.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/77641ce7c019ec65d39356c1ed3e7feb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\77641ce7c019ec65d39356c1ed3e7feb.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/category/k-12-education/innovation-hubs/Test
+File Name: C:\Downloaded Web Sites\www.edutech.com\category\k-12-education\innovation-hubs\Test.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/8ad9a147d43a74bf69816e7b32e56424.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8ad9a147d43a74bf69816e7b32e56424.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/cc0c7e10e14de0f39524b13b81d1bbed.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cc0c7e10e14de0f39524b13b81d1bbed.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d7dd6aa9fa53ba3d0e6e65d4539c391c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d7dd6aa9fa53ba3d0e6e65d4539c391c.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=VUez5TxxVro
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-24.html
+Content Type: text/html
+
+Uri: https://www.class.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-15.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/9bdd1c85338b4fef9e96433b183e07fb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9bdd1c85338b4fef9e96433b183e07fb.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/269aefb45f9df131e4554ef18611130b.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\269aefb45f9df131e4554ef18611130b.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5c2168f70faf6e6de1124c617aca03ca.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5c2168f70faf6e6de1124c617aca03ca.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/717b4a7a7f734c0f0a6f28f94ad669ac.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\717b4a7a7f734c0f0a6f28f94ad669ac.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/4e555a205c80a8ba4887251adef70ff3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4e555a205c80a8ba4887251adef70ff3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/cd48e49fcb13065c95c72a0b7491b8fb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cd48e49fcb13065c95c72a0b7491b8fb.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/94deddcaf9897e1a0560d41b43e24ba3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\94deddcaf9897e1a0560d41b43e24ba3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9d78e6a6c90ff9c34a1e8ec12ec6e289.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9d78e6a6c90ff9c34a1e8ec12ec6e289.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/8d7558dc9d835458f59a900935a1d16f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8d7558dc9d835458f59a900935a1d16f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/52b3e11018383a60c90feaae5d807a37.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\52b3e11018383a60c90feaae5d807a37.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/19eddb0dd5f64da6a489ecbe9853a026.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\19eddb0dd5f64da6a489ecbe9853a026.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=3D6ijOYUdj0
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-25.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/cab6e21bd163d6fd0a5b5e37730b4b96.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cab6e21bd163d6fd0a5b5e37730b4b96.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/e22564d283bcfaa8d98a71f3a8fb517f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e22564d283bcfaa8d98a71f3a8fb517f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.showbie.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-16.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/2388aef85cd49d2e0de3c05a54a7b18b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2388aef85cd49d2e0de3c05a54a7b18b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/fd3fb240d0e61cd051dc48ac4f2d4d97.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\fd3fb240d0e61cd051dc48ac4f2d4d97.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/1c70f01c4a75b9ffcf0e4839a50f5ef9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1c70f01c4a75b9ffcf0e4839a50f5ef9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/911d6f05e41f6bdd41376bf0cb304864.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\911d6f05e41f6bdd41376bf0cb304864.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/9ba1c0e76460738d7a81ff7ef6bbd7c0.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9ba1c0e76460738d7a81ff7ef6bbd7c0.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/ee7febf8ce91eb4904ed7f1b1a496d41.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ee7febf8ce91eb4904ed7f1b1a496d41.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/836ea7f016e65f0ae84bec227a7dbae9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\836ea7f016e65f0ae84bec227a7dbae9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5072b473253d07c6e7919aa90c09923f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5072b473253d07c6e7919aa90c09923f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/6392a5b17cc0525d7b9d9d8c6248f9e4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6392a5b17cc0525d7b9d9d8c6248f9e4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6b7d2c1a0b87709a640b17ac3fb9cad0.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6b7d2c1a0b87709a640b17ac3fb9cad0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=w7h_J8fYXNc
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-26.html
+Content Type: text/html
+
+Uri: https://www.texthelp.com/products/read-and-write-education/
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\read-and-write-education\index.htm
+Content Type: text/html
+
+Uri: https://www.texthelp.com/products/equatio/
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\equatio\index.htm
+Content Type: text/html
+
+Uri: https://www.texthelp.com/products/wriq/
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\wriq\index.htm
+Content Type: text/html
+
+Uri: https://www.texthelp.com/products/fluency-tutor/
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\fluency-tutor\index.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/774379b465fc3d15ce34c1beee810857.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\774379b465fc3d15ce34c1beee810857.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6fa3d7952b3e1ad9fd1eb75879d7d12a.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6fa3d7952b3e1ad9fd1eb75879d7d12a.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/fa01debb998b25d17750c2828724a488.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\fa01debb998b25d17750c2828724a488.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/bac632442fbed48f29d93a6935c1de0f.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\bac632442fbed48f29d93a6935c1de0f.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/7d5def908418a6c37e533df1226b741d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7d5def908418a6c37e533df1226b741d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/cf5a7942de985e01d1a066550b3e4a94.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cf5a7942de985e01d1a066550b3e4a94.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/08bf772b3348dd2fe67d208903d9040d.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\08bf772b3348dd2fe67d208903d9040d.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/57bf4b31b1ca1a7016f3981b673253c6.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\57bf4b31b1ca1a7016f3981b673253c6.png
+Content Type: image/png
+
+Uri: https://www.ouriginal.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-17.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/9acea833f1f4fd4fb498c721f80213bb.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9acea833f1f4fd4fb498c721f80213bb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/0eaf9e1099833fb318a24de377c53048.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0eaf9e1099833fb318a24de377c53048.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=tinTeMlfiCQ
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-27.html
+Content Type: text/html
+
+Uri: https://www.buildingblocksofscience.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-18.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/9207e2d60d26ec4966ad79f392ac65bd.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9207e2d60d26ec4966ad79f392ac65bd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/88f85f5796d1e8a288b0f13388181555.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\88f85f5796d1e8a288b0f13388181555.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a932e7dd06e46cf471ffb611d69b545a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a932e7dd06e46cf471ffb611d69b545a.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=DKSkxp4_Jks
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-28.html
+Content Type: text/html
+
+Uri: https://www.vrlabacademy.com/Experiments.html?ID=503
+File Name: C:\Downloaded Web Sites\www.edutech.com\Experiments.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/be0c70046719cbf3544af39b4ab717b3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\be0c70046719cbf3544af39b4ab717b3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/ecd47cfb870d7c9756a238a219b9d8fb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ecd47cfb870d7c9756a238a219b9d8fb.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9a06e212de977c9c83a1f27de76b2d4e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9a06e212de977c9c83a1f27de76b2d4e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b9bf768f1ab7a66107fd5959a3fa8f91.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b9bf768f1ab7a66107fd5959a3fa8f91.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/d484e71064029960b8cc8a0771f4a99e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d484e71064029960b8cc8a0771f4a99e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b2beed1e35422df5b3eb9c4821ca1e3c.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b2beed1e35422df5b3eb9c4821ca1e3c.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b9e224dfaa6e60e157216fc5ea78e6d3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b9e224dfaa6e60e157216fc5ea78e6d3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/996f8756ed0d6597ba4c2f1cfd633a93.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\996f8756ed0d6597ba4c2f1cfd633a93.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/e1968199143e1c0c17ebcdddeef84b7f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e1968199143e1c0c17ebcdddeef84b7f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=L4npDTVFVOM
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-29.html
+Content Type: text/html
+
+Uri: https://cloudlabs.us/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-19.htm
+Content Type: text/html
+
+Uri: https://cloudlabs.us/virtual-stem/
+File Name: C:\Downloaded Web Sites\www.edutech.com\virtual-stem\index.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/e764854910332dc8331889ff7b1309aa.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e764854910332dc8331889ff7b1309aa.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/4fdd2cc7087eda976e43bb39a482d1e2.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4fdd2cc7087eda976e43bb39a482d1e2.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/935319339f603b897d2fa67091db7d30.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\935319339f603b897d2fa67091db7d30.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/d9181b1cfc142e473982d34063146f34.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d9181b1cfc142e473982d34063146f34.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/bf1bb7e7f1c1edc4d8503d7b296913cb.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\bf1bb7e7f1c1edc4d8503d7b296913cb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/3d02777b32176c6657affd9fc1b86f8b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3d02777b32176c6657affd9fc1b86f8b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/85f4390da02ee26c596e817b4812ba72.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\85f4390da02ee26c596e817b4812ba72.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/8c4841a1fec3649c6dd1c274d97fb495.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8c4841a1fec3649c6dd1c274d97fb495.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/0272b162ae312676adb341ff7475841d.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0272b162ae312676adb341ff7475841d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/be9bd4a1f2642a22414165fdc373ae59.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\be9bd4a1f2642a22414165fdc373ae59.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/cb57616ed53187c2f746656867605da6.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cb57616ed53187c2f746656867605da6.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=qSTVPvRtjEs
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-30.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/9b6f92552423dcca1031ad0117d9c8fb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9b6f92552423dcca1031ad0117d9c8fb.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/3c1e72febd6880abc90638e9abec9160.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3c1e72febd6880abc90638e9abec9160.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/2833d0839887b65cbb295ce7aa69fc3e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2833d0839887b65cbb295ce7aa69fc3e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/3d4d4cb1d767d31d783f9e42b9f5b8e0.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3d4d4cb1d767d31d783f9e42b9f5b8e0.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b6792170ceb4a3c1b7dcd63fa85a26dd.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b6792170ceb4a3c1b7dcd63fa85a26dd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/261cf0a780ec30d8ea2d41a71a621d17.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\261cf0a780ec30d8ea2d41a71a621d17.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f142682e639c3c5f9397c6e45cc2bb4f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f142682e639c3c5f9397c6e45cc2bb4f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/9337a069f42d93a001c0e9e6d223e261.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9337a069f42d93a001c0e9e6d223e261.PNG
+Content Type: image/png
+
+Uri: https://rmresults.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-20.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/2e00f30f4cbc6e61f73cc51dad5a6189.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2e00f30f4cbc6e61f73cc51dad5a6189.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/becb54b3ca8690d0b3b45b453e4c62fa.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\becb54b3ca8690d0b3b45b453e4c62fa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/0855044016c4a6f06628cbaa9e994813.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0855044016c4a6f06628cbaa9e994813.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/99b00737381e33d9ba83aaa9f7d748a2.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\99b00737381e33d9ba83aaa9f7d748a2.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/497df76213cd784993f10c700f49ee2b.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\497df76213cd784993f10c700f49ee2b.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/373ea71c856a3de3734c00524a5b10c2.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\373ea71c856a3de3734c00524a5b10c2.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/7e7f72efae1d87b8c25f7eb9ad022e57.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7e7f72efae1d87b8c25f7eb9ad022e57.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=bWhsIwrdJN4
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-31.html
+Content Type: text/html
+
+Uri: https://www.infobase.com/product/schools/learn360-subscription/
+File Name: C:\Downloaded Web Sites\www.edutech.com\product\schools\learn360-subscription\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=kxnQGjNwzec
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-32.html
+Content Type: text/html
+
+Uri: https://www.infobase.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-21.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/d6c89a18e5053b26b97de8ed2e034774.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d6c89a18e5053b26b97de8ed2e034774.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/e4b59a8b0bcffc1c8ab7501f1d87a137.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e4b59a8b0bcffc1c8ab7501f1d87a137.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b923be621fb2f470d95448616e0ef8e7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b923be621fb2f470d95448616e0ef8e7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/e30774b5f9473de2b6cced2859851dcf.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e30774b5f9473de2b6cced2859851dcf.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1815b3696529797d048d2a21fd5f8ea1.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1815b3696529797d048d2a21fd5f8ea1.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6d6603788939f77a73692e020bebc6a9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6d6603788939f77a73692e020bebc6a9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/de6ecee45a0652371f04da4ce3bf039f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\de6ecee45a0652371f04da4ce3bf039f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5844f3ef53c38d42af6272467d71b0fe.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5844f3ef53c38d42af6272467d71b0fe.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/18b40c68667f94f37b03316ad6b739b4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\18b40c68667f94f37b03316ad6b739b4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/6671199c801f0ebcd96a6caf3a3f1ebb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6671199c801f0ebcd96a6caf3a3f1ebb.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a518417fc4f52f48c036acfcceffa560.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a518417fc4f52f48c036acfcceffa560.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/25844c5c3c6205f8b8719af76cd634c5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\25844c5c3c6205f8b8719af76cd634c5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/33c4be6405dda3320b379a05ef4325be.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\33c4be6405dda3320b379a05ef4325be.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/ffa54fee2604788168ea41ed8605598c.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ffa54fee2604788168ea41ed8605598c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a38b95a750e77dc76dbaafd50a1ce63a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a38b95a750e77dc76dbaafd50a1ce63a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6337950296c85cd1b5907ba17c2d6d08.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6337950296c85cd1b5907ba17c2d6d08.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oclc.org/en/worldcat-discovery.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\worldcat-discovery.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/761a41a26b0ab85dd7e36419cf52d751.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\761a41a26b0ab85dd7e36419cf52d751.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/1c52011c54bca882a275753c7ff02659.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1c52011c54bca882a275753c7ff02659.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oclc.org/en/worldshare-ill.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\worldshare-ill.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/5595d5c6370bd5878a3641e50582f065.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5595d5c6370bd5878a3641e50582f065.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/509106bfbc186d0d9299d7cf96cf9a84.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\509106bfbc186d0d9299d7cf96cf9a84.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b8c80ed98ac55664a9373419b1de32a0.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b8c80ed98ac55664a9373419b1de32a0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/3636fbd68e8b4262856b96a5e815be0e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3636fbd68e8b4262856b96a5e815be0e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oclc.org/en/ezproxy.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\ezproxy.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/e3d29fa672c5ee04042355de37a96e20.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e3d29fa672c5ee04042355de37a96e20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/bf004e29a1cce6daf4d6e19f4bd005f5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\bf004e29a1cce6daf4d6e19f4bd005f5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/7243298c03525cf0b80e6d2653b4f3c5.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7243298c03525cf0b80e6d2653b4f3c5.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/ec31d54d400140b691899b6132399dc9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ec31d54d400140b691899b6132399dc9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/31197aaac41c8cba34296a94abd00f40.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\31197aaac41c8cba34296a94abd00f40.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/1e6052161ee895085707b6aedff4362b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1e6052161ee895085707b6aedff4362b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a9963f35d8994e72acc574835b59f2b3.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a9963f35d8994e72acc574835b59f2b3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/daee3697a78f3c49e820b0d3d162a8c5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\daee3697a78f3c49e820b0d3d162a8c5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/07ddb9cb25ef75f893ed5dcc69b4e964.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\07ddb9cb25ef75f893ed5dcc69b4e964.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/295eeb03197526a8d4989844a1be07d1.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\295eeb03197526a8d4989844a1be07d1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/3da3c2414b5187fb4a6b5741bee405d5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3da3c2414b5187fb4a6b5741bee405d5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/3230edde7519e935b28c1fe0603345c9.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3230edde7519e935b28c1fe0603345c9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/824915b5f8529eeb59caafea60b96e03.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\824915b5f8529eeb59caafea60b96e03.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=ZQPNNd0u1Qk
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-33.html
+Content Type: text/html
+
+Uri: https://www.instructure.com/en-gb/canvas
+File Name: C:\Downloaded Web Sites\www.edutech.com\en-gb\canvas.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/c8dbb583df24342859733a2b105f8380.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c8dbb583df24342859733a2b105f8380.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f860f5a916c514b8a3fb9e095e6f4e71.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f860f5a916c514b8a3fb9e095e6f4e71.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/df92eac88dbc5ecf76f1463d8207de8f.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\df92eac88dbc5ecf76f1463d8207de8f.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/14736d227d91e9489470ef94ae7c402d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\14736d227d91e9489470ef94ae7c402d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6d2c80d023f87859effc668438760db3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6d2c80d023f87859effc668438760db3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/0cf10ffd1879d703c935bf69f3f069c0.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0cf10ffd1879d703c935bf69f3f069c0.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/82ae77bae4fcf1d472552ff2fb93e272.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\82ae77bae4fcf1d472552ff2fb93e272.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/89024dc096b5af89c8fe7e2a7806d79a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\89024dc096b5af89c8fe7e2a7806d79a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1fd1b415a8b9addf4936d71375bfb944.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1fd1b415a8b9addf4936d71375bfb944.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=DQ_B03WmuAA
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-34.html
+Content Type: text/html
+
+Uri: https://echo360.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-22.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/cdd5e1981417b0074a388f637991feb5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cdd5e1981417b0074a388f637991feb5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/6ab9c4c1b580cffdb0878611a3879767.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6ab9c4c1b580cffdb0878611a3879767.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/bfa2f53a3ba0b36d8353da6f778c6b06.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\bfa2f53a3ba0b36d8353da6f778c6b06.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/90d100c89d1621430932f7a21c581a8b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\90d100c89d1621430932f7a21c581a8b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/2de0b9a359ff569810e4aefa5dd4e89c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2de0b9a359ff569810e4aefa5dd4e89c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/dcc6f88630253386919417e2aa40e88f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\dcc6f88630253386919417e2aa40e88f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/01b2ef416eacce0aa1af4d3b68f36750.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\01b2ef416eacce0aa1af4d3b68f36750.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9e41c2600e78d0ad65a17f30fe4aae99.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9e41c2600e78d0ad65a17f30fe4aae99.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=1emu3C70LUM
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-35.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=04m-hBYNByk
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-36.html
+Content Type: text/html
+
+Uri: https://www.vrlabacademy.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-23.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=ET-VWvbYx0U
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-37.html
+Content Type: text/html
+
+Uri: https://hubro.education/en/
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\index-1.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/776fecaaf39230da0af137007cb0bbb2.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\776fecaaf39230da0af137007cb0bbb2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/90d6dc18541b1a108fcfd839cd5c6136.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\90d6dc18541b1a108fcfd839cd5c6136.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a43435f1e28ded3c9a3e51f34f2f14a9.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a43435f1e28ded3c9a3e51f34f2f14a9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/cf630bb8fb71ea2232c2fc29c68f878c.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cf630bb8fb71ea2232c2fc29c68f878c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/4773a91c9e55b89fd8351f9264b03d09.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4773a91c9e55b89fd8351f9264b03d09.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/69d7cb4f812ac2087ea413986cf1592f.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\69d7cb4f812ac2087ea413986cf1592f.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/0a92662d58d7da95be8f1466df3a8341.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0a92662d58d7da95be8f1466df3a8341.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/7256e7d957f381a26671d5ac63667925.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7256e7d957f381a26671d5ac63667925.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/cfccdf68354b7b0cf9d5a42217af6745.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\cfccdf68354b7b0cf9d5a42217af6745.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/24b5c79e4e6cc54a02098e65b5162fc5.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\24b5c79e4e6cc54a02098e65b5162fc5.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/4d3710df0ce15305269f4af14b29b94e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4d3710df0ce15305269f4af14b29b94e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c696ec5f4875186ce89e23cb749ff3d3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c696ec5f4875186ce89e23cb749ff3d3.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=sFB08tDm-gc
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-38.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/76a9d4a719835a6c7068da499324693e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\76a9d4a719835a6c7068da499324693e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/16cecc57e3c44913e29602b5dc263ed3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\16cecc57e3c44913e29602b5dc263ed3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b50602e6f7cfcee614b6458c523f650e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b50602e6f7cfcee614b6458c523f650e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c810affef403a612fc763891570ee242.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c810affef403a612fc763891570ee242.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/fa290315acae3fe3302122f53e7dc1bc.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\fa290315acae3fe3302122f53e7dc1bc.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/eb6352aaf9b50a5b8dc519d8a324ad9e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\eb6352aaf9b50a5b8dc519d8a324ad9e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/78389d775dbf3bf7ee8469a0451d147f.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\78389d775dbf3bf7ee8469a0451d147f.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1797b2b28e99624d1c0e1f5977c10d61.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1797b2b28e99624d1c0e1f5977c10d61.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/b2d76097c955685f9c21e985ef1694c7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b2d76097c955685f9c21e985ef1694c7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/2588a5f76045af39656430910923aeca.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2588a5f76045af39656430910923aeca.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/717f54aa85c2ea43c64a279aa84e8cb0.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\717f54aa85c2ea43c64a279aa84e8cb0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/50839dfa6b5443b7847e2ec1def79784.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\50839dfa6b5443b7847e2ec1def79784.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/0110e68f962a9f1255bfdfb7038e8861.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0110e68f962a9f1255bfdfb7038e8861.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/3dc5dc94b8bf6469f24af833af6bc097.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3dc5dc94b8bf6469f24af833af6bc097.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a040170fe0a46affcdc08980c11f4a74.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a040170fe0a46affcdc08980c11f4a74.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/1df2529c31c3c5692b083ce02e3e8594.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1df2529c31c3c5692b083ce02e3e8594.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d18d3eaeb1df236156349046bc93d0eb.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d18d3eaeb1df236156349046bc93d0eb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oclc.org/en/contentdm.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\contentdm.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/1cad899c4169e3f7ac169e3beecb6afc.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1cad899c4169e3f7ac169e3beecb6afc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/8207a9cec85f1f62d408d137fb98fcc4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8207a9cec85f1f62d408d137fb98fcc4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=4bwvsU8im4M
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-39.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/81017b5875713ff0406c3138e6f21d3b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\81017b5875713ff0406c3138e6f21d3b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/2cfcfb1dfb7a5ee9e54ce5a9f561c2aa.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2cfcfb1dfb7a5ee9e54ce5a9f561c2aa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/94a088257a667bdd4a90f4fd0981d4e6.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\94a088257a667bdd4a90f4fd0981d4e6.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/db396c60d507223187c8c80b1605064d.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\db396c60d507223187c8c80b1605064d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b94f78de5abf37ae31a33ccd4e176e72.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b94f78de5abf37ae31a33ccd4e176e72.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/e429d8189a80daa843436f8522d4951d.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e429d8189a80daa843436f8522d4951d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/3e9209eaed287f7e63e90d80d2a55443.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3e9209eaed287f7e63e90d80d2a55443.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a66a6b06e414091cffdab53858e51064.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a66a6b06e414091cffdab53858e51064.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5e1bb8aa03729d6f7b7bd57d9f238c05.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5e1bb8aa03729d6f7b7bd57d9f238c05.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6ec03d46f560c179d9aa7619056a3420.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6ec03d46f560c179d9aa7619056a3420.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/c34bd888b9b65793408f6d4d04f9fb56.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c34bd888b9b65793408f6d4d04f9fb56.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/7cf995db1bac5eb278566ef9aeb3eee7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7cf995db1bac5eb278566ef9aeb3eee7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/75bbbd124dd775e7311bd89f174125a5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\75bbbd124dd775e7311bd89f174125a5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/fb11eb57312e7d1b837210c5168ddad1.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\fb11eb57312e7d1b837210c5168ddad1.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/575fff5cf219b878871ad1267afb169d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\575fff5cf219b878871ad1267afb169d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/ee1b5c18c412a55f3f447654b2c6a197.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ee1b5c18c412a55f3f447654b2c6a197.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/be9e0d1100463429e4c5bea224e2d71d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\be9e0d1100463429e4c5bea224e2d71d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/864fcd5ffa2b05345b38ede8fa9b5d9c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\864fcd5ffa2b05345b38ede8fa9b5d9c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c9553c9b93dccfc3bfff339af840bea4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c9553c9b93dccfc3bfff339af840bea4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d492ce86c4dd8886c1a63ad6089b70ce.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d492ce86c4dd8886c1a63ad6089b70ce.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/92cdb01bedff9c2392593b26aadd3f5e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\92cdb01bedff9c2392593b26aadd3f5e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/f256fe95f576365e0a95efcbc5f61f19.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f256fe95f576365e0a95efcbc5f61f19.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/22118507f9f742f372af228814763aad.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\22118507f9f742f372af228814763aad.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/58b095c95c7a418ca5154d525174787a.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\58b095c95c7a418ca5154d525174787a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/e84a059425c0be3a19229173bed1daa8.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e84a059425c0be3a19229173bed1daa8.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a4f3a22d188cf26192ee69ecd06c9b33.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a4f3a22d188cf26192ee69ecd06c9b33.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/e4aead4aa7896870159578c51770c404.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e4aead4aa7896870159578c51770c404.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f9f9b8b4f3aeb57741643226a8adce12.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f9f9b8b4f3aeb57741643226a8adce12.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/62f5614fec66fd84b9c23dfd0b47cd6f.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\62f5614fec66fd84b9c23dfd0b47cd6f.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a8eed9f9bcda4cc4e6a4926d5b3ede02.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a8eed9f9bcda4cc4e6a4926d5b3ede02.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/8c05e56d0e7e160fa2a0bd9c17cfc6c5.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8c05e56d0e7e160fa2a0bd9c17cfc6c5.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1b5daf6f86c7e032584e6cbed9016b47.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1b5daf6f86c7e032584e6cbed9016b47.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/025f26307b1c6b4cca874cd42734355e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\025f26307b1c6b4cca874cd42734355e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a0c9e5ed53db6c1169c9ab5eb190fbf1.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a0c9e5ed53db6c1169c9ab5eb190fbf1.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/828cab245622bf6305c6275d896db2c9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\828cab245622bf6305c6275d896db2c9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d52fc85a3927540040ceacff135ca61c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d52fc85a3927540040ceacff135ca61c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/daef057a77e143d2d4a8b54e971805f7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\daef057a77e143d2d4a8b54e971805f7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a0278586ea778b7b5c347296eedf020e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a0278586ea778b7b5c347296eedf020e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/60928bdf7951cf91f9ac9d064b555aed.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\60928bdf7951cf91f9ac9d064b555aed.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/847dada27d57ccded03c183f26732f2b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\847dada27d57ccded03c183f26732f2b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/aa798026aad934d9597720e80f177576.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\aa798026aad934d9597720e80f177576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/56830406d919f8d98b3a40bf9f18e32b.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\56830406d919f8d98b3a40bf9f18e32b.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/078ad280c2dd14b69ccb1dbda3d0dfbf.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\078ad280c2dd14b69ccb1dbda3d0dfbf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/0732848f797ce9c2ab0ca3a054a8efe9.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0732848f797ce9c2ab0ca3a054a8efe9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/6cfd5e30da3ed6dea04153e126be1c1b.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6cfd5e30da3ed6dea04153e126be1c1b.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/21b42f12a07012c31cd575db74b24fe8.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\21b42f12a07012c31cd575db74b24fe8.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/8cb871d621ed646f8ccfa5f449ca6b84.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8cb871d621ed646f8ccfa5f449ca6b84.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d843f9e972e3f5c56bd5f081c1f4bfd5.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d843f9e972e3f5c56bd5f081c1f4bfd5.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/68f718071905830faec2335ef1a6deaa.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\68f718071905830faec2335ef1a6deaa.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/af3ce2843c0b19244901cce59bb8f55c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\af3ce2843c0b19244901cce59bb8f55c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/63615feee2d22d8fc1a282559d1b04b7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\63615feee2d22d8fc1a282559d1b04b7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c28d7f7accb2bda49bd8cabcfff798d7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c28d7f7accb2bda49bd8cabcfff798d7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9006aea68a6b9036901b980eb224aac4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9006aea68a6b9036901b980eb224aac4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5f649ac12614aba123f4454591cdcb76.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5f649ac12614aba123f4454591cdcb76.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/65f9f2e24b3b2d8112fa35a5ab3a0e29.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\65f9f2e24b3b2d8112fa35a5ab3a0e29.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1c380ff61cc2924190723181d746dad7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1c380ff61cc2924190723181d746dad7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c5b5136d579d7c07ebf2d7bb5f4d660a.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c5b5136d579d7c07ebf2d7bb5f4d660a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=_f84GjhVy1Q
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-40.html
+Content Type: text/html
+
+Uri: https://zspace.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-25.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=T-6Upy6Yq4I
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-41.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=8Ghh-lmn7N0
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-42.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=p01jXEyWiOA
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-43.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/f21124a70086b324c73e9c54db3d5f6e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f21124a70086b324c73e9c54db3d5f6e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/310ff1c61c310cd899cd2ffc2622951c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\310ff1c61c310cd899cd2ffc2622951c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/4405b2985f1abe891b8a9fb17fc181ce.gif
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4405b2985f1abe891b8a9fb17fc181ce.gif
+Content Type: image/gif
+
+Uri: https://www.edutech.com/uploads/images/16de5d2353e81f2303a863b5d18afb35.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\16de5d2353e81f2303a863b5d18afb35.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/40f7187c49279b23293bd0b7cb8e0de3.gif
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\40f7187c49279b23293bd0b7cb8e0de3.gif
+Content Type: image/gif
+
+Uri: https://www.edutech.com/uploads/images/d3b837f27effab51f2efdf02370d5dd4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d3b837f27effab51f2efdf02370d5dd4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/58f5b30938f290549ddc0e2632213db3.gif
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\58f5b30938f290549ddc0e2632213db3.gif
+Content Type: image/gif
+
+Uri: https://www.edutech.com/uploads/images/f594f40f0b5b1bc549f570e8b27f603a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f594f40f0b5b1bc549f570e8b27f603a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/691b675d3cbc43fa8be8f0f0587e01cd.gif
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\691b675d3cbc43fa8be8f0f0587e01cd.gif
+Content Type: image/gif
+
+Uri: https://www.edutech.com/uploads/images/539dd1fc54021c819cfea7581a4fd382.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\539dd1fc54021c819cfea7581a4fd382.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/99d6a8f4cc303b07e44ca99ef98b94a8.gif
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\99d6a8f4cc303b07e44ca99ef98b94a8.gif
+Content Type: image/gif
+
+Uri: https://www.edutech.com/uploads/images/f9777b288e7758a7cc69b990301ba364.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f9777b288e7758a7cc69b990301ba364.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/31e58120b97b0fdb36baaf113bc441dd.gif
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\31e58120b97b0fdb36baaf113bc441dd.gif
+Content Type: image/gif
+
+Uri: https://www.edutech.com/uploads/images/fb713a6212e35618fef1e679f87d0d78.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\fb713a6212e35618fef1e679f87d0d78.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/42b8a0b6b527ec7679e84850467827bb.gif
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\42b8a0b6b527ec7679e84850467827bb.gif
+Content Type: image/gif
+
+Uri: https://www.edutech.com/uploads/images/3a8c3f1efa845ed705479422140984cc.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3a8c3f1efa845ed705479422140984cc.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/8f928dedd787d721291d6f17cf2d6516.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8f928dedd787d721291d6f17cf2d6516.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/7076c5c255d551b56a851ab5810d1ae3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7076c5c255d551b56a851ab5810d1ae3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d05d67b56cc748a3be31728dc5549a4e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d05d67b56cc748a3be31728dc5549a4e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/83aca0020b2e5f0c7bdc0d7165f88820.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\83aca0020b2e5f0c7bdc0d7165f88820.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/d0aae9f28410a0d93c40dbb0ec67d15a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d0aae9f28410a0d93c40dbb0ec67d15a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/4071bfac07e37c60fd3a8116a6dd52ae.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4071bfac07e37c60fd3a8116a6dd52ae.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5a2d939c317451e36c985d3153c7c1dd.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5a2d939c317451e36c985d3153c7c1dd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/034d89fb0586230c005d3de323980ffa.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\034d89fb0586230c005d3de323980ffa.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9a5e16e4763cd41cdded44d17ffed6d3.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9a5e16e4763cd41cdded44d17ffed6d3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/72caed52ec84db837920164182ad3f10.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\72caed52ec84db837920164182ad3f10.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1dc0a966e4ab051144cc5229aaf29341.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1dc0a966e4ab051144cc5229aaf29341.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/ff9dc2b5e8cfb6ade54822e15199a095.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ff9dc2b5e8cfb6ade54822e15199a095.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5d6526f457f7ab3f6457bea3696d4374.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5d6526f457f7ab3f6457bea3696d4374.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/72e271246832d8cd73121904fb1b663a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\72e271246832d8cd73121904fb1b663a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c7f150b5c7ec2bac9dbdcff73f5d603f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c7f150b5c7ec2bac9dbdcff73f5d603f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/1b0789d13fcdc4628d37ef43da433d92.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1b0789d13fcdc4628d37ef43da433d92.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/eb0d0f27e096573789084c15edbd1d77.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\eb0d0f27e096573789084c15edbd1d77.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6649908c5aa3cb1ef8c86e7d37dc5706.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6649908c5aa3cb1ef8c86e7d37dc5706.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/8496eb23d8d6c3ba3d09d61c4489077e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8496eb23d8d6c3ba3d09d61c4489077e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/7285c05575a27daa28646b8c5967ad0e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7285c05575a27daa28646b8c5967ad0e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/bf381036ae970b3ffaa5c0f2a3a3d041.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\bf381036ae970b3ffaa5c0f2a3a3d041.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/ab2857702f0a0ab2354c6f627e48e6c4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ab2857702f0a0ab2354c6f627e48e6c4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/ec21eb94ad7db205382a714f579a232e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ec21eb94ad7db205382a714f579a232e.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=Zz7r_wLRf5k
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-44.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/f3b6d31a808c99036688e9ce5e2bc592.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f3b6d31a808c99036688e9ce5e2bc592.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/e9b945ea4ea71027e73c3b27e7361c6b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e9b945ea4ea71027e73c3b27e7361c6b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b88c73d843831f7284a1e93c708d076d.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b88c73d843831f7284a1e93c708d076d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/0bc21383a1865e51e16553c7c795ba9d.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0bc21383a1865e51e16553c7c795ba9d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/05e8045f4c4065bee6a396c72411148e.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\05e8045f4c4065bee6a396c72411148e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b1569d9bc58e2acdba74f667fcadb2f4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b1569d9bc58e2acdba74f667fcadb2f4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/fa814c0bdfce281f3f3bcff741e0eb1c.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\fa814c0bdfce281f3f3bcff741e0eb1c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a4e9f9a4acb117e5551a2697e74bdafd.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a4e9f9a4acb117e5551a2697e74bdafd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/fc005bd85e3c92bb79d431843774c07f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\fc005bd85e3c92bb79d431843774c07f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/acb65f6a5aee5e3fa920d7e58408ca31.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\acb65f6a5aee5e3fa920d7e58408ca31.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/1bced122cf2da054b724a2d4282e167f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1bced122cf2da054b724a2d4282e167f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/87cd7734bd78af444e4b464ba4f745c5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\87cd7734bd78af444e4b464ba4f745c5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/d8f12f17ddd7419f553673545e3e9373.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d8f12f17ddd7419f553673545e3e9373.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/e62879d8452ab4dee15a5a8532e576f2.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e62879d8452ab4dee15a5a8532e576f2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/66b9ce0c6d4e65a3c6f6ff1c61fd0c9c.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\66b9ce0c6d4e65a3c6f6ff1c61fd0c9c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/32f6b08d9e8089363d7701e2572710d1.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\32f6b08d9e8089363d7701e2572710d1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/10eb45fd4e1931541cb026fb1493643b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\10eb45fd4e1931541cb026fb1493643b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5083e179bfa9ac9b357459c97768e9ec.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5083e179bfa9ac9b357459c97768e9ec.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/05e854a21466475fb98882f564c2fae7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\05e854a21466475fb98882f564c2fae7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/1c248c81208dc930c2279f9657259e6a.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1c248c81208dc930c2279f9657259e6a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/0875f8cdef0191b5f89173ff0106af15.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0875f8cdef0191b5f89173ff0106af15.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/063e5a4e70f0dc863475e1c293293dd0.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\063e5a4e70f0dc863475e1c293293dd0.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/3d922dd893168251e2d741c047e254bd.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3d922dd893168251e2d741c047e254bd.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/0e4773dc82cdd126d3c862a6493f3550.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0e4773dc82cdd126d3c862a6493f3550.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9c6bf717494e3d204b9f8bc3f4f38c9f.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9c6bf717494e3d204b9f8bc3f4f38c9f.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/3e3b766c23679270f7e7a91fec39add4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3e3b766c23679270f7e7a91fec39add4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9de2f8120de73a01e58813008af8e1bc.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9de2f8120de73a01e58813008af8e1bc.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/05719c006f0be49ef1df4c9beda15c70.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\05719c006f0be49ef1df4c9beda15c70.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b1e3813249e65c3c734b5951aaae7699.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b1e3813249e65c3c734b5951aaae7699.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/9cb6c37e6398eb88ed685c4329bf6716.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9cb6c37e6398eb88ed685c4329bf6716.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/9df302eefc2c805554f0be83b26518eb.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9df302eefc2c805554f0be83b26518eb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/9c2d6dd4dcb7bcc3c5bf830c937d91c6.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9c2d6dd4dcb7bcc3c5bf830c937d91c6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/2021888c30e5766f967cc4726275ca47.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2021888c30e5766f967cc4726275ca47.png
+Content Type: image/png
+
+Uri: https://www.ptc.com/en/industry-insights/digital-twin
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\industry-insights\digital-twin.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/8c685dec73acb33c2cf3e4b7b6146536.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8c685dec73acb33c2cf3e4b7b6146536.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/bb70d273ff0047da4a717440532f996c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\bb70d273ff0047da4a717440532f996c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/7320b150261f905f8a6699c7a8570d6d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7320b150261f905f8a6699c7a8570d6d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/31e270211fffff93e0c3ef1773f0df9c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\31e270211fffff93e0c3ef1773f0df9c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/530c5ee27e131272e2d481d57d62b15c.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\530c5ee27e131272e2d481d57d62b15c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/4db713aef8c8d2b1fb8592abee812425.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4db713aef8c8d2b1fb8592abee812425.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ptc.com/en/products/thingworx
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\products\thingworx.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/e7a05f12431d41824b5f6755c7693862.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e7a05f12431d41824b5f6755c7693862.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/180e50aedf64e42576d604d8a9059c22.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\180e50aedf64e42576d604d8a9059c22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/f10b72ecda973970360d4133736afea7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f10b72ecda973970360d4133736afea7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bcbc38ec6955805dd4b4973519ea81d.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bcbc38ec6955805dd4b4973519ea81d.jpg
+Content Type: image/jpeg
+
+Uri: https://zspace.com/colleges-and-universities/
+File Name: C:\Downloaded Web Sites\www.edutech.com\colleges-and-universities\index.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/50ce7181f6a1c953ef9a9872e52ded09.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\50ce7181f6a1c953ef9a9872e52ded09.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/a801dbdfa869f21cc7ecf8994bd4b6a6.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a801dbdfa869f21cc7ecf8994bd4b6a6.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/53f29c8a4318df75e33b94cc32208b3a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\53f29c8a4318df75e33b94cc32208b3a.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/0675f4285a707ef10d09f81666ed97ef.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0675f4285a707ef10d09f81666ed97ef.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/ea60e6d14a8c1ef337508d2038bde8af.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ea60e6d14a8c1ef337508d2038bde8af.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/1d101c476ab55cf03b1fb68835ab05ed.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\1d101c476ab55cf03b1fb68835ab05ed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/74fc1088a00a7c9c45e9e2865030d457.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\74fc1088a00a7c9c45e9e2865030d457.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=dB7CGYALKok
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-45.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/6b99b5b1376d108de68b69a86b829fc6.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6b99b5b1376d108de68b69a86b829fc6.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d01ee61b72344456d8883f0ab2b295c3.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d01ee61b72344456d8883f0ab2b295c3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/b221d9fd52123da0a2d3b0372365b766.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\b221d9fd52123da0a2d3b0372365b766.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/e2f63736a2ba8db144c19c5a7248f179.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\e2f63736a2ba8db144c19c5a7248f179.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/d24be055dbe7b65aef570c56ef59603d.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d24be055dbe7b65aef570c56ef59603d.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/f205b32be45d0e5f5eaf79c6e2ab259a.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\f205b32be45d0e5f5eaf79c6e2ab259a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/97436c7804f89550b311d9b01a568e77.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\97436c7804f89550b311d9b01a568e77.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/de465a4693546e707b020e4077fa9bb4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\de465a4693546e707b020e4077fa9bb4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/8b2fef255e20fc3e6430fa5792b26535.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8b2fef255e20fc3e6430fa5792b26535.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/d48efa4f88a9f454de5a6f4469ba82e4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d48efa4f88a9f454de5a6f4469ba82e4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/dce408e00bcb6e7e25d8310f709aff18.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\dce408e00bcb6e7e25d8310f709aff18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/ffe5d5cd775a169d0b6327b724402b2b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\ffe5d5cd775a169d0b6327b724402b2b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/d78bdde3cfee22b0f94a67d49a19d265.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\d78bdde3cfee22b0f94a67d49a19d265.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/0d2484f50fce6c41e66bcc4dd53ffae6.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\0d2484f50fce6c41e66bcc4dd53ffae6.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/8546aca8a3405ab56c2da77fa21c7844.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8546aca8a3405ab56c2da77fa21c7844.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/6aef2070e40807e98a1c68f6175f87fc.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6aef2070e40807e98a1c68f6175f87fc.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/7711bf10364a8ed37cade0ebf3b57cd7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\7711bf10364a8ed37cade0ebf3b57cd7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/de3792dd5930a7db38f144e56582504e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\de3792dd5930a7db38f144e56582504e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/9ed49314adf7268ceedda702b03818eb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\9ed49314adf7268ceedda702b03818eb.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/c089d236098ea4a4256aa15a4e2785c9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\c089d236098ea4a4256aa15a4e2785c9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/28d8ab5c37394fe8ca1a1d0e5f0f9be9.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\28d8ab5c37394fe8ca1a1d0e5f0f9be9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5eec12080d86f99a87c466b77ec42f86.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5eec12080d86f99a87c466b77ec42f86.png
+Content Type: image/png
+
+Uri: https://www.faac.com/realtime-technologies/solutions/
+File Name: C:\Downloaded Web Sites\www.edutech.com\realtime-technologies\solutions\index.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/6498cb8d4771fcd3a10f81d2de58847b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6498cb8d4771fcd3a10f81d2de58847b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/4de179be1a0b3b4bcdb626696d6d3621.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4de179be1a0b3b4bcdb626696d6d3621.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/3c9b0907550a7cf8a086398d31e9327d.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\3c9b0907550a7cf8a086398d31e9327d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/6a8803dbf099c15d15871a3d3d0a7160.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6a8803dbf099c15d15871a3d3d0a7160.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=-4GbHMFW6EY
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-46.html
+Content Type: text/html
+
+Uri: https://www.questionmark.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-26.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/4c59397902d2742a281b18cc51ab85a7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4c59397902d2742a281b18cc51ab85a7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/caac5686d0c9474605ff7f4cea26e22b.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\caac5686d0c9474605ff7f4cea26e22b.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/616b0582ce5ccfe08e5dcee24fb5497c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\616b0582ce5ccfe08e5dcee24fb5497c.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/bcdcb5d7c2058ede672cba64d923d3bf.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\bcdcb5d7c2058ede672cba64d923d3bf.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/4b65de45cd5a5b2642d190f4a8761d81.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\4b65de45cd5a5b2642d190f4a8761d81.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/a419c5a0c3ae9917a92aeac19e494c23.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\a419c5a0c3ae9917a92aeac19e494c23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5e7015cc0934f20ce9dd4f80ced5bac8.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5e7015cc0934f20ce9dd4f80ced5bac8.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/2f5e9d611e9c9efe40a4cc7cea071ade.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\2f5e9d611e9c9efe40a4cc7cea071ade.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/72a2485176f4f3e34154bb6a78ebb5cc.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\72a2485176f4f3e34154bb6a78ebb5cc.png
+Content Type: image/png
+
+Uri: https://iguana-idm.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-27.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/14fdb1afe4096a284e7edbe924ecc3d7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\14fdb1afe4096a284e7edbe924ecc3d7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/8559b673151fbc51a24712384484678f.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\8559b673151fbc51a24712384484678f.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/1.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/2.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/3.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/6.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/8.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/9.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/10.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/11.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/12.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/13.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/14.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/15.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/19.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/17.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/stemsolutions/18.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\stemsolutions\18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/engineering/2.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\engineering\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/engineering/10.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\engineering\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/engineering/14.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\engineering\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/engineering/15.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\engineering\15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/engineering/16.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\engineering\16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/engineering/18.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\engineering\18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/6.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/9.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/2.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/12.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/11.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/1.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/3.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/5.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/15.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/8.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/14.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/13.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/partners/edtech/10.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\partners\edtech\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/dist/css/slick.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\dist\css\slick.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/dist/css/slick-theme.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\dist\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://www.youtube.com/watch?v=scI1WoGQuSg
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-47.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=ny2HaPyEz-o
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-48.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=U-YYzCI6sjE
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-49.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=KTLQ6CGEuUE
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-50.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=zgqfXU0g1pw
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-51.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=+971506580417&text=Hello%2C I'm here about...
+File Name: C:\Downloaded Web Sites\www.edutech.com\send-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/dist/img/banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\dist\img\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/dist/img/mobile_banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\dist\img\mobile_banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/6101338a79c49.PNG
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6101338a79c49.PNG
+Content Type: image/png
+
+Uri: https://www.edutech.com/dist/img/pluse.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\dist\img\pluse.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5fad0c754bd74.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5fad0c754bd74.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5f6b1bf18d689.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5f6b1bf18d689.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5f6b15b4aa0a9.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5f6b15b4aa0a9.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5f2bab618c5e1.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5f2bab618c5e1.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5f192cca99954.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5f192cca99954.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/news/efficient-digital-capability-building-towards-achieving-digital-transformation-realizing-national-vision
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\efficient-digital-capability-building-towards-achieving-digital-transformation-realizing-national-vision.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/news/introducing-ouriginal-an-authoritative-european-voice-in-the-fight-against-plagiarism
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\introducing-ouriginal-an-authoritative-european-voice-in-the-fight-against-plagiarism.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/news/united-arab-emirates-university-uaeu-selects-worldshare-management-services-wms-as-its-library-services-platform-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\united-arab-emirates-university-uaeu-selects-worldshare-management-services-wms-as-its-library-services-platform-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/news/rm-results-partners-with-edutech-to-provide-e-marking-services-in-the-middle-east
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\rm-results-partners-with-edutech-to-provide-e-marking-services-in-the-middle-east.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/6064badf83031.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\6064badf83031.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/dist/img/next.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\dist\img\next.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5f50da9e624c3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5f50da9e624c3.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5cb701733fc80.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5cb701733fc80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5c569ab6a73bf.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5c569ab6a73bf.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/blog/get-the-latest-news-and-updates-about-both-oclc-and-research
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\get-the-latest-news-and-updates-about-both-oclc-and-research.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/the-threat-of-false-positives
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\the-threat-of-false-positives.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/three-visions-one-aim
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\three-visions-one-aim.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/stem-has-teachers-rolling-up-their-sleeves
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\stem-has-teachers-rolling-up-their-sleeves.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/delivering-innovation-in-education-at-one-of-the-best-university-systems-in-the-world-a-case-study
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\delivering-innovation-in-education-at-one-of-the-best-university-systems-in-the-world-a-case-study.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/looking-into-the-crystal-ball-the-future-of-vr-in-education
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\looking-into-the-crystal-ball-the-future-of-vr-in-education.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/3-ways-that-automatic-speech-recognition-asr-will-improve-your-echo360-experience
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\3-ways-that-automatic-speech-recognition-asr-will-improve-your-echo360-experience.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/breaking-the-mold-how-vr-can-help-teachers
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\breaking-the-mold-how-vr-can-help-teachers.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/what-do-you-want-to-be-when-you-grow-up
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\what-do-you-want-to-be-when-you-grow-up.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/teaching-in-the-digital-age-for-preschool-and-kindergarten-non-textual-programming
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\teaching-in-the-digital-age-for-preschool-and-kindergarten-non-textual-programming.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/5-stem-tastic-ways-to-challenge-kids-at-home
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\5-stem-tastic-ways-to-challenge-kids-at-home.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/dr-carla-d-hayden-on-the-need-for-constant-change-in-libraries
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\dr-carla-d-hayden-on-the-need-for-constant-change-in-libraries.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/virtual-classroom-reach-and-engage-more-students
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\virtual-classroom-reach-and-engage-more-students.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/top-steam-tips-for-your-classroom-in-the-new-school-year
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\top-steam-tips-for-your-classroom-in-the-new-school-year.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/a-fresh-look-at-public-library-marketing
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\a-fresh-look-at-public-library-marketing.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/understanding-renewable-energy
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\understanding-renewable-energy.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/canvas-announces-new-tools-and-enhancements-to-improve-learning-experiences
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\canvas-announces-new-tools-and-enhancements-to-improve-learning-experiences.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/case-study-how-the-pi-top-is-changing-the-game-in-a-small-town-1
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\case-study-how-the-pi-top-is-changing-the-game-in-a-small-town-1.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/blog/three-things-librarians-wanting-to-engage-with-wikipedia-should-think-about-first
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\three-things-librarians-wanting-to-engage-with-wikipedia-should-think-about-first.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/60520ce5114cb.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\60520ce5114cb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5cee3e9c285f4.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5cee3e9c285f4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bcf267fb8a25.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bcf267fb8a25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb2243705050.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb2243705050.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb33266946ab.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb33266946ab.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb235a025559.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb235a025559.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb21e9bc5ea3.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb21e9bc5ea3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb236184b3ee.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb236184b3ee.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb3299b8ee40.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb3299b8ee40.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb2300c8171f.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb2300c8171f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb22631ee05b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb22631ee05b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb376ce38a64.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb376ce38a64.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb21cb8de571.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb21cb8de571.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb224c1bbfc6.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb224c1bbfc6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb32d33aadb9.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb32d33aadb9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb35b7c68227.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb35b7c68227.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb34a6d7cd49.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb34a6d7cd49.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb328388ce27.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb328388ce27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb32e8d723ad.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb32e8d723ad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/css/form1.css
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\css\form1.css
+Content Type: text/css
+
+Uri: https://www.edutech.com/tools/img/contact/01.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/02.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/03.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/04.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/05.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/06.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/qatar-banner.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\qatar-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/phone.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\phone.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/contact/mail.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\mail.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/contact/banner-mob.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\banner-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/tools/img/contact/oman.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\oman.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/contact/uae.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\uae.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/contact/saudi.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\saudi.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/contact/kuwait.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\kuwait.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/contact/bahrain.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\bahrain.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/contact/qatar.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\contact\qatar.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/tools/img/blog/hand-img.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\blog\hand-img.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/60520cd5191b7.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\60520cd5191b7.jpg
+Content Type: image/jpeg
+
+Uri: https://t3849518.p.clickup-attachments.com/t3849518/e7e26b29-5255-4ff4-a0c9-176d00f4b8a2/image.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\t3849518\e7e26b29-5255-4ff4-a0c9-176d00f4b8a2\image.png
+Content Type: application/octet-stream
+
+Uri: https://t3849518.p.clickup-attachments.com/t3849518/3517608e-93c9-4054-ae28-ab19663e2412/resource.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\t3849518\3517608e-93c9-4054-ae28-ab19663e2412\resource.jpg
+Content Type: application/octet-stream
+
+Uri: https://t3849518.p.clickup-attachments.com/t3849518/473981bc-02b0-4606-9cfa-735443df2189/EZProxy.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\t3849518\473981bc-02b0-4606-9cfa-735443df2189\EZProxy.jpg
+Content Type: application/octet-stream
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/114451693385879400216&followup=https://plus.google.com/114451693385879400216
+File Name: C:\Downloaded Web Sites\www.edutech.com\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://ting.in/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-1.htm
+Content Type: text/html
+
+Uri: https://p.adsymptotic.com/d/px/?_pid=16218&_psign=0aa5badf92527f7732e22463d6fa4dbc&coopa=0&gdpr=0&gdpr_consent=&_puuid=965cc2cc-a4c6-48a8-80f3-fb64214e74a3&_expected_cookie=9d6b34ad0ac5adb4504275a504834fe3
+File Name: C:\Downloaded Web Sites\www.edutech.com\d\px\index.htm.gif
+Content Type: image/gif
+
+Uri: https://www.edutech.com/tools/img/k-12-arrow.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\tools\img\k-12-arrow.png
+Content Type: image/png
+
+Uri: https://www.rigamajig.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-7.htm
+Content Type: text/html
+
+Uri: https://modrobotics.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.pi-top.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.instructure.com/k-12?newhome=canvas
+File Name: C:\Downloaded Web Sites\www.edutech.com\k-12.html
+Content Type: text/html
+
+Uri: https://www.oclc.org/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-24.htm
+Content Type: text/html
+
+Uri: https://www.ptc.com/en/ptc-university/
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\ptc-university\index.htm
+Content Type: text/html
+
+Uri: https://about.university4industry.com/en/
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\index-2.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/scI1WoGQuSg
+File Name: C:\Downloaded Web Sites\www.edutech.com\embed\scI1WoGQuSg.html
+Content Type: text/html
+
+Uri: https://www.uaeu.ac.ae/en/
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\index-3.htm
+Content Type: text/html
+
+Uri: https://www.oclc.org/en/news/releases/2019/20190402-UAEU-selects-worldshare-management-services.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\en\news\releases\2019\20190402-UAEU-selects-worldshare-management-services.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/news/carolina-biological-supply-company-announces-california-close-to-adopting-new-school-science-teaching-materials
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\carolina-biological-supply-company-announces-california-close-to-adopting-new-school-science-teaching-materials.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/news/inspiring-students-to-become-idea-builders-through-embedded-steam-lessons
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\inspiring-students-to-become-idea-builders-through-embedded-steam-lessons.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/news/replacing-not-embracing-what-s-wrong-with-cobots
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\replacing-not-embracing-what-s-wrong-with-cobots.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/news/five-ways-robotics-will-assist-the-medical-world-in-2018
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\five-ways-robotics-will-assist-the-medical-world-in-2018.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/5bb271097871b.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb271097871b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb2360b869ed.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb2360b869ed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb26ec5456af.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb26ec5456af.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb26f8c01ed2.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb26f8c01ed2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bcf267fb8b64.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bcf267fb8b64.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5bb2243705258.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb2243705258.png
+Content Type: image/png
+
+Uri: https://universitas21.com/sites/default/files/2018-05/U21_Rankings Report_0418_FULL_LR (1).pdf
+File Name: C:\Downloaded Web Sites\www.edutech.com\sites\default\files\2018-05\U21_Rankings Report_0418_FULL_LR (1).pdf
+Content Type: application/pdf
+
+Uri: https://www.lut.fi/web/en/
+File Name: C:\Downloaded Web Sites\www.edutech.com\web\en\index.htm
+Content Type: text/html
+
+Uri: https://echo360.com/higher-ed/
+File Name: C:\Downloaded Web Sites\www.edutech.com\higher-ed\index.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/5bb332669484e.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb332669484e.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5bb235a0256d7.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb235a0256d7.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5bb21e9bc5fff.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb21e9bc5fff.png
+Content Type: image/png
+
+Uri: https://echo360.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-12.08.35-PM.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\wp-content\uploads\2018\09\Screen-Shot-2018-09-18-at-12.08.35-PM.png
+Content Type: image/png
+
+Uri: https://echo360.com/wp-content/uploads/2018/09/ASRPic1.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\wp-content\uploads\2018\09\ASRPic1.png
+Content Type: image/png
+
+Uri: https://echo360.com/wp-content/uploads/2018/09/ASRPic2.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\wp-content\uploads\2018\09\ASRPic2.png
+Content Type: image/png
+
+Uri: https://echo360.com/wp-content/uploads/2018/09/ASRPic3.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\wp-content\uploads\2018\09\ASRPic3.png
+Content Type: image/png
+
+Uri: https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan
+File Name: C:\Downloaded Web Sites\www.edutech.com\wiki\Sarvepalli_Radhakrishnan.html
+Content Type: text/html
+
+Uri: https://www.laphamsquarterly.org/ways-learning/playing-fire
+File Name: C:\Downloaded Web Sites\www.edutech.com\ways-learning\playing-fire.html
+Content Type: text/html
+
+Uri: https://books.google.co.in/books?id=jiwCDT3QuvUC&dq=Teaching+with+VR&source=gbs_navlinks_s
+File Name: C:\Downloaded Web Sites\www.edutech.com\books.html
+Content Type: text/html
+
+Uri: https://books.google.co.in/books?id=-yR8wFRAHFUC&dq=Teaching+with+VR&source=gbs_navlinks_s
+File Name: C:\Downloaded Web Sites\www.edutech.com\books-1.html
+Content Type: text/html
+
+Uri: https://books.google.co.in/books?id=2fkqDwAAQBAJ&dq=Teaching+with+VR&source=gbs_navlinks_s
+File Name: C:\Downloaded Web Sites\www.edutech.com\books-2.html
+Content Type: text/html
+
+Uri: https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/
+File Name: C:\Downloaded Web Sites\www.edutech.com\can-virtual-reality-emerge-as-a-tool-for-conservation\index.htm
+Content Type: text/html
+
+Uri: https://books.google.co.in/books?id=UMcJAwAAQBAJ&dq=history+of+teaching&source=gbs_navlinks_s
+File Name: C:\Downloaded Web Sites\www.edutech.com\books-3.html
+Content Type: text/html
+
+Uri: https://core.ac.uk/download/pdf/11048750.pdf
+File Name: C:\Downloaded Web Sites\www.edutech.com\download\pdf\11048750.pdf
+Content Type: application/pdf
+
+Uri: https://www.laphamsquarterly.org/ways-learning/school-terms
+File Name: C:\Downloaded Web Sites\www.edutech.com\ways-learning\school-terms.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/5bb236184b572.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb236184b572.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5bb3299b8efbb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb3299b8efbb.png
+Content Type: image/png
+
+Uri: https://i.ytimg.com/vi/TXqXc7lNWR8/maxresdefault.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\vi\TXqXc7lNWR8\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://images-na.ssl-images-amazon.com/images/I/91pp5zz%2B1EL._SX679_.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\images\I\91pp5zz+1EL._SX679_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb2300c8189a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb2300c8189a.png
+Content Type: image/png
+
+Uri: http://jdaniel4smom.com/2016/02/coding-games-building-and-walking-an-algorithm.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\2016\02\coding-games-building-and-walking-an-algorithm.html
+Content Type: text/html
+
+Uri: https://www.steampoweredfamily.com/activities/make-plastic-from-milk/
+File Name: C:\Downloaded Web Sites\www.edutech.com\activities\make-plastic-from-milk\index.htm
+Content Type: text/html
+
+Uri: https://babbledabbledo.com/chromatography-for-kids/
+File Name: C:\Downloaded Web Sites\www.edutech.com\chromatography-for-kids\index.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/littleBitselectronics/
+File Name: C:\Downloaded Web Sites\www.edutech.com\littleBitselectronics\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/littleBits
+File Name: C:\Downloaded Web Sites\www.edutech.com\littleBits.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/littlebits/
+File Name: C:\Downloaded Web Sites\www.edutech.com\littlebits\index.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/5bb22631ee1f4.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb22631ee1f4.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5bb376ce38cbb.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb376ce38cbb.png
+Content Type: image/png
+
+Uri: https://image.ibb.co/h8ND3e/18.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\h8ND3e\18.jpg
+Content Type: image/jpeg
+
+Uri: https://nces.ed.gov/fastfacts/display.asp?id=28
+File Name: C:\Downloaded Web Sites\www.edutech.com\fastfacts\display.asp.html
+Content Type: text/html
+
+Uri: https://www.vedamo.com/knowledge/what-is-blended-learning/
+File Name: C:\Downloaded Web Sites\www.edutech.com\knowledge\what-is-blended-learning\index.htm
+Content Type: text/html
+
+Uri: https://www.vedamo.com/knowledge/synchronous-asynchronous-virtual-learning/
+File Name: C:\Downloaded Web Sites\www.edutech.com\knowledge\synchronous-asynchronous-virtual-learning\index.htm
+Content Type: text/html
+
+Uri: https://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf
+File Name: C:\Downloaded Web Sites\www.edutech.com\rschstat\eval\tech\evidence-based-practices\finalreport.pdf
+Content Type: application/pdf
+
+Uri: https://www.edutech.com/uploads/images/5bb21cb8de79c.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb21cb8de79c.png
+Content Type: image/png
+
+Uri: https://www.andreabeaty.com/rosie-revere-engineer.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\rosie-revere-engineer.html
+Content Type: text/html
+
+Uri: https://steamkidsbooks.com/steam-kids-book/
+File Name: C:\Downloaded Web Sites\www.edutech.com\steam-kids-book\index.htm
+Content Type: text/html
+
+Uri: https://www.goodreads.com/book/show/28930877-amber-s-atoms
+File Name: C:\Downloaded Web Sites\www.edutech.com\book\show\28930877-amber-s-atoms.html
+Content Type: text/html
+
+Uri: https://www.goodreads.com/book/show/27876864-maker-lab
+File Name: C:\Downloaded Web Sites\www.edutech.com\book\show\27876864-maker-lab.html
+Content Type: text/html
+
+Uri: https://www.bbc.co.uk/news/technology-32067158
+File Name: C:\Downloaded Web Sites\www.edutech.com\news\technology-32067158.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/user/Vihart
+File Name: C:\Downloaded Web Sites\www.edutech.com\user\Vihart.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg
+File Name: C:\Downloaded Web Sites\www.edutech.com\channel\UChtY6O8Ahw2cz05PS2GhUbg.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/user/DesignSquadNation
+File Name: C:\Downloaded Web Sites\www.edutech.com\user\DesignSquadNation.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCZxrfiMHHYjdkTeXeFKazeg
+File Name: C:\Downloaded Web Sites\www.edutech.com\channel\UCZxrfiMHHYjdkTeXeFKazeg.html
+Content Type: text/html
+
+Uri: https://leftbraincraftbrain.com/28-days-hands-on-stem-activities-kids/
+File Name: C:\Downloaded Web Sites\www.edutech.com\28-days-hands-on-stem-activities-kids\index.htm
+Content Type: text/html
+
+Uri: https://rhythmsofplay.com/shadow-art-outdoor-science/
+File Name: C:\Downloaded Web Sites\www.edutech.com\shadow-art-outdoor-science\index.htm
+Content Type: text/html
+
+Uri: https://steamkidsbooks.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-29.htm
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/5bb224c1bc236.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb224c1bc236.png
+Content Type: image/png
+
+Uri: https://www.piercecountylibrary.org/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-30.htm
+Content Type: text/html
+
+Uri: https://oclc.webex.com/ec3300/eventcenter/recording/recordAction.do?theAction=poprecord&siteurl=oclc&entappname=url3300&internalRecordTicket=4832534b00000004c3b97e8c59571e7b0917c0ba8671d152f5351664b40e4ee70ac0489cf3968102&renewticket=0&isurlact=true&format=short&rnd=9003368214&RCID=97fa302e24bb9eccdf2c84b169d4121b&rID=92509277&needFilter=false&recordID=92509277&apiname=lsr.php&AT=pb&actappname=ec3300&&SP=EC&entactname=%2FnbrRecordingURL.do&actname=%2Feventcenter%2Fframe%2Fg.do
+File Name: C:\Downloaded Web Sites\www.edutech.com\ec3300\eventcenter\recording\recordAction.do.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/5bb32d33aaf1a.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb32d33aaf1a.png
+Content Type: image/png
+
+Uri: http://cdn.worldslargestlesson.globalgoals.org/2017/02/Renewable-energy-lessonplan-pdf.pdf
+File Name: C:\Downloaded Web Sites\www.edutech.com\2017\02\Renewable-energy-lessonplan-pdf.pdf
+Content Type: application/pdf
+
+Uri: https://www.edutech.com/uploads/images/5bb35b7c683e3.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb35b7c683e3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/5bb34a6d7cf07.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb34a6d7cf07.png
+Content Type: image/png
+
+Uri: https://www.edutech.com/uploads/images/5bb328388cfdd.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb328388cfdd.png
+Content Type: image/png
+
+Uri: https://blogpitopcom.files.wordpress.com/2018/07/ata4638.jpg?w=450&crop=1
+File Name: C:\Downloaded Web Sites\www.edutech.com\2018\07\ata4638.jpg
+Content Type: image/jpeg
+
+Uri: https://blogpitopcom.files.wordpress.com/2018/07/picture1.jpg?w=450
+File Name: C:\Downloaded Web Sites\www.edutech.com\2018\07\picture1.jpg
+Content Type: image/jpeg
+
+Uri: https://blogpitopcom.files.wordpress.com/2018/07/picture2.png?w=450
+File Name: C:\Downloaded Web Sites\www.edutech.com\2018\07\picture2.png
+Content Type: image/png
+
+Uri: https://blogpitopcom.files.wordpress.com/2018/07/picture3.jpg?w=303&h=252
+File Name: C:\Downloaded Web Sites\www.edutech.com\2018\07\picture3.jpg
+Content Type: image/jpeg
+
+Uri: https://blogpitopcom.files.wordpress.com/2018/07/ata4644.jpg?w=450
+File Name: C:\Downloaded Web Sites\www.edutech.com\2018\07\ata4644.jpg
+Content Type: image/jpeg
+
+Uri: https://twitter.com/intent/tweet?text=How to get your public library started with %23Wikipedia for libraries %23oclcwikilib&url=http://www.oclc.org/blog/main/three-things-librarians-wanting-to-engage-with-wikipedia-should-think-about-first/
+File Name: C:\Downloaded Web Sites\www.edutech.com\intent\tweet.html
+Content Type: text/html
+
+Uri: https://www.webjunction.org/explore-topics/wikipedia-libraries.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\explore-topics\wikipedia-libraries.html
+Content Type: text/html
+
+Uri: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+File Name: C:\Downloaded Web Sites\www.edutech.com\licenses\by-sa\4.0\deed.en.html
+Content Type: text/html
+
+Uri: https://www.edutech.com/uploads/images/5bb32e8d72552.png
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\5bb32e8d72552.png
+Content Type: image/png
+
+Uri: https://www.kinovarobotics.com/sites/default/files/styles/square/public/2018-07/How_collaborative_cobots_M07.jpg?itok=xWSUNltb
+File Name: C:\Downloaded Web Sites\www.edutech.com\sites\default\files\styles\square\public\2018-07\How_collaborative_cobots_M07.jpg
+Content Type: image/jpeg
+
+Uri: https://www.theglobeandmail.com/life/health-and-fitness/health/the-fight-for-robots-in-canadas-operatingrooms/article35897282/
+File Name: C:\Downloaded Web Sites\www.edutech.com\life\health-and-fitness\health\the-fight-for-robots-in-canadas-operatingrooms\article35897282\index.htm
+Content Type: text/html
+
+Uri: https://www.kinovarobotics.com/sites/default/files/styles/square/public/2018-05/Five_ways_Robotics_will_assist_0.jpg?itok=7MOH0tM8
+File Name: C:\Downloaded Web Sites\www.edutech.com\sites\default\files\styles\square\public\2018-05\Five_ways_Robotics_will_assist_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/Finnish University Case Study-page-001.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\Finnish University Case Study-page-001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/Finnish University Case Study-page-002.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\Finnish University Case Study-page-002.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/Finnish University Case Study-page-003.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\Finnish University Case Study-page-003.jpg
+Content Type: image/jpeg
+
+Uri: https://www.edutech.com/uploads/images/Finnish University Case Study-page-004.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\uploads\images\Finnish University Case Study-page-004.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.echo360.com/case-study-3visions
+File Name: C:\Downloaded Web Sites\www.edutech.com\case-study-3visions.html
+Content Type: text/html
+
+Uri: https://www.tuni.fi/fi
+File Name: C:\Downloaded Web Sites\www.edutech.com\fi.html
+Content Type: text/html
+
+Uri: https://www.veative.com/blog/benefits-of-vr-in-schools-motivate-students/
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\benefits-of-vr-in-schools-motivate-students\index.htm
+Content Type: text/html
+
+Uri: https://www.veative.com/blog/immersive-learning-empowers-students-teachers/
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\immersive-learning-empowers-students-teachers\index.htm
+Content Type: text/html
+
+Uri: https://www.veative.com/blog/content-king-especially-vr/
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\content-king-especially-vr\index.htm
+Content Type: text/html
+
+Uri: https://www.veative.com/products/virtual-reality-stem-education-solution/
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\virtual-reality-stem-education-solution\index.htm
+Content Type: text/html
+
+Uri: https://www.veative.com/blog/using-vr-experiential-learning/
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\using-vr-experiential-learning\index.htm
+Content Type: text/html
+
+Uri: https://support.echo360.com/hc/en-us
+File Name: C:\Downloaded Web Sites\www.edutech.com\hc\en-us.html
+Content Type: text/html
+
+Uri: https://www.veative.com/blog/looking-crystal-ball-future-vr-education/
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\looking-crystal-ball-future-vr-education\index.htm
+Content Type: text/html
+
+Uri: https://www.veative.com/platform/ar-vr-training-analysis/
+File Name: C:\Downloaded Web Sites\www.edutech.com\platform\ar-vr-training-analysis\index.htm
+Content Type: text/html
+
+Uri: https://www.veative.com/blog/virtual-tours-around-the-world-with-a-vr-headset/
+File Name: C:\Downloaded Web Sites\www.edutech.com\blog\virtual-tours-around-the-world-with-a-vr-headset\index.htm
+Content Type: text/html
+
+Uri: https://www.veative.com/platform/ar-vr-subscription-onboarding/
+File Name: C:\Downloaded Web Sites\www.edutech.com\platform\ar-vr-subscription-onboarding\index.htm
+Content Type: text/html
+
+Uri: https://www.semanticscholar.org/paper/Physical-Experience-Enhances-Science-Learning-Kontra-Lyons/c9aa18b67ffda7a867cf431ff0b382a60ac8998c?p2df
+File Name: C:\Downloaded Web Sites\www.edutech.com\paper\Physical-Experience-Enhances-Science-Learning-Kontra-Lyons\c9aa18b67ffda7a867cf431ff0b382a60ac8998c.html
+Content Type: text/html
+
+Uri: https://sphero.com/collections/all/type_kit+family_littlebits
+File Name: C:\Downloaded Web Sites\www.edutech.com\collections\all\type_kit family_littlebits.html
+Content Type: text/html
+
+Uri: https://sphero.com/products/littlebits-base-inventor-kit
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\littlebits-base-inventor-kit.html
+Content Type: text/html
+
+Uri: https://sphero.com/products/littlebits-electronic-music-inventor-kit
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\littlebits-electronic-music-inventor-kit.html
+Content Type: text/html
+
+Uri: https://sphero.com/products/littlebits-space-rover-inventor-kit
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\littlebits-space-rover-inventor-kit.html
+Content Type: text/html
+
+Uri: https://sphero.com/products/bubble-bot
+File Name: C:\Downloaded Web Sites\www.edutech.com\products\bubble-bot.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=ofII80drVB8&feature=youtu.be
+File Name: C:\Downloaded Web Sites\www.edutech.com\watch-52.html
+Content Type: text/html
+
+Uri: https://blog.oclc.org/next/wp-content/uploads/2017/11/prichard-hayden.jpg
+File Name: C:\Downloaded Web Sites\www.edutech.com\next\wp-content\uploads\2017\11\prichard-hayden.jpg
+Content Type: image/jpeg
+
+Uri: https://www.instructure.com/canvas?newhome=canvas
+File Name: C:\Downloaded Web Sites\www.edutech.com\canvas.html
+Content Type: text/html
+
+Uri: https://www.vedamo.com/knowledge/what-is-virtual-classroom/
+File Name: C:\Downloaded Web Sites\www.edutech.com\knowledge\what-is-virtual-classroom\index.htm
+Content Type: text/html
+
+Uri: https://www.vedamo.com/virtual-classroom/
+File Name: C:\Downloaded Web Sites\www.edutech.com\virtual-classroom\index.htm
+Content Type: text/html
+
+Uri: https://adatwist.abrams.link/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-28.htm
+Content Type: text/html
+
+Uri: https://rachelignotofskydesign.com/women-in-science/
+File Name: C:\Downloaded Web Sites\www.edutech.com\women-in-science\index.htm
+Content Type: text/html
+
+Uri: https://artlabforkids.susanschwake.com/ALFK.php
+File Name: C:\Downloaded Web Sites\www.edutech.com\ALFK.php.html
+Content Type: text/html
+
+Uri: https://www.penguin.co.uk/books/162/16204/about-time.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\books\162\16204\about-time.html
+Content Type: text/html
+
+Uri: https://frugalfun4boys.com/build-marble-run-craft-sticks/
+File Name: C:\Downloaded Web Sites\www.edutech.com\build-marble-run-craft-sticks\index.htm
+Content Type: text/html
+
+Uri: https://sphero.com/pages/educators
+File Name: C:\Downloaded Web Sites\www.edutech.com\pages\educators-1.html
+Content Type: text/html
+
+Uri: https://www.prattlibrary.org/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-31.htm
+Content Type: text/html
+
+Uri: https://www.bbc.co.uk/bitesize/guides/zxc2sg8/revision/3
+File Name: C:\Downloaded Web Sites\www.edutech.com\bitesize\guides\zxc2sg8\revision\3.html
+Content Type: text/html
+
+Uri: https://www.instructure.com/events/instructurecon21
+File Name: C:\Downloaded Web Sites\www.edutech.com\events\instructurecon21.html
+Content Type: text/html
+
+Uri: https://www.instructure.com/
+File Name: C:\Downloaded Web Sites\www.edutech.com\index-32.htm
+Content Type: text/html
+
+Uri: https://www.solarcarchallenge.org/challenge/
+File Name: C:\Downloaded Web Sites\www.edutech.com\challenge\index.htm
+Content Type: text/html
+
+Uri: https://blog.pi-top.com/2018/07/02/pi-top-postcard-from-iste2018
+File Name: C:\Downloaded Web Sites\www.edutech.com\2018\07\02\pi-top-postcard-from-iste2018.html
+Content Type: text/html
+
+Uri: https://blog.oclc.org/next/three-reasons-wikipedia-needs-libraries-and-vice-versa/
+File Name: C:\Downloaded Web Sites\www.edutech.com\next\three-reasons-wikipedia-needs-libraries-and-vice-versa\index.htm
+Content Type: text/html
+
+Uri: https://blog.oclc.org/next/wikipedia-the-webjunction-way/
+File Name: C:\Downloaded Web Sites\www.edutech.com\next\wikipedia-the-webjunction-way\index.htm
+Content Type: text/html
+
+Uri: https://www.smithsonianstc.com/stcms-172N7-41395L.html
+File Name: C:\Downloaded Web Sites\www.edutech.com\stcms-172N7-41395L.html
+Content Type: text/html
+
+Uri: http://www.buildingblocksofscience.com/bbs-114JL-2708H1.html?
+File Name: C:\Downloaded Web Sites\www.edutech.com\bbs-114JL-2708H1.html
+Content Type: text/html
+
+Uri: https://www.economist.com/science-and-technology/2017/11/16/new-surgical-robots-are-about-to-enter-the-operating-theatre
+File Name: C:\Downloaded Web Sites\www.edutech.com\science-and-technology\2017\11\16\new-surgical-robots-are-about-to-enter-the-operating-theatre.html
+Content Type: text/html
+
+Uri: https://spectrum.ieee.org/in-fleshcutting-task-autonomous-robot-surgeon-beats-human-surgeons
+File Name: C:\Downloaded Web Sites\www.edutech.com\in-fleshcutting-task-autonomous-robot-surgeon-beats-human-surgeons.html
+Content Type: text/html
+
+Uri: https://www.telegraph.co.uk/technology/2017/03/07/robots-will-soon-able-diagnose-accurately-almost-doctor/
+File Name: C:\Downloaded Web Sites\www.edutech.com\technology\2017\03\07\robots-will-soon-able-diagnose-accurately-almost-doctor\index.htm
+Content Type: text/html
+
+Uri: https://time.com/4967153/artificial-intelligence-machine-learning/
+File Name: C:\Downloaded Web Sites\www.edutech.com\4967153\artificial-intelligence-machine-learning\index.htm
+Content Type: text/html
+

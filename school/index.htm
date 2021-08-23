@@ -1,0 +1,1338 @@
+<!DOCTYPE html>
+<html class="sticky-footer" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="language" content="en" />
+<meta name="google-site-verification" content="5DlMDlKLgHzjbegRYP9UHXr6EZ6a3a6J0-PRa_smKis" />
+<meta name="description" content="Tynker’s free coding courses, lesson plans, easy-to-use tools, comprehensive coding and STEAM curriculum, and educator resources make it easy to implement a CS program for K-12 students.">
+<meta name="keywords" content="Tynker,programming,hour of code,hour-of-code,creative computing,STEM,educator,schools,kids,teachers,parents,learning">
+<meta name="apple-itunes-app" content="app-id=805869467">
+<link rel="icon" href="" sizes="32x32" />
+<link rel="icon" href="/logos/icons/appicon-180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="/logos/icons/appicon-180.png" sizes="180x180" />
+<link rel="manifest" href="/manifest.json" />
+<meta name="mobile-web-app-capable" content="yes"></meta>
+<meta name="theme-color" content="#c6eef9"></meta>
+
+<meta itemprop="name" content="Teach K-12 Students to Code | Tynker">
+<meta itemprop="description" content="Tynker’s free coding courses, lesson plans, easy-to-use tools, comprehensive coding and STEAM curriculum, and educator resources make it easy to implement a CS program for K-12 students.">
+<meta itemprop="image" content="https://www.tynker.com/image/school/share-thumbnail-tynker-for-schools.png">
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@gotynker" />
+<meta name="twitter:title" content="Teach K-12 Students to Code | Tynker" />
+<meta name="twitter:description" content="Tynker’s free coding courses, lesson plans, easy-to-use tools, comprehensive coding and STEAM curriculum, and educator resources make it easy to implement a CS program for K-12 students." />
+<meta name="twitter:image" content="https://www.tynker.com/image/school/share-thumbnail-tynker-for-schools.png" />
+<meta name="twitter:image:src" content="https://www.tynker.com/image/school/share-thumbnail-tynker-for-schools.png">
+<meta property="twitter:image:width" content="1200" />
+<meta property="twitter:image:height" content="630" />
+<meta name="twitter:url" content="https://www.tynker.com/school/" />
+<meta name="twitter:creator" content="@gotynker">
+<meta property="fb:app_id" content="189623408308473" />
+
+<meta property="og:title" content="Teach K-12 Students to Code | Tynker" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.tynker.com/image/school/share-thumbnail-tynker-for-schools.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:url" content="https://www.tynker.com/school/" />
+<meta property="og:description" content="Tynker’s free coding courses, lesson plans, easy-to-use tools, comprehensive coding and STEAM curriculum, and educator resources make it easy to implement a CS program for K-12 students." />
+<meta property="og:site_name" content="Tynker.com" />
+<meta property="article:tag" content="Tynker" />
+<meta property="article:tag" content="STEM" />
+<meta property="article:tag" content="Learn to code" />
+<meta property="article:tag" content="Hour of Code" />
+<meta property="article:tag" content="Coding for Kids" />
+<meta property="article:tag" content="Minecraft" />
+<meta property="article:tag" content="Minecraft Modding" />
+<meta property="article:tag" content="Minecraft Courses" />
+<meta name="enable_collector_modal" content="true">
+<title>Teach K-12 Students to Code | Tynker</title>
+
+<link rel="preload" type="font/woff" href="/global/fonts/open-sans/opensans-regular.woff" as="font" crossorigin>
+<link rel="preload" type="font/woff" href="/global/fonts/open-sans/opensans-semibold.woff" as="font" crossorigin>
+<link rel="preload" type="font/woff" href="/global/fonts/icomoon/icomoon.woff" as="font" crossorigin>
+<link rel="stylesheet" type="text/css" href="/js/dist/site_webpack_modern.css?cache=max&v=db9b1a4500" />
+<script type="text/javascript" src="/js/lib/jquery/jquery-3.6.0.min.js?cache=max&v=b82d238500"></script>
+
+
+<script>
+    dataLayer = [{'rdp': false}];
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NFJHBQZ');</script>
+
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-34332914-1', 'auto');
+
+    // GA Optimize
+    ga('require', 'GTM-WRCH635');
+
+    
+            // Dimension 1: the member type custom dimension
+        ga('set', 'dimension1', 'Browser');
+    
+    // Dimension 2: A/B test tracking, if applicable
+    
+            ga('set', 'dimension3', 'Unknown');
+    
+    var isHiDpi = window.devicePixelRatio && window.devicePixelRatio >= 1.5;
+    ga('set', 'dimension5', isHiDpi);
+
+    var roleSelectorRole = window.localStorage ? window.localStorage.getItem('selectRole:role') : null;
+    if (roleSelectorRole) {
+        ga('set', 'dimension6', roleSelectorRole);
+    }
+
+        ga('require', 'ec');
+                        ga('send', 'pageview');
+            </script>
+
+
+<script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:133938,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+<script>
+    </script>
+
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+    fbq('dataProcessingOptions', null, null, null);
+    fbq('init', '194096771083959');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=194096771083959&ev=PageView&noscript=1"/></noscript>
+</head>
+<body class="site site-app bg-default flat-header min-width teachers ">
+<div class="sticky-container hero-offset" data-sticky-container>
+<header id="header" class="header-new-app-3 header-new-app-4 hero-offset sticky" data-sticky data-sticky-on="small" data-options="marginTop:0;" data-top-anchor="60" data-btm-anchor="sticky-btm-anchor">
+<nav class="zf-row ">
+<div class="zf-column small-2 hide-for-small-when-stuck hide-for-large off-canvas-toggle">
+<a data-toggle="off-canvas" href="javascript:void(0)">
+<img src="/image/ui/icn-hamburger-white.png" style="width: 23px; height: 17px;" alt="Open menu">
+</a>
+</div>
+<div class="zf-column small-8 large-2 small-4-when-stuck logo logo-tagless text-center large-text-left">
+<div class="hide-when-stuck">
+<a href="/?t=reset">
+<img src="/image/tynker-logo-white.png" alt="Tynker" class="logo-img">
+</a>
+</div>
+<div class="show-when-stuck">
+<a href="/?t=reset">
+<img src="/image/tynker-logo.png" alt="Tynker" class="logo-img">
+</a>
+</div>
+</div>
+<div class=" zf-column large-7 small-8-when-stuck show-for-large large-padding-left-0 large-padding-right-0 text-center show-for-small-when-stuck">
+<ul>
+<li class="nav-item-free-play nav__item__link--highlighted highlighted  has-nav-menu hide-when-stuck">
+<a href="/play/">
+<span class="icon-gamepad"></span> Play </a>
+<ul class="nav-menu">
+<li class="">
+<a href="/play/">
+Coding Games </a>
+</li>
+<li class="">
+<a href="/minecraft/">
+Minecraft </a>
+</li>
+<li class="">
+<a href="/hour-of-code/">
+Hour of Code </a>
+</li>
+<li class="">
+<a href="/code/">
+Start Coding </a>
+</li>
+</ul>
+</li>
+<li class="nav-item-parents   has-nav-menu hide-when-stuck">
+<a href="/parents/">
+Parents </a>
+<ul class="nav-menu">
+<li class="default">
+<a href="/parents/">
+Overview </a>
+</li>
+<li class="default">
+<a href="/parents/courses#/s/courses">
+Curriculum </a>
+</li>
+<li class="">
+<a href="/parents/pricing">
+Plans & Pricing </a>
+</li>
+<li class="">
+<a href="/mobile/apps/?tab=tynker">
+Mobile Apps </a>
+</li>
+<li class="">
+<a href="/ebooks/code-these-games">
+Coding eBook </a>
+</li>
+</ul>
+</li>
+<li class="nav-item-educators  active has-nav-menu hide-when-stuck">
+<a href="/school/">
+Educators </a>
+<ul class="nav-menu">
+<li class="default">
+<a href="/school/">
+Overview </a>
+</li>
+<li class="">
+<a href="/school/coding-curriculum/">
+Curriculum </a>
+</li>
+<li class="">
+<a href="/school/coding-curriculum/request">
+Request a Quote </a>
+</li>
+<li class="">
+<a href="/school/training/">
+Training & PD </a>
+</li>
+<li class="">
+<a href="/InfosysFoundationK2">
+Apply for a Grant </a>
+</li>
+</ul>
+</li>
+<li class="nav-item-why_code   has-nav-menu hide-when-stuck">
+<a href="/coding-for-kids/what-is-coding-for-kids">
+Why Code? </a>
+<ul class="nav-menu">
+<li class="default">
+<a href="/coding-for-kids/what-is-coding-for-kids">
+What is Coding? </a>
+</li>
+<li class="">
+<a href="/content/how-coding-develops-21st-century-skills">
+21st Century Skills </a>
+</li>
+<li class="">
+<a href="/content/minecraft-modding-with-code">
+Coding with Minecraft </a>
+</li>
+<li class="">
+<a href="/ebooks">
+Coding eBooks </a>
+</li>
+</ul>
+</li>
+<li class="has-button right show-when-stuck">
+<a onclick="ga('send', 'event', 'Sticky Header', 'Button Click', 'Join for FREE')" class="button primary" ui-sref="joinTeacher">
+Join for FREE </a>
+</li>
+<li class="nav-flash">
+<span ng-show="state.flash.join" class="hide-for-small-only" ng-class="{'anonymous': state.user.isAnonymous}" ng-bind-html="state.flash.join.message"></span>
+</li>
+</ul>
+</div>
+<div class="zf-column large-3 show-for-large padding-left-0 text-right">
+<ul>
+<li class="has-button hide-when-stuck ">
+<a class="button header-button border" ng-class="{'border': state.flash.join.actionLabel == null, 'join': state.flash.join.actionLabel != null}" ui-sref="joinTeacher" rel="nofollow" ga-event-click ga-event-click-label="'Navbar: Join - Join for Free'" ng-bind="state.flash.join.actionLabel || 'Join for Free'">Join for Free</a>
+</li>
+<li class="has-button hide-when-stuck xlarge-padding-left-1 xlarge-padding-right-1">
+<a class="button header-button" ui-sref="logIn.role({role: 'teacher'})">
+Log in </a>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+</div>
+<main id="content" class="content content--footer-colorful ">
+<div class="off-canvas-wrapper ">
+<div class="off-canvas off-canvas-absolute position-left dashboard-sidebar" id="off-canvas" data-off-canvas>
+<ul class="vertical menu dashboard-sidebar-nav dashboard-sidebar-nav-parent accordion-menu" data-accordion-menu>
+<li class=" ">
+<a ui-sref="joinTeacher">
+<span class="title">Join for Free</span>
+</a>
+</li>
+<li class=" ">
+<a ui-sref="logIn.role({role: 'teacher'})">
+<span class="title">Log in</span>
+</a>
+</li>
+<li class=" ">
+<a href="/mobile/">
+<span class="title">Tynker Apps</span>
+</a>
+</li>
+<li class=" is-accordion-submenu-parent has-pom">
+<a href="/parents/">
+<span class="title">Parents</span>
+</a>
+<ul class="site-submenu">
+<li class="default">
+<a href="/parents/">
+Overview </a>
+</li>
+<li class="default">
+<a href="/parents/courses#/s/courses">
+Curriculum </a>
+</li>
+<li class="">
+<a href="/parents/pricing">
+Plans & Pricing </a>
+</li>
+<li class="">
+<a href="/mobile/apps/?tab=tynker">
+Mobile Apps </a>
+</li>
+<li class="">
+<a href="/ebooks/code-these-games">
+Coding eBook </a>
+</li>
+</ul>
+</li>
+<li class="selected is-accordion-submenu-parent has-pom">
+<a href="/school/">
+<span class="title">Educators</span>
+</a>
+<ul class="site-submenu">
+<li class="default">
+<a href="/school/">
+Overview </a>
+</li>
+<li class="">
+<a href="/school/coding-curriculum/">
+Curriculum </a>
+</li>
+<li class="">
+<a href="/school/coding-curriculum/request">
+Request a Quote </a>
+</li>
+<li class="">
+<a href="/school/training/">
+Training & PD </a>
+</li>
+<li class="">
+<a href="/InfosysFoundationK2">
+Apply for a Grant </a>
+</li>
+</ul>
+</li>
+<li class=" is-accordion-submenu-parent has-pom">
+<a href="/coding-for-kids/what-is-coding-for-kids">
+<span class="title">Why Code?</span>
+</a>
+<ul class="site-submenu">
+<li class="default">
+<a href="/coding-for-kids/what-is-coding-for-kids">
+What is Coding? </a>
+</li>
+<li class="">
+<a href="/content/how-coding-develops-21st-century-skills">
+21st Century Skills </a>
+</li>
+<li class="">
+<a href="/content/minecraft-modding-with-code">
+Coding with Minecraft </a>
+</li>
+<li class="">
+<a href="/ebooks">
+Coding eBooks </a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="off-canvas-content" data-off-canvas-content>
+<div class="page-school" ng-controller="SchoolCatalogController">
+<section class="page-hero --school text-center large-text-left">
+<section class="school-outside-banner large-text-left">
+<div class="zf-row zf-column medium-flex-row padding-top-1 large-padding-top-0 padding-bottom-1 large-padding-bottom-0">
+<div class="flex-grow">
+<h3 class="margin-bottom-0">
+<a href="/school/covid-19-educator-resources">
+Be remote ready with Tynker. Learn how! </a>
+</h3>
+</div>
+<a href="/school/covid-19-educator-resources" class="hide"></a> </div>
+</section>
+<div class="page-hero__content">
+<div class="zf-row">
+<div class="zf-column small-12 large-6 medium-text-left large-padding-top-2 xlarge-padding-top-4">
+<h1 class="page-hero__title">The Easiest Way to Teach Coding!</h1>
+<p class="page-hero__description">
+All the curriculum, intuitive tools, and resources you need to run a successful CS program. Try our free courses today or explore our <a href="coding-curriculum">coding curriculum</a>.
+</p>
+<a class="button primary large" href="#" ui-sref="joinTeacher" onClick="ga('send', 'event', 'School Page', 'Button Click', 'Hero: Teachers Get Started FREE');">
+Access Free Courses
+</a>
+</div>
+<div class="zf-column small-12 large-6 large-text-right">
+<a ng-click="playVideo('//www.youtube-nocookie.com/embed/Rn4uy4ge5sE')" class="school-video-thumbnail" title="Watch video">
+<img srcset="/image/school/hero/video-image.png,
+                                     /image/school/hero/video-image@2x.png 2x" src="/image/school/hero/video-image.png" alt="Watch video">
+</a>
+</div>
+</div>
+</div>
+</section>
+<section class="built-for-educators">
+<div class="zf-row">
+<div class="zf-column margin-bottom-2 text-center">
+<h2>Built for Educators</h2>
+<p>No experience required! Plus, <a href="training">free training</a> for schools.</p>
+</div>
+</div>
+<div class="tiles">
+<div class="zf-row">
+<div ng-click="setSlide(1)" class="zf-column small-12 medium-6 large-3">
+<a class="overview-info-modal-link" ng-click="playVideo('//www.youtube-nocookie.com/embed/Rn4uy4ge5sE')">
+<div class="tile tile-comprehensive-curriculum">
+<div class="image"></div>
+<h4 class="title">Coding Curriculum</h4>
+<p class="description hide-for-small-only">Guide your students to coding mastery using our award-winning lesson plans.</p>
+<a class="hide-for-small-only learn-more-hover" ng-click="playVideo('//www.youtube-nocookie.com/embed/Rn4uy4ge5sE')">Learn More</a>
+</div>
+</a>
+</div>
+<div ng-click="setSlide(4)" class="zf-column small-12 medium-6 large-3">
+<a class="overview-info-modal-link" ng-click="playVideo('https://www.youtube.com/embed/DYgnAP9H8sI')">
+<div class="tile tile-stem-courses">
+<div class="image"></div>
+<h4 class="title">STEM Courses</h4>
+<p class="description hide-for-small-only">Integrate coding into any subject with hundreds of PBL projects.</p>
+<a class="hide-for-small-only learn-more-hover" ng-click="playVideo('https://www.youtube.com/embed/DYgnAP9H8sI')">See How</a>
+</div>
+</a>
+</div>
+
+<div ng-click="setSlide(4)" class="zf-column small-12 medium-6 large-3">
+<a class="overview-info-modal-link" ng-click="playVideo('https://www.youtube.com/embed/xnt5Se304m4')">
+<div class="tile tile-automatic-assessments-2">
+<div class="image"></div>
+<h4 class="title">Automatic Assessments</h4>
+<p class="description hide-for-small-only">Save time and effort evaluating your students' coding skills.</p>
+<a class="hide-for-small-only learn-more-hover" ng-click="playVideo('https://www.youtube.com/embed/xnt5Se304m4')">See How</a>
+</div>
+</a>
+</div>
+<div ng-click="setSlide(4)" class="zf-column small-12 medium-6 large-3">
+
+<div class="tile tile-classroom-management-2">
+<div class="image"></div>
+<h4 class="title">Classroom Management</h4>
+<p class="description hide-for-small-only">Easily create classrooms, import students, and see helpful metrics.</p>
+
+</div>
+
+</div>
+</div>
+</div>
+</section>
+<section class="tynker-global-community">
+<div class="zf-row">
+<div class="zf-column small-12 large-8 large-offset-2 margin-bottom-1 text-center">
+<h2>Join Tynker's Global Community</h2>
+<p>
+Access free courses, programming projects, professional development, and more! You can even connect with other CS educators on our forums.
+<a style="font-size:inherit" href="#" ui-sref="joinTeacher">Join now</a>
+</p>
+</div>
+</div>
+<div class="zf-row">
+<div class="small-12 small-centered large-10 zf-column">
+<div class="value-prop-map">
+<br>
+<img src="/image/school/school-page/value-prop-map.png" />
+</div>
+</div>
+</div>
+<div class="links">
+<a href="/blog/articles/category/ideas-and-tips/coding-at-school/">Read our teachers' success stories</a>
+</div>
+</section>
+<section class="programming-curriculum">
+<div class="text-center large-margin-bottom-2">
+<h2>Comprehensive Coding and STEAM Curriculum</h2>
+</div>
+<div class="zf-row">
+
+<div class="zf-column large-7">
+<div class="programming-curriculum-media">
+<div class="card programming-curriculum-mini-table">
+<table class="table">
+<thead>
+<tr>
+<th></th>
+<th>Course Name</th>
+<th>Grade</th>
+<th>Access</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/image/ui/icn-level-1-sml.png"></td>
+<td>7 Icon Coding Courses</td>
+<td>K-2</td>
+<td>
+<img srcset="/image/school/coding-curriculum/icon-tynker-junior.png,
+                                                     /image/school/coding-curriculum/icon-tynker-junior@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-junior.png" alt="Tynker Junior" class="has-tooltip" title="Tynker Junior">
+</td>
+</tr>
+<tr>
+<td><img src="/image/ui/icn-level-1-sml.png"></td>
+<td>Space Cadet</td>
+<td>K-2</td>
+<td>
+<img srcset="/image/school/coding-curriculum/icon-tynker-app.png,
+                                                     /image/school/coding-curriculum/icon-tynker-app@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-app.png" alt="Tynker App">&nbsp;
+<img srcset="/image/school/coding-curriculum/icon-tynker-web.png,
+                                                     /image/school/coding-curriculum/icon-tynker-web@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-web.png" alt="Tynker Web">
+</td>
+</tr>
+<tr>
+<td><img src="/image/ui/icn-level-2-sml.png"></td>
+<td>Dragon Spells</td>
+<td>3-5</td>
+<td>
+<img srcset="/image/school/coding-curriculum/icon-tynker-app.png,
+                                                     /image/school/coding-curriculum/icon-tynker-app@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-app.png" alt="Tynker App">&nbsp;
+<img srcset="/image/school/coding-curriculum/icon-tynker-web.png,
+                                                     /image/school/coding-curriculum/icon-tynker-web@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-web.png" alt="Tynker Web">
+</td>
+</tr>
+<tr>
+<td><img src="/image/ui/icn-level-1-sml.png"></td>
+<td>Programming 1A, 1B</td>
+<td>K-2</td>
+<td>
+<img srcset="/image/school/coding-curriculum/icon-tynker-web.png,
+                                                     /image/school/coding-curriculum/icon-tynker-web@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-web.png" alt="Tynker Web">
+</td>
+</tr>
+<tr>
+<td><img src="/image/ui/icn-level-1-sml.png"></td>
+<td>6 STEM Level 1 Courses</td>
+<td>1-5</td>
+<td>
+<img srcset="/image/school/coding-curriculum/icon-tynker-app.png,
+                                                     /image/school/coding-curriculum/icon-tynker-app@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-app.png" alt="Tynker App">&nbsp;
+<img srcset="/image/school/coding-curriculum/icon-tynker-web.png,
+                                                     /image/school/coding-curriculum/icon-tynker-web@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-web.png" alt="Tynker Web">
+</td>
+</tr>
+<tr>
+<td><img src="/image/ui/icn-level-2-sml.png"></td>
+<td>Augmented Reality</td>
+<td>3-8</td>
+<td>
+<img srcset="/image/school/coding-curriculum/icon-tynker-app.png,
+                                                     /image/school/coding-curriculum/icon-tynker-app@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-app.png" alt="Tynker App">&nbsp;
+<img srcset="/image/school/coding-curriculum/icon-tynker-web.png,
+                                                     /image/school/coding-curriculum/icon-tynker-web@2x.png 2x" src="/image/school/coding-curriculum/icon-tynker-web.png" alt="Tynker Web">
+</td>
+</tr>
+</tbody>
+</table>
+<div class="text-center">
+<a href="/school/coding-curriculum/#/s/list-of-coding-courses" class="programming-curriculum-link">View full table</a>
+</div>
+</div>
+</div>
+</div>
+<div class="zf-column large-4 large-padding-top-6">
+<br>
+<p class="large-margin-bottom-1">
+Grade-specific and self-paced, Tynker's interactive curriculum lets students learn by creatively applying coding concepts to core subjects. The curriculum includes 41 game-based coding, drone, LEGO®, STEAM, JavaScript and Python courses.
+</p>
+<br>
+<a href="coding-curriculum" class="button secondary large button-view-curriculum">View Curriculum</a>
+</div>
+</div>
+</section>
+<section class="school-logos hide-for-small-only">
+<div class="orbit" role="region" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;">
+<ul class="orbit-container">
+<li class="is-active orbit-slide">
+<div class="zf-row expanded collapse small-up-2 medium-up-3 large-up-6">
+<div class="zf-column school-callout">
+Over <span class="number">90,000</span> schools teach programming using Tynker
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-hawthorne"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-steam"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-kipp"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-wichita"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-palo-alto"></div>
+</div>
+</div>
+</li>
+<li class="orbit-slide secondary">
+<div class="zf-row expanded collapse small-up-2 medium-up-3 large-up-6">
+<div class="zf-column school-callout">
+Over <span class="number">90,000</span> schools teach programming using Tynker
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-alt"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-balsz"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-city-year"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-cps"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-deer-valley"></div>
+</div>
+</div>
+</li>
+<li class="orbit-slide secondary">
+<div class="zf-row expanded collapse small-up-2 medium-up-3 large-up-6">
+<div class="zf-column school-callout">
+Over <span class="number">90,000</span> schools teach programming using Tynker
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-fort-mcmurry"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-galveston"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-isd-728"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-khan-lab"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-kipp-dc"></div>
+</div>
+</div>
+</li>
+<li class="orbit-slide secondary">
+<div class="zf-row expanded collapse small-up-2 medium-up-3 large-up-6">
+<div class="zf-column school-callout">
+Over <span class="number">90,000</span> schools teach programming using Tynker
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-kipp-la"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-menlo"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-minnetonka"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-nyc"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-sag"></div>
+</div>
+</div>
+</li>
+<li class="orbit-slide secondary">
+<div class="zf-row expanded collapse small-up-2 medium-up-3 large-up-6">
+<div class="zf-column school-callout">
+Over <span class="number">90,000</span> schools teach programming using Tynker
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-scarsdale"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-stem-magnet"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-sweetwater"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-ucps"></div>
+</div>
+<div class="zf-column">
+<div class="school-logo school-logo-vista"></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<section id="automatic-assessments" class="automatic-assessments">
+<div class="zf-row">
+<div class="zf-column medium-6 hide-for-small-only">
+<a class="video" ng-click="playVideo('https://www.youtube.com/embed/xnt5Se304m4')">
+<span class="video-play"></span>
+<img class="featured" src="/image/school/metrics.png" />
+</a>
+</div>
+<div class="zf-column medium-6 large-padding-top-3">
+<div class="automatic-assessments-content">
+<div class="title-container">
+<h2 class="title">Automatic Assessments</h2>
+</div>
+<div class="description">
+<h6 class="feature-title"><span class="icon-checkmark"></span>Built-in Quizzes</h6>
+<p>Short quizzes at the end of each lesson ensure that students understand each concept.</p>
+<h6 class="feature-title"><span class="icon-checkmark"></span>Progress Metrics</h6>
+<p>
+View lesson progress and concept mastery at a class, school, or district level.
+</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="/classroom-management" class="classroom-management">
+<div class="zf-row">
+<div class="zf-column medium-6 large-padding-top-1">
+<div class="classroom-management-content">
+<div class="title-container">
+<h2 class="title">Classroom Management</h2>
+</div>
+<div class="description">
+<h6 class="feature-title"><span class="icon-checkmark"></span>Start Teaching in Minutes</h6>
+<p>
+Import student rosters and teachers using Tynker’s built-in integration with
+<a href="/blog/articles/ideas-and-tips/how-to-use-clever-with-tynker/">Clever Sync</a>,
+<a ng-click="playVideo('https://www.youtube.com/embed/v8hlRZtrrkc')">Google Classroom</a>, and
+Microsoft Azure.
+</p>
+<h6 class="feature-title"><span class="icon-checkmark"></span>Easily Track Your Students’ Progress</h6>
+<p>
+The teacher dashboard brings all relevant student information directly to you. Assign lessons, create showcases, and share classroom achievement with a single click.
+</p>
+</div>
+</div>
+</div>
+<div class="zf-column medium-6 hide-for-small-only image-container">
+<img class="featured" src="/image/school/easy-logins-small.png" />
+</div>
+</div>
+</section>
+
+<section class="ferpa-compliant">
+<div class="zf-row">
+<div class="zf-column medium-6 show-for-medium">
+<img src="/images/school/secure-serpa.png" />
+</div>
+<div class="zf-column medium-6 padding-top-3 large-padding-top-7">
+<div class="ferpa-compliant-content">
+<div class="title-container">
+<h2 class="title">Secure and FERPA Compliant</h2>
+</div>
+<p class="description">
+Student data is secure and owned by your district.
+Tynker is COPPA, FERPA, and SOPIPA compliant.
+Please refer to our <a href="/terms-for-educational-institution">terms of use</a> to learn more.
+</p>
+</div>
+</div>
+</div>
+</section>
+<section class="right-solution">
+<div class="zf-row collapse">
+<div class="zf-column large-6 show-for-large">
+<img src="/images/school/right-solution/photo.png" />
+</div>
+<div class="zf-column large-6 large-padding-top-2">
+<div class="right-solution-content">
+<h2 class="title">Free Professional Development</h2>
+<p class="description">
+Tynker offers a variety of free and paid training programs based on your needs. Whether or not you have coding experience, we'll help you earn PD credits and develop the skills you need to support a coding program at your school.
+</p>
+<br />
+<a href="training" target="_blank" class="button hollow button-learn-more">Learn More</a>
+</div>
+</div>
+</div>
+</section>
+<section class="programs-for-educators">
+<div class="zf-row collapse">
+<div class="zf-column large-6 large-padding-top-2">
+<div class="programs-for-educators-content">
+<h2 class="title">Blue Ribbon Program</h2>
+<p class="description">
+We created the Blue Ribbon Training Program to help bring computer science to all. Select educators receive exclusive training, tools, and support designed to help them become coding experts. In return, our Blue Ribbon educators commit to making the coding movement a reality across the globe.
+</p>
+<a href="blue-ribbon" target="_blank" class="button hollow button-learn-more">Learn More</a>
+</div>
+</div>
+<div class="zf-column large-6 show-for-large">
+<img src="/images/school/right-solution/for-educators.png" />
+</div>
+</div>
+</section>
+<section class="resources" style="background-color:#f2f2f2;">
+<div class="text-center">
+<h2>Resources</h2>
+
+</div>
+<div class="zf-row small-up-1 medium-up-2 large-up-4 xlarge-up-4">
+<div class="zf-column text-center">
+<a target="_blank" href="/support/QuickStartTeacherGuide.pdf">
+<div class="image">
+<span class="icon-book-2"></span>
+</div>
+</a>
+<h5>Guide</h5>
+<p>
+<a target="_blank" href="/support/QuickStartTeacherGuide.pdf">Quick Start for Educators</a>
+</p>
+</div>
+<div class="zf-column text-center">
+<a target="_blank" href="/support/QuickStartAdminGuide.pdf">
+<div class="image">
+<span class="icon-book-2"></span>
+</div>
+</a>
+<h5>Guide</h5>
+<p>
+<a target="_blank" href="/support/QuickStartAdminGuide.pdf">Quick Start for Administrators</a>
+</p>
+</div>
+<div class="zf-column text-center">
+<a ng-click="playVideo('//www.youtube-nocookie.com/embed/videoseries?list=PLV0jK_U88PfQykJvDcQlDi2wb3eukBByu')">
+<div class="image">
+<span class="icon-play"></span>
+</div>
+</a>
+<h5>Video</h5>
+<p>
+<a ng-click="playVideo('//www.youtube-nocookie.com/embed/ADjMCQ1YuTU')">Educator Quick Start Videos</a>
+</p>
+</div>
+<div class="zf-column text-center">
+<a ng-click="playVideo('//www.youtube-nocookie.com/embed/videoseries?list=PLV0jK_U88PfSYk3e0DGEYvTdX4ItTxJ5V')">
+<div class="image">
+<span class="icon-play"></span>
+</div>
+</a>
+<h5>Video</h5>
+<p>
+<a ng-click="playVideo('//www.youtube-nocookie.com/embed/ADjMCQ1YuTU')">Quick Start Videos for Administrators</a>
+</p>
+</div>
+</div>
+</section>
+<section class="latest-news">
+<div class="text-center">
+<h2>Latest News</h2>
+<p>From our blog</p>
+</div>
+<blog></blog>
+</section>
+<br><br>
+<section class="jobs-banner-section">
+<div class="jobs-banner-content">
+<div class="zf-row">
+<div class="small-12 medium-10 large-6 zf-column small-centered">
+<h2 class="center">Tynker is hiring!</h2>
+<p class="subtitle center">Join the Tynker team and help change the way kids learn programming</p>
+<p class="jobs-description center">Are you a creative thinker with a can-do attitude? Tynker is looking for an experienced Video Instructor with fresh video content ideas. If this sounds like you, learn more about this opportunity on our careers page.</p>
+</div>
+</div>
+<div class="row">
+<div class="small-12 medium-4 large-2 zf-column small-centered">
+<a href="/about/jobs#video-instructor" class="button hollow expanded" ga-event-click ga-event-click-label="'Jobs Banner: Learn More'">
+Learn More </a>
+</div>
+</div>
+</div>
+</section>
+
+<section class="programming-curriculum-faq">
+<div class="zf-row">
+<div class="small-12 zf-column">
+<h2 class="center">Frequently Asked Questions</h2>
+</div>
+</div>
+<div class="zf-row">
+<div class="zf-column small-12 medium-8 medium-centered large-6 home-pricing-faq-questions">
+<ul class="accordion accordion-faq" data-accordion data-multi-expand="true" data-allow-all-closed="true">
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> What is Tynker?</a>
+<div class="accordion-content" data-tab-content>
+<p>Tynker is an online platform that easily and successfully teaches students how to code through the activities they already love: games and stories. Students learn the fundamentals of programming and design through Tynker's intuitive visual programming language without the frustrations of traditional syntax.</p>
+<br>
+<p>Tynker's goal is to provide every child with a solid foundation in STEM (Science, Technology, Engineering, and Math) thinking abilities to prepare them for 21st century degrees and careers.</p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> How can I use Tynker at my school?</a>
+<div class="accordion-content" data-tab-content>
+<p>Tynker is a flexible platform that is being used in lots of ways across 90,000 schools. Schools
+are using Tynker's grade-specific lesson plans to teach programming in formal Computer Science
+classes or to support project-based learning across all subject areas -- science, math, ELA,
+social studies and more.</p><br>
+<p>Schools can use Tynker to supplement classroom teaching with 21st century skill-building or roll out a comprehensive and progressive programming curriculum across all grades.</p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> Do I need coding experience or training to use Tynker with my
+students?</a>
+<div class="accordion-content" data-tab-content>
+<p>Not at all! No coding experience and no training is required. Teachers love Tynker because the self-paced curriculum gets students started on their own. Tynker provides a rich set of resources to answer student questions, such as videos, guides, tutorials, and the very helpful Tynker Troll that provides contextual help for students. We've found that teachers can also learn alongside the students, and in a collaborative environment, students can also help and inspire each other.</p><br>
+<p>Tynker has lots of innovations to empower any teacher, regardless of experience, to teach programming to their students. With interactive lectures that teach programming concepts, step-by-step tutorials that walk students through programming projects, and hands-on coding exercises with instructions, students learn at their own pace. Teachers can spend more time with students who need extra help and less time preparing lessons.</p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> Is it easy to monitor what my students are learning?</a>
+<div class="accordion-content" data-tab-content>
+<p>Absolutely! We understand how busy educators are, which is why we have a whole suite of educator tools. Tynker has a built-in assessment framework that tracks student progress, individually and at the class level. You can use the concept map, grading and metrics dashboards to easily track how your students are learning. Tynker's Classroom Management Tools eliminate much of the "work" involved in teaching and lets you focus on your students. </p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> Do my students need prior experience?</a>
+<div class="accordion-content" data-tab-content>
+<p>Tynker provides a fun and easy introduction to programming for all students. Early elementary students can get started with Tynker through the engaging Tynker tablet app (iOS and Android) in preparation for Tynker's project-based programming courses starting in 3rd grade. Grade-specific programming courses allow students to develop skills year-after-year with the gradual transition to traditional programming languages like JavaScript.</p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> What are Tynker courses like?</a>
+<div class="accordion-content" data-tab-content>
+<p>Each of our 100-, 200- and 300-level courses consists of 16-17 lessons. Lessons are designed to last one class period (45 min to 1 hr). As students progress through a lesson, they'll be working through different types of learning modules:</p>
+<ul class="faq-list">
+<li><strong>Interactive Lectures - </strong>set the lesson context and explain the concepts that students are about to learn
+</li>
+<li><strong>Tutorials - </strong>Step-by-step instructions that guide students to build the project in Tynker Workshop.
+</li>
+<li><strong>Puzzles - </strong>A scenario is presented with some code blocks. Students are challenged to program or debug to make this code work and solve the puzzle.
+</li>
+<li><strong>Projects - </strong>An open-ended activity with instructions. Students apply what they have learned and build a project.
+</li>
+<li><strong>Quizzes - </strong>A set of fun multiple choice questions around concepts learned in the lesson. Student quiz scores are available in the Grading Dashboard.
+</li>
+</ul>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> Can I use Tynker with my entire school?</a>
+<div class="accordion-content" data-tab-content>
+<p>Absolutely! Tynker's grade-specific curricula teach programming through activities that students love!
+1st graders solve fun puzzles using Tynker's tablet app, while 3rd graders
+are creating exciting stories and animations. Upper elementary students learn the basics of game
+design to create a fun side-scrolling obstacle game while middle school students start
+experimenting with the advanced Physics Engine for physics-based projectile games before
+transitioning directly to JavaScript.</p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> How does Tynker support learning in other areas?</a>
+<div class="accordion-content" data-tab-content>
+<p>Tynker easily lends itself to supporting all areas of learning. Schools are using Tynker as a way
+for students to demonstrate their understanding of other subjects such as science and math. And
+as students work on Tynker projects they acquire a deeper knowledge of the subjects they are
+studying.</p><br>
+<p>Tynker's lessons support and enhance Common Core State Standards. <a href="/school/coding-curriculum/common-core">View Common Core mapping here</a>.</p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> What do my students learn with Tynker?</a>
+<div class="accordion-content" data-tab-content>
+<p>Tynker's curriculum is designed to teach students computational thinking and core computer
+science concepts. Through Tynker, students learn the fundamentals of programming found in all
+object-oriented programming languages. Tynker lessons not only make it easy for students to understand
+abstract programming concepts, but also allow them to apply concepts to different projects, games, and scenarios.
+Students learn programming concepts such as loops and variables,
+repetition, conditional logic, functions, computer drawing, and music. Students also acquire
+critical skills, such as problem decomposition, pattern recognition, abstraction, algorithmic
+thinking, and automation. Once students have a strong grasp of the fundamentals, they can
+transition to any mainstream programming language, such as JavaScript.</p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> What are students creating?</a>
+<div class="accordion-content" data-tab-content>
+<p>Students are creating all sorts of amazing projects. Check out some of our favorites in our <a href="/community/projects">Kid Creation's gallery</a>.</p>
+</div>
+</li>
+<li class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title"><span class="icon-arrow-right"></span> Have additional questions?</a>
+<div class="accordion-content" data-tab-content>
+<p>We have answers! <a href="/school/coding-curriculum/request">Contact us</a> to learn more about teaching
+programming at your school with Tynker.</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</section>
+
+<div id="heroVideo" class="modal video-player-box">
+<iframe src="/ide/imgs/blank.png" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+</div>
+<collect-email-on-event collector-type="sticky-footer" subscription-role="teacher" timeout="30" mouseout="true">
+</collect-email-on-event>
+<course-quick-look></course-quick-look>
+<school-bundle-preview></school-bundle-preview>
+<div class="reveal medium overview-info-modal" data-reveal id="overview-info-modal">
+<div class="slideshow">
+<div id="overview-slider" class="slider slick-slider slick-dotted" slick slick-reveal autoplay-speed="3500" fade="true" initial="0">
+<div class="slide" data-slick-index="0">
+<h5>Block and Text Coding</h5>
+<p class="subtitle">Students start with our intuitive visual language, then move to JavaScript and Python.</p>
+<div class="zf-row">
+<div class="small-12 medium-6 zf-column">
+<img src="/images/school/built-for-educators/info-overview-modal/block-text-coding.png" />
+</div>
+<div class="small-12 medium-6 zf-column">
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Easy to Use</h6>
+<p>Our drag-and-drop interface makes it easy to learn block coding and preview mainstream languages.</p>
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Fun to Learn</h6>
+<p>Our interactive notebooks allow students to learn and apply text coding skills through fun adventures.</p>
+<a class="button primary" href="coding-curriculum">View Curriculum</a>
+</div>
+</div>
+</div>
+<div class="slide hidden" data-slick-index="1">
+<h5>Comprehensive Curriculum</h5>
+<p class="subtitle">Grade-based lesson plans allow you to focus on your students.</p>
+<div class="zf-row">
+<div class="small-12 medium-6 zf-column">
+<img src="/images/school/built-for-educators/info-overview-modal/curriculum.png" />
+</div>
+<div class="small-12 medium-6 zf-column">
+<h6 class="feature-title"> <span class="icon-checkmark"></span>24 Coding and STEM Courses</h6>
+<p>We offer 12 STEM and 12 programming courses exploring block coding, Minecraft modding, drones, LEGO, JavaScript, and Python.</p>
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Self-Guided Interactive Lessons</h6>
+<p>In each lesson, students engage with interactive learning modules, mini-games, adaptive hints, coding projects, and puzzles.</p>
+<a class="button primary" href="coding-curriculum">View Curriculum</a>
+</div>
+</div>
+</div>
+<div class="slide" data-slick-index="2">
+<h5>Creative Tools</h5>
+<p class="subtitle">Students can easily build anything they imagine!</p>
+<div class="zf-row">
+<div class="small-12 medium-6 zf-column">
+<img src="/images/school/built-for-educators/info-overview-modal/creative-tools.png" />
+</div>
+<div class="small-12 medium-6 zf-column">
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Project Based Learning</h6>
+<p>Students can rapidly design multi-level games with our easy-to-use art studio, character creator, and level editor tools.</p>
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Built-In Physics Engine</h6>
+<p>Students can easily create complex physics games using simple visual blocks to simulate gravity, force, impulse, angular velocity, collisions, and more.</p>
+<a class="button primary" href="coding-curriculum">View Curriculum</a>
+</div>
+</div>
+</div>
+<div class="slide" data-slick-index="3">
+<h5>Automatic Assessments</h5>
+<p class="subtitle">We automatically assess students' mastery of skills.</p>
+<div class="zf-row">
+<div class="small-12 medium-6 zf-column">
+<img src="/images/school/built-for-educators/info-overview-modal/automatic-assessment.png" />
+</div>
+<div class="small-12 medium-6 zf-column">
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Built-in Quizzes</h6>
+<p>Short quizzes at the end of each lesson ensure that students understand each concept.</p>
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Progress Metrics</h6>
+<p>View progress through lessons and mastery of concepts at a class, school, and district level.</p>
+<a class="button primary" href="coding-curriculum">View Curriculum</a>
+</div>
+</div>
+</div>
+<div class="slide" data-slick-index="4">
+<h5>STEM Courses</h5>
+<p class="subtitle">Hundreds of PBL projects let you integrate coding into your curriculum.</p>
+<div class="zf-row">
+<div class="small-12 medium-6 zf-column">
+<img src="/images/school/built-for-educators/info-overview-modal/stem-courses.png" />
+</div>
+<div class="small-12 medium-6 zf-column">
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Coding Across the Curriculum</h6>
+<p>We offer hundreds of PBL lessons with connections to Social Studies, Math, English, and Science.</p>
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Fun DIY Projects</h6>
+<p>Students learn how to build interactive timelines, model real-world science concepts, and create fun quiz games.</p>
+<a class="button primary" href="coding-curriculum">View Curriculum</a>
+</div>
+</div>
+</div>
+<div class="slide" data-slick-index="5">
+<h5>Classroom Management</h5>
+<p class="subtitle">Easily create classrooms, import students, and see helpful metrics.</p>
+<div class="zf-row">
+<div class="small-12 medium-6 zf-column">
+<img src="/images/school/built-for-educators/info-overview-modal/classroom-management.png" />
+</div>
+<div class="small-12 medium-6 zf-column">
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Start Teaching in Minutes</h6>
+<p>Tynker's built-in integration with Clever Sync, Google Classroom, and Microsoft Azure streamlines the process of importing students. You can import students and teacher rosters with one click.</p>
+<h6 class="feature-title"> <span class="icon-checkmark"></span>Easy Lesson Assignment</h6>
+<p>Assign lessons to all your students with one click.</p>
+<a class="button primary" href="coding-curriculum">View Curriculum</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="close-reveal-modal" aria-label="Close" data-close="">×</a>
+</div>
+<div>
+<div id="join-view" ui-view></div>
+</div>
+</div>
+<help-button tags="faq" filters="teacher,coding,block coding,uncategorized,puzzle,!answer key,!teacher guide"></help-button>
+</div>
+
+<div class="content__right"></div>
+</main>
+<cookie-settings></cookie-settings>
+<div id="sticky-btm-anchor"></div>
+<footer class="">
+<div class="footer-top zf-row">
+<div class="footer-about zf-column small-12 medium-5 large-4 xlarge-3">
+<h2>About</h2>
+<p>Tynker is the world’s leading K-12 creative coding platform, enabling students of all ages to learn to code at home, school, and on the go. Tynker’s highly successful coding curriculum has been used by one in three U.S. K-8 schools, 90,000 schools globally, and over 60 million kids across 150 countries.</p>
+<a class="kid-safe-seal hide-for-medium" rel="noreferrer" href="http://www.kidsafeseal.com/certifiedproducts/tynker.html" target="_blank">
+<img border="0" alt="Tynker.com (student login area) is certified by the kidSAFE Seal Program." title="Tynker.com (student login area) is certified by the kidSAFE Seal Program." src="//www.kidsafeseal.com/sealimage/12561472311528278049/tynker_small_darktm.png" loading="lazy">
+</a>
+</div>
+<div class="footer-links zf-column small-12 medium-7 large-5 xlarge-6 show-for-medium">
+<div class="zf-row">
+<div class="zf-column small-4">
+<h2>Resources</h2>
+<ul>
+<li><a rel="noreferrer" href="http://www.tynker.com/blog/">Blog</a></li>
+<li><a href="/about/">About Us</a></li>
+<li><a href="/about/press/">Press</a></li>
+<li><a href="/about/career">Jobs</a></li>
+<li><a href="/mobile/">Mobile Apps</a></li>
+<li><a href="/ebooks">Coding eBooks</a></li>
+<li><a href="/scholarship/">Scholarship</a></li>
+<li><a rel="noreferrer" href="//forum.tynker.com" target="_blank">Forum</a></li>
+<li><a rel="noreferrer" href="//shop.tynker.com" target="_blank">Store</a></li>
+<li><a href="/call-to-authors">CS Authors</a></li>
+</ul>
+</div>
+<div class="zf-column small-4">
+<h2>Parents</h2>
+<ul>
+<li><a href="/parents/courses">Overview</a></li>
+<li><a href="/gift/">Give a Gift</a></li>
+<li><a href="/redeem/">Redeem</a></li>
+<li><a href="/content/why-coding">Why Coding</a></li>
+<li><a href="/blog/articles/category/success-stories/featured-makers/">Featured Makers</a></li>
+</ul>
+</div>
+<div class="zf-column small-4">
+<h2>Educators</h2>
+<ul>
+<li><a href="/school/">Overview</a></li>
+<li><a href="/elementary-school/coding-curriculum">Elementary</a></li>
+<li><a href="/middle-school/coding-curriculum">Middle School</a></li>
+<li><a href="/high-school/coding-curriculum">High School</a></li>
+<li><a href="/high-school/coding-curriculum/apcs-principles">AP CS Courses</a></li>
+<li><a href="/school/training/">PD</a></li>
+<li><a href="/hour-of-code/">Hour of Code</a></li>
+<li><a href="/school/stem?t=physical+science">STEM Projects</a></li>
+<li><a href="/school/coding-curriculum/request">Request a Quote</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="zf-column small-12 medium-12 large-3">
+<div class="zf-row">
+<div class="show-for-medium zf-column medium-5 large-12">
+<h2>Stay Connected</h2>
+<ul class="social-links">
+<li>
+<a rel="noreferrer" class="" href="https://www.facebook.com/GoTynker" target="_blank"><span class="icon-facebook"></span></a>
+</li>
+<li>
+<a rel="noreferrer" class="" href="https://twitter.com/gotynker" target="_blank"><span class="icon-twitter"></span></a>
+</li>
+<li>
+<a rel="noreferrer" class="" href="https://www.youtube.com/channel/UC2MAKe5X7pohhiMZ4nzdInA?sub_confirmation=1" target="_blank"><span class="icon-youtube"></span></a>
+</li>
+<li>
+<a rel="noreferrer" class="" href="https://www.instagram.com/tynkercoding" target="_blank"><span class="icon-instagram"></span></a>
+</li>
+</ul>
+</div>
+<div class="zf-column small-8 medium-7 large-12">
+<h2>Parent Newsletter</h2>
+<form id="subscribe-form" class="subscribe-form js-subscribe-form" action="/forms/subscribe" method="post">
+<input type="hidden" name="type" value="email-collector-footer" />
+<input type="hidden" name="strict" value="false" />
+<div class="alert-error hidden js-error"></div>
+<input type="text" required name="email" placeholder="Enter Your Email" />
+<input class="button secondary" type="submit" name="subscribe" value="OK" />
+</form>
+</div>
+<div class="hide-for-medium zf-column small-4">
+<ul class="social-links">
+<li>
+<a rel="noreferrer" href="https://www.facebook.com/GoTynker" target="_blank"><span class="icon-facebook"></span></a>
+</li>
+<li>
+<a rel="noreferrer" href="https://twitter.com/gotynker" target="_blank"><span class="icon-twitter"></span></a>
+</li>
+<li>
+<a rel="noreferrer" href="https://www.youtube.com/channel/UC2MAKe5X7pohhiMZ4nzdInA?sub_confirmation=1" target="_blank"><span class="icon-youtube"></span></a>
+</li>
+<li>
+<a rel="noreferrer" class="" href="https://www.instagram.com/tynkercoding" target="_blank"><span class="icon-instagram"></span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom zf-row">
+<div class="zf-column">
+<a rel="noreferrer" class="kid-safe-seal show-for-medium" href="http://www.kidsafeseal.com/certifiedproducts/tynker.html" target="_blank">
+<img border="0" alt="Tynker.com (student login area) is certified by the kidSAFE Seal Program." title="Tynker.com (student login area) is certified by the kidSAFE Seal Program." src="//www.kidsafeseal.com/sealimage/12561472311528278049/tynker_small_darktm.png" loading="lazy">
+</a>
+© 2021 Neuron Fuel <a href="/terms" target="_blank">Terms &amp; Conditions</a>
+<a class="privacy-policy" href="/privacy/non-student" target="_blank">Privacy Policy</a>
+<a class="do-not-sell-my-personal-information" scope-emit="cookieSettings.openClicked">Do Not Sell My Personal Information</a>
+<a href="/kids-online-safety" target="_blank">Kids &amp; Online Safety</a>
+<a href="/about/">About Us</a>
+<a class="info" href="/about/contact">Contact Us</a>
+</div>
+</div>
+</footer>
+
+<script type="text/javascript" src="/js/lib/foundation/foundation.min.js?cache=max&v=e2d89d1500"></script>
+<script type="text/javascript" src="/js/lib/jquery.cookie.js?cache=max&v=744790e500"></script>
+<script type="text/javascript" src="/js/lib/jquery-modal/jquery.modal.min.js?cache=max&v=f88395c500"></script>
+<script type="text/javascript" src="/js/lib/jquery-ddslick/jquery.ddslick.custom.min.js?cache=max&v=354e675500"></script>
+<script type="text/javascript" src="/js/lib/jquery-slick/slick.min.js?cache=max&v=e9fcbcc500"></script>
+<script type="text/javascript" src="/js/jquery-plugins/jquery.avatar.js?cache=max&v=861f295500"></script>
+<script type="text/javascript" src="/global/js/header.js?cache=max&v=b48fcd1500"></script>
+<script type="text/javascript" src="/ext/spine.js?cache=max&v=e7f1333500"></script>
+<script type="text/javascript" src="/js/chooseavatar.js?cache=max&v=7cdf4e9500"></script>
+<script type="text/javascript" src="/ide/js/characters"></script>
+<script type="text/javascript" src="/js/lib/ravenjs/3.22.1/raven.min.js?cache=max&v=847c6e4500" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    Raven.config('https://2c0dae7996fa454ea1a9ce1016e4c329@sentry.tynker.com/5', {
+        dataCallback: function (data) {
+            if(window.location !== undefined && window.location.href != null) {
+                if(data.extra === undefined) { data.extra = {}; }
+                data.extra['full_url'] = window.location.href;
+            }
+            return data;
+        },
+        ignoreErrors: [
+            // Error generated by a bug in auto-fill library from browser
+            // https://github.com/getsentry/sentry/issues/5267
+            /Blocked a frame with origin/,
+        ]
+    }).install();
+    Raven.setUserContext([]);
+    window.__Raven = Raven;
+</script>
+<script nomodule type="text/javascript" src="/js/dist/site_webpack.js?cache=max&v=6131bd7500" crossorigin="anonymous"></script>
+<script type="module" src="/js/dist/site_webpack_modern.js?cache=max&v=5b96c25500" crossorigin="anonymous"></script>
+<script id="site-state" type="application/json">
+    {"csrf_key":"csrf_token_site","csrf_token":"d9c53ba1-99be-49b8-9406-a55d8d0f7c0f","isEU":false,"isUserLoggedIn":false,"isToolsLogin":null,"enableJoinForFree":true,"enableModalSignInRoleSelector":true,"modalForgotPasswordTemplateModifier":null,"modalSignInTemplateModifier":null}</script>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFJHBQZ"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<script>
+/**
+ * Log an event.  Uses google analytics.  If doesn't exist, will nop.
+ */
+function _log(module, action, label, value) {
+    if (!window.ga) {
+        return;
+    }
+
+    // Assemble the category dynamically
+    var category = '(teacher) portal - ' + module;
+
+    // @TODO: Temporary, for assessing the event quota (too many events) hypothesis
+    // Silencing all events with category "(student) portal - myclass"
+    if (category == '(student) portal - myclass') {
+        return;
+    }
+
+    var params = ['send', 'event', category, action];
+    if (label) {
+        params.push('' + label);
+        if (value) {
+            params.push(parseInt(value));
+        }
+    }
+    ga.apply(null, params);
+}
+</script>
+
+<script type="text/javascript" src="/js/lib/jquery-anythingslider/jquery.anythingslider.min.js?cache=max&v=9a4aca0500"></script>
+<script type="text/javascript" src="/js/lib/jquery-waypoint/waypoints-4.0.1.min.js?cache=max&v=a2b72d4500"></script>
+<script type="text/javascript" src="/js/lib/jquery-waypoint/waypoints-sticky-4.0.1.min.js?cache=max&v=137b002500"></script>
+<script type="text/javascript" src="/global/js/school/index.js?cache=max&v=8b8bd9f500"></script>
+<script>
+    </script>
+ <script>
+        $(document).ready(function() {
+            $(document).foundation();
+
+            // @lmartinho HACK: For the subscribe form only
+            // AJAX the newsletter subscribe form, but use custom success action
+            // (redirect to the /about/newsletter page in edit mode
+            $('.js-subscribe-form').ajaxForm({
+                success: function(data) {
+                    if (!data.subscription_id) {
+                        $(this).find('.js-error').text(data.error);
+                        return;
+                    }
+                    var subscriptionId = data.subscription_id;
+                    window.location = '/about/newsletter?id=' + subscriptionId;
+                }
+            });
+
+            // Lazy load images
+            var imageObserver = new IntersectionObserver(function(entries, observer) {
+                for (const entry of entries) {
+                    if (entry.isIntersecting) {
+                        var image = entry.target;
+                        image.src = image.dataset.src;
+                        image.classList.remove('lazy-img');
+                        imageObserver.unobserve(image);
+                    }
+                }
+            });
+            document.querySelectorAll('.lazy-img').forEach(function(el){
+                imageObserver.observe(el);
+            });
+        });
+    </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"67ceddac784931e8","token":"140bac3bd19941da93aff0870b975d1b","version":"2021.8.0","si":10}'></script>
+</body>
+</html>

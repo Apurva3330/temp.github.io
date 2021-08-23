@@ -1,0 +1,267 @@
+<html>
+    <head>
+		<title>Edutech</title>
+		<style>
+			body {
+				margin: 0;
+			}
+		</style>
+		<style>		
+			#map {
+				height: 100%;
+			}
+		</style>		
+
+    </head>
+    <body>
+        <div id="map"></div>
+        <script type="text/javascript">
+			function createMap(){
+				var opts = {
+					center: {
+						lat: 28.044848,
+						lng: 49.11653,
+					},
+					zoom: 4,
+					styles: [],
+					maxZoom: 20,
+					minZoom: 0,
+					mapTypeId: 'roadmap',
+				};
+
+
+					opts.clickableIcons = false;
+                    opts.disableDoubleClickZoom = false;
+                    opts.draggable = false;
+                    opts.keyboardShortcuts = true;
+                    opts.scrollwheel = true;
+				
+
+				var setControlOptions = function(key, enabled, position, style, mapTypeIds){
+					opts[key + 'Control'] = enabled;
+					opts[key + 'ControlOptions'] = {
+						position: google.maps.ControlPosition[position],
+						style: google.maps.MapTypeControlStyle[style],
+						mapTypeIds: mapTypeIds
+					};
+				};
+				
+				setControlOptions('fullscreen',true,'DEFAULT','',null);
+				
+				setControlOptions('mapType',true,'DEFAULT','DEFAULT',["roadmap","satellite","terrain"]);
+				
+				setControlOptions('rotate',false,'DEFAULT','',null);
+				
+				setControlOptions('scale',false,'','',null);
+				
+				setControlOptions('streetView',false,'DEFAULT','',null);
+				
+				setControlOptions('zoom',true,'TOP_RIGHT','',null);
+				
+				var map = new google.maps.Map(document.getElementById('map'), opts);
+
+
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 24.453884,
+							lng: 54.377344,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#ff772d',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 21.485811,
+							lng: 39.192505,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#ff772d',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 24.713552,
+							lng: 46.675296,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#ff772d',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 26.420683,
+							lng: 50.088794,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#ff772d',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 23.588031,
+							lng: 58.382872,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#ff772d',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 29.375859,
+							lng: 47.977405,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#ff772d',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 26.22353,
+							lng: 50.587593,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#ff772d',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 25.285447,
+							lng: 51.53104,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#ff772d',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+				(function(){
+					var markerOptions = {
+						map: map,
+						position: {
+							lat: 25.204849,
+							lng: 55.270783,
+						}
+					};
+
+					markerOptions.icon = {
+						path: 'M11 2c-3.9 0-7 3.1-7 7 0 5.3 7 13 7 13 0 0 7-7.7 7-13 0-3.9-3.1-7-7-7Zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5Z',
+						scale: 1.6363636363636363636363636364,
+						anchor: new google.maps.Point(11, 22),
+						fillOpacity: 1,
+						fillColor: '#fe833f',
+						strokeOpacity: 0
+					};
+										var marker = new google.maps.Marker(markerOptions);
+
+
+				})();
+				
+			}
+        </script>
+		<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8bRYYzGx6zoyBRbkwlTvM-ILoxcq-abo&v=3.31&language=en&libraries=places,geometry&callback=createMap"></script>
+    </body>
+</html>
+

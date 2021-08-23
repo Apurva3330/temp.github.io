@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#" ng-app="app" ng-controller="LayoutCtrl">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"9eb7c160e4",applicationID:"65791987"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<meta name="ps-key" content="1624-5a208aef46aa4dc9b467ef06" />
+<meta name="ps-country" content="US" />
+<meta name="ps-language" content="en" />
+<link rel="shortcut icon" href="https://digilab.dremel.com/sites/all/themes/dremel3dedu/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://digilab.dremel.com/" />
+  <title>Dremel Digilab</title>
+  <style>
+@import url("https://digilab.dremel.com/modules/system/system.base.css?qq6l4j");
+</style>
+<style>
+@import url("https://digilab.dremel.com/modules/field/theme/field.css?qq6l4j");
+@import url("https://digilab.dremel.com/modules/node/node.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/modules/youtube/css/youtube.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/modules/contrib/nodeorder/css/nodeorder.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/modules/views/css/views.css?qq6l4j");
+</style>
+<style>
+@import url("https://digilab.dremel.com/profiles/acquia/modules/ctools/css/ctools.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/modules/panels/css/panels.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/modules/twitter_bootstrap_modal/twitter_bootstrap_modal_block/twitter_bootstrap_modal_block.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/modules/contrib/webform_layout/layout_box.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/modules/webform/css/webform.css?qq6l4j");
+</style>
+<style>
+@import url("https://digilab.dremel.com/sites/all/themes/dremel3dedu/css/elegant-icons.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/themes/dremel3dedu/css/line-icons.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/themes/dremel3dedu/addons/bootstrap/jquery.smartmenus.bootstrap.css?qq6l4j");
+@import url("https://digilab.dremel.com/sites/all/themes/dremel3dedu/css/style.css?qq6l4j");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://digilab.dremel.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://digilab.dremel.com/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="https://digilab.dremel.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script src="https://digilab.dremel.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://digilab.dremel.com/misc/drupal.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/equalheights/jquery.equalheights.js?v=1.0"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script src="https://digilab.dremel.com/misc/ajax.js?v=7.73"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/equalheights/equalheights.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/jquery_ajax_load/jquery_ajax_load.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/twitter_bootstrap_modal/twitter_bootstrap_modal.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/twitter_bootstrap_modal/twitter_bootstrap_modal_block/twitter_bootstrap_modal_block.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/contrib/vanilla_forum/js/vanilla_forum.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.73"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/webform/js/webform.js?qq6l4j"></script>
+<script src="https://www.astutebot.com/chat/script/AstuteBotLauncher.min.js"></script>
+<script src="https://digilab.dremel.com/sites/all/libraries/imagesloaded/jquery.imagesloaded.min.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/contrib/google_analytics/googleanalytics.js?qq6l4j"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-8474875-11", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://digilab.dremel.com/sites/all/modules/contrib/heatmap_me/js/heatmap.js?qq6l4j"></script>
+<script src=""></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/js/jquery.smartmenus.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/addons/bootstrap/jquery.smartmenus.bootstrap.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/addons/bootstrap/bootstrap-formhelpers-languages.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/js/jquery.cookie.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/js/object-fit-videos.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/js/rellax.min.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/js/theme.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/affix.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/alert.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/button.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/carousel.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/collapse.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/dropdown.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/modal.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/tooltip.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/popover.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/scrollspy.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/tab.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/bootstrap/assets/javascripts/bootstrap/transition.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/bootstrap/js/misc/ajax.js?qq6l4j"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dremel3dedu","theme_token":"FcOlhktIVLGDibz0_9vhPDVnVj_pq8woqsrE1wrh1bs","jquery_version":"1.10","js":{"sites\/all\/themes\/dremel3dedu\/js\/sso-scripts.js":1,"sites\/all\/themes\/dremel3dedu\/js\/janrain.js":1,"sites\/all\/themes\/dremel3dedu\/js\/custom-ui.js":1,"https:\/\/crm.zoho.com\/crm\/javascript\/zcga.js":1,"sites\/all\/modules\/custom\/astute\/js\/astute.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/equalheights\/jquery.equalheights.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/equalheights\/equalheights.js":1,"sites\/all\/modules\/jquery_ajax_load\/jquery_ajax_load.js":1,"sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal.js":1,"sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal_block\/twitter_bootstrap_modal_block.js":1,"sites\/all\/modules\/contrib\/vanilla_forum\/js\/vanilla_forum.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"https:\/\/www.astutebot.com\/chat\/script\/AstuteBotLauncher.min.js":1,"sites\/all\/libraries\/imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/heatmap_me\/js\/heatmap.js":1,"":1,"sites\/all\/themes\/dremel3dedu\/js\/jquery.smartmenus.js":1,"sites\/all\/themes\/dremel3dedu\/addons\/bootstrap\/jquery.smartmenus.bootstrap.js":1,"sites\/all\/themes\/dremel3dedu\/addons\/bootstrap\/bootstrap-formhelpers-languages.js":1,"sites\/all\/themes\/dremel3dedu\/js\/jquery.cookie.js":1,"sites\/all\/themes\/dremel3dedu\/js\/object-fit-videos.js":1,"sites\/all\/themes\/dremel3dedu\/js\/rellax.min.js":1,"sites\/all\/themes\/dremel3dedu\/js\/theme.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/dremel3dedu\/bootstrap\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/nodeorder\/css\/nodeorder.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal_block\/twitter_bootstrap_modal_block.css":1,"sites\/all\/modules\/contrib\/webform_layout\/layout_box.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/themes\/dremel3dedu\/css\/elegant-icons.css":1,"sites\/all\/themes\/dremel3dedu\/css\/line-icons.css":1,"sites\/all\/themes\/dremel3dedu\/addons\/bootstrap\/jquery.smartmenus.bootstrap.css":1,"sites\/all\/themes\/dremel3dedu\/css\/style.css":1}},"jquery_ajax_load":{"trigger":".jquery_ajax_load","target":"#jquery_ajax_load_target","toggle":true,"animation":true,"base_path":"\/","module_path":"sites\/all\/modules\/jquery_ajax_load","site_name":"Dremel Digilab","TBtrigger":".twitter_bootstrap_modal\r","TBmodaltrigger":".tb_modal\r,#askquestion\r","TBmodule":"sites\/all\/modules\/twitter_bootstrap_modal","TBpath":"\/","TBname":"Dremel Digilab"},"printcloudUrl":"https:\/\/printcloud.dremel.com","twitter_bootstrap_modal_block":{"trigger":".tb_block_modal\r\n\r\n","link_type":"btn-primary"},"ajax":{"edit-webform-ajax-submit-1326":{"callback":"webform_ajax_callback","wrapper":"webform-ajax-wrapper-1326","progress":{"message":"","type":"throbber"},"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}},"edit-webform-ajax-submit-23":{"callback":"webform_ajax_callback","wrapper":"webform-ajax-wrapper-23","progress":{"message":"","type":"throbber"},"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"urlIsAjaxTrusted":{"\/system\/ajax":true,"\/":true},"webform":{"conditionals":{"webform-client-form-23":{"ruleGroups":{"rgid_0":{"andor":null,"actions":{"aid_0":{"target":"webform-component--main-col--country-state--state","invert":0,"action":"require","argument":""}},"rules":{"rid_0":{"source_type":"component","source":"webform-component--main-col--country-state--Country","value":"US","callback":"conditionalOperatorStringEqual"}}},"rgid_1":{"andor":null,"actions":{"aid_0":{"target":"webform-component--main-col--country-state--state","invert":1,"action":"show","argument":""}},"rules":{"rid_0":{"source_type":"component","source":"webform-component--main-col--country-state--Country","value":"US","callback":"conditionalOperatorStringNotEqual"}}}},"sourceMap":{"webform-component--main-col--country-state--Country":{"rgid_0":"rgid_0","rgid_1":"rgid_1"}},"values":[]}}},"astuteChat":{"secondsBeforeDisplaying":"2","chatInitiallyVisible":false,"fullScreenMobile":true,"hideLauncherButtonWhenChatVisible":true,"autoGetStarted":true,"persistConversationAcrossSession":false,"replyHeightPixels":"50","toggleChatMarkup":"\u003Cspan id=\u0022astute-chat-toggle-text\u0022\u003ENeed Help?\u003C\/span\u003E\u003Cimg id=\u0022astute-chat-toggle-icon\u0022 src=\u0022\/sites\/all\/modules\/custom\/astute\/img\/chat-icon.svg\u0022 \/\u003E","titleMarkup":"\u003Cimg id=\u0022astute-chat-window-icon\u0022 src=\u0022\/sites\/all\/modules\/custom\/astute\/img\/chat-icon.svg\u0022 \/\u003E \u003Cspan id=\u0022astute-chat-window-title\u0022\u003EWith you all the way\u003C\/span\u003E","botUrl":"https:\/\/www.astutebot.com\/chat\/index.aspx?aid=IGTM%2BpGbCci7YgEZOaPd3Q%3D%3D","customCss":"@import url(\u0022\/sites\/all\/modules\/custom\/astute\/css\/astute.css\u0022); .test {background: red;}"},"equalHeightsModule":{"classes":[{"selector":".equal-height","mediaquery":"","minheight":"","maxheight":"","overflow":"auto"}],"imagesloaded_ie8":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"auto","selector":"","trigger":"hover","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-1391 node-type-flexpage">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="region region-page-top">
+    
+          <!-- Begin Tealium Integration -->
+          
+          <script type="text/javascript">
+            <!--//--><![CDATA[//><!--
+            var utag_data = {"page_name":"Dremel Education"};
+            //--><!]]>
+          </script>
+
+          <script type="text/javascript">
+            <!--//--><![CDATA[//><!--
+            (function(a,b,c,d){ 
+              a='//tags.tiqcdn.com/utag/bosch/digilab-dremel/prod/utag.js'; 
+              b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true; 
+              a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); 
+            })();
+            //--><!]]>
+          </script>
+          
+          <!-- End Tealium Integration -->
+          
+          </div>
+  <div class="modal fade in hidden" id="login-form" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+          <h4>Login</h4>
+        </div>
+        <div class="modal-body">
+
+
+
+<div class='container page-login wrapper-login transparent' ng-cloak>
+    <div class="login-page">
+        <div class="col-md-6 col-sm-12 external-providers animation-visible container" data-animation="fadeInLeft" data-animation-delay="200" style="animation-delay: 200ms; -webkit-animation-delay: 200ms;">
+            <p>Click <a href="https://dremel-sso-profile3.boschwebservices.com/login?signin=db5a56a223de6e204737959ddcc779c4" target="_blank"><strong>here</strong> </a>to log in with your Facebook, Twitter, Google, Microsoft or Yahoo account</p><br />
+        </div>
+        <div class="col-md-6 col-sm-12 border-left container" ng-show="model.loginUrl" data-animation="fadeInRight" data-animation-delay="200" style="animation-delay: 200ms; -webkit-animation-delay: 200ms;">
+
+            <h4 class="section-divide bentonsansregularold">Or</h4>
+            <div class="panel-default">
+                <h3 class="h3-right bentonsansregularold">Sign in with your email & password</h3>
+                <div ng-show="model.errorMessage" class="alert alert-danger bentonsansregularold" style="margin-top: 40px;">
+                    <strong>Error:</strong>
+                    <div ng-show="model.errorMessage" id="errorMessage">{{model.errorMessage}}</div>
+
+                </div>
+                <div class="padding-login">
+                    <form name="form" method="post" action="https://dremel-sso-profile3.boschwebservices.com/login?signin=20d7b702e017365c9ac3e4105b8818b3">
+                        <anti-forgery-token token="model.antiForgery"></anti-forgery-token>
+                        <fieldset>
+                            <div class="form-group required-orange">
+                                <label for="username" class="bentonsansregularold">Email</label>
+                                <input required name="username" autofocus id="username" type="text" class="form-control bentonsansregularold" placeholder="Email Address" ng-model="model.username">
+                            </div>
+                            <div class="form-group required-orange">
+                                <label for="password" class="bentonsansregularold">Password</label>
+                                <input required id="password" name="password" type="password" class="form-control bentonsansregularold" placeholder="Password" ng-model="model.password" autocomplete="off">
+                            </div>
+                            <div class="form-group" ng-show="{{model.additionalLinks}}">
+                                <a ng-href="{{model.additionalLinks[0].href}}" class="bentonsansregularold">{{model.additionalLinks[0].text}}</a>&nbsp;?
+                            </div>
+                            <div class="form-group login-remember" ng-show="model.allowRememberMe" style="padding: 0 !important;">
+                                <label for="rememberMe">
+                                    <input type="checkbox" id="rememberMe" name="rememberMe" ng-model="model.rememberMe" value="true">
+                                    <strong class="bentonsansregularold">Remember My Login</strong>
+                                </label>
+                            </div>
+                            <div class="form-group">
+                                <button class="btn btn-primary bentonsansregularold" ng-disabled="form.$invalid">Log In</button>
+                            </div>
+                            <div>
+                                <p class="bentonsansregularold">By signing in to this site you agree to the Terms of Use and certify that you are at least 13 years old</p>
+                            </div>
+                            <div>
+                                <p class="bentonsansregularold">Dremel has made enhancements to the website for the new 3D40.  Please verify your account after login, by clicking on the send verification email link.</p>
+                            </div>
+                        </fieldset>
+                    </form>
+                    <div ng-show="{{model.additionalLinks}}">
+                        <p class="registrationtext">Not a member yet?&nbsp;<a ng-href="{{model.additionalLinks[1].href}}" class="bentonsansregularold registrationlinktext">{{model.additionalLinks[1].text}}</a>
+                        </p>
+                    </div>
+                </div>
+                <!--<ul class="list-unstyled no-margin">
+                    <li ng-repeat="link in model.additionalLinks"><a ng-href="{{link.href}}" class="bentonsansregularold">{{link.text}}</a></li>
+                </ul>-->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Explore if there is a better way to do the error validation and avoid scripting, may be do it in the CustomViewService through Custom property -->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script> -->
+<script type="text/javascript" async>
+    jQuery(document).ready(function() {
+        function parseError() {
+            var error = jQuery('#errorMessage').text();
+            if (error.indexOf('NotVerified') > -1) {
+                var email = error.split(':')[1];
+                var form = '<form id="resendemail" method="POST" action="resendactivation?email=' + email + '">'
+                    + '<div>This account has not been verified. Please check your inbox for the account activation email. '
+                    + 'Click <a name="blah" href="#/" onclick=$(resendemail).submit(); return false;>here</a>'
+                    + ' to resend the account activation email.</div></form>';
+                    jQuery('#errorMessage').html(form);
+            }
+        }
+
+        setTimeout(parseError, 100);
+    });
+</script>
+
+    <script id='modelJson' type='application/json'>
+        {&quot;loginUrl&quot;:&quot;/login?signin=20d7b702e017365c9ac3e4105b8818b3&quot;,&quot;antiForgery&quot;:{&quot;name&quot;:&quot;idsrv.xsrf&quot;,&quot;value&quot;:&quot;jjxBSEG7L2x50rh9CuAxPsR4uPl6PrHOBwuBLsxxFNrWX9LLfMgUDbJh835GhVFeNThUQ1_5_jZ-J8FK7CZZo19Z8my0PF9PwJidFrzKt6s&quot;},&quot;allowRememberMe&quot;:true,&quot;rememberMe&quot;:false,&quot;username&quot;:null,&quot;externalProviders&quot;:[],&quot;additionalLinks&quot;:[{&quot;text&quot;:&quot;Forgot Password&quot;,&quot;href&quot;:&quot;http://dremel-sso-profile3.boschwebservices.com/forgotpassword?signin=20d7b702e017365c9ac3e4105b8818b3&quot;},{&quot;text&quot;:&quot;Create your free account here&quot;,&quot;href&quot;:&quot;http://dremel-sso-profile3.boschwebservices.com/Register?signin=20d7b702e017365c9ac3e4105b8818b3&quot;}],&quot;clientName&quot;:&quot;digilab.dremel.com&quot;,&quot;clientUrl&quot;:null,&quot;clientLogoUrl&quot;:&quot;&quot;,&quot;errorMessage&quot;:null,&quot;requestId&quot;:&quot;7b171baf-12c0-42bf-a420-c8e17a3b7ea6&quot;,&quot;siteUrl&quot;:&quot;http://dremel-sso-profile3.boschwebservices.com/&quot;,&quot;siteName&quot;:&quot;Identity Server&quot;,&quot;currentUser&quot;:null,&quot;logoutUrl&quot;:&quot;http://dremel-sso-profile3.boschwebservices.com/logout&quot;,&quot;custom&quot;:null}
+    </script>
+
+
+
+
+        </div>
+      </div>
+  </div>
+</div>
+
+<header id="navbar" role="banner" class="navbar container-fluid navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+              <a class="logo navbar-btn" href="/" title="Home">
+          <img src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/logo.png" alt="Home" />
+        </a>
+      
+      
+              <div class="nav-burger">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        </div>
+      
+    </div>
+
+          <div class="navbar-collapse collapse" id="navbar-collapse">
+
+
+
+      <nav role="navigation">
+
+          
+                        <div class="nav-main"><ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/products" data-target="#" class="dropdown-toggle">3D Printers <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/products/3d45">3D45</a></li>
+<li class="leaf"><a href="/products/3d40-FLEX">3D40 FLEX</a></li>
+<li class="leaf"><a href="/products/edu-bundle">3D EDU Bundle</a></li>
+<li class="leaf"><a href="/products/3d20">3D20</a></li>
+<li class="last leaf"><a href="/products/filaments">3D Materials</a></li>
+</ul></li>
+<li class="expanded dropdown"><a data-target="#" class="dropdown-toggle nolink">Software <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/3D-software">3D</a></li>
+<li class="last leaf"><a href="/laser-software">Laser Software</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/explore" data-target="#" class="dropdown-toggle">Explore <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="https://digilab.dremel.com/about-us">About </a></li>
+<li class="leaf"><a href="/blog">Blog</a></li>
+<li class="last leaf"><a href="/news">News</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/educators" data-target="#" class="dropdown-toggle">Education <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/resources/lesson-plans">Lesson Plans</a></li>
+<li class="leaf"><a href="/resources/professional-development">Professional Development</a></li>
+<li class="last leaf"><a href="/funding">Funding</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/support-choose-your-product" data-target="#" class="dropdown-toggle">Support <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/service-3d45">3D45</a></li>
+<li class="leaf"><a href="/Service-3D40">3D40</a></li>
+<li class="leaf"><a href="/service-3d20">3D20</a></li>
+<li class="last leaf"><a href="/laser-support">LC40</a></li>
+</ul></li>
+</ul></div>
+          
+          <div class="request-info">
+            <a href="/information-request?" role="button">Get a Quote</a>
+          </div>
+
+                      <div class="nav-user"><ul class="menu nav navbar-nav secondary"><li class="first leaf"><a href="/user/login">Log in</a></li>
+<li class="last leaf"><a href="/user/register">Register</a></li>
+</ul></div>
+          
+          <div class="nav-country bfh-selectbox bfh-countries" data-country="US" data-flags="true">
+            <input type="hidden" value="">
+            <a class="bfh-selectbox-toggle" role="button" data-toggle="bfh-selectbox" href="#">
+              <span class="bfh-selectbox-option input-medium" data-option=""></span>
+            </a>
+            <div class="bfh-selectbox-options">
+              <input type="text" class="bfh-selectbox-filter">
+              <div role="listbox">
+              <ul role="option">
+              </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+                </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container-fluid">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div>
+
+  <section>
+
+   <section>
+                  <a id="main-content"></a>
+
+                                              <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-1391" class="node node-flexpage clearfix" about="/flex-homepage" typeof="sioc:Item foaf:Document">
+    <header>
+    
+
+    
+    <span property="dc:title" content="Homepage" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>      </header>
+    
+<div class="paragraphs-items paragraphs-items-field-fp-section paragraphs-items-field-fp-section-full paragraphs-items-full">
+  <div class="field field-name-field-fp-section field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-zero homepage-hero hero-content-center padding-bottom-zero c-fb-col-full" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><style>#pid-1406 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_1440/public/c-hero-bgd-images/3D40%20EDU%20Contextual%201_large.jpg?itok=I_r3U69S);}@media only screen and (min-width: 90rem) {#pid-1406 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_2880/public/c-hero-bgd-images/3D40%20EDU%20Contextual%201_large.jpg?itok=TwHRbM5K);}}@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi) {#pid-1406 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_2880/public/c-hero-bgd-images/3D40%20EDU%20Contextual%201_large.jpg?itok=TwHRbM5K);}}@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 90rem), only screen and (min-resolution: 192dpi) and (min-width: 90rem) {#pid-1406 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_4320/public/c-hero-bgd-images/3D40%20EDU%20Contextual%201_large.jpg?itok=YtA1jqEI);}}@media only screen and (max-width:48rem) {#pid-1406 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_800/public/c-hero-bgd-images/3D40%20EDU%20Contextual%201_large.jpg?itok=T32cViFp);}}@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width:48rem), only screen and (min-resolution: 192dpi) and (max-width:48rem) {#pid-1406 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_1600/public/c-hero-bgd-images/3D40%20EDU%20Contextual%201_large.jpg?itok=IHQetlg-);}}</style><div class="entity entity-paragraphs-item paragraphs-item-c-hero" about="" typeof="" id="pid-1406">
+
+  
+  <div class="overlay"></div>
+
+  <div class="hero-content">
+    <div class="hero-content-container">
+      <div class="hero-body">
+                        <div class="field field-name-field-c-hero-body field-type-text-long field-label-above"><div class="field-label">Hero Body:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="hero-title-top">Dremel DigiLab 3D Printers</div>
+<div class="hero-title-bottom">Technology Made Simple</div>
+</div></div></div>      </div>
+      
+<div class="field field-name-field-c-hero-primary-cta field-type-link-field field-label-hidden">
+    <div class="field-items">
+
+                                    <div class="field-item even">
+              <a href="https://digilab.dremel.com/products">View Products</a>              </div>
+                                            <div class="field-item odd">
+              <a href="https://digilab.dremel.com/information-request?">Get a Quote</a>              </div>
+              
+    </div>
+</div>
+                            </div>
+  </div>
+</div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-default complete-set padding-bottom-default c-fb-col-full c-bgd-image text-color--light" about="" typeof="" style="background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_1200/public/c-bgd-images/190531_Dremel_HRFM_Printer%20Fam.png?itok=Z5XouiD_)">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-flexblock" about="" typeof="" id="pid-1436">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width12" about="" typeof="" id="pid-1431">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-body" about="" typeof="" id="pid-1426">
+  <div class="field field-name-field-c-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="pre-header" style="color: #ffffff;">your complete set of tools</span></p>
+<h2>the DigiLab Collection</h2>
+</div></div></div></div>
+</div>
+</div>
+</div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-zero plain-hero padding-bottom-zero c-fb-col-full" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><style>#pid-1446 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_1440/public/c-hero-bgd-images/Mars-Rover_01-FInal_2.png?itok=yULo5PjE);}@media only screen and (min-width: 90rem) {#pid-1446 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_2880/public/c-hero-bgd-images/Mars-Rover_01-FInal_2.png?itok=Wn6UZG7h);}}@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi) {#pid-1446 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_2880/public/c-hero-bgd-images/Mars-Rover_01-FInal_2.png?itok=Wn6UZG7h);}}@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 90rem), only screen and (min-resolution: 192dpi) and (min-width: 90rem) {#pid-1446 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_4320/public/c-hero-bgd-images/Mars-Rover_01-FInal_2.png?itok=WAV7im90);}}@media only screen and (max-width:48rem) {#pid-1446 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_800/public/c-hero-bgd-images/Mars-Rover_01-FInal_2.png?itok=kEwnKkdt);}}@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width:48rem), only screen and (min-resolution: 192dpi) and (max-width:48rem) {#pid-1446 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_1600/public/c-hero-bgd-images/Mars-Rover_01-FInal_2.png?itok=ZtD-Grfs);}}</style><div class="entity entity-paragraphs-item paragraphs-item-c-hero" about="" typeof="" id="pid-1446">
+
+  
+  <div class="overlay"></div>
+
+  <div class="hero-content">
+    <div class="hero-content-container">
+      <div class="hero-body">
+                              </div>
+                                  </div>
+  </div>
+</div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-default top-element padding-bottom-default c-width12 c-bgd-color8" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-block" about="" typeof="" id="pid-4101">
+  <div class="field field-name-field-c-block-ref field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item even"><section id="block-bean-latest-news" class="block block-bean clearfix">
+
+      
+  <div class="entity entity-bean bean-paragraph-block clearfix" about="/block/latest-news" typeof="">
+        <h2>Check Out the Latest News</h2>
+      <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-flexblock paragraphs-items-field-flexblock-full paragraphs-items-full">
+  <div class="field field-name-field-flexblock field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-flexblock" about="" typeof="" id="pid-4096">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width6" about="" typeof="" id="pid-4071">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-image" about="" typeof="" id="pid-4066">
+  <div class="field field-name-field-c-image-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://bit.ly/2O7A43q"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/max_1200/public/3D40-EDU_4_1.jpg?itok=euWkuDv5" alt="Dremel Google Education Partnership" /></a></div></div></div><div class="field field-name-field-c-image-caption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="https://www.blog.google/outreach-initiatives/education/how-stem-tools-chromebooks-turn-students-makers-and-inventors/" target="_blank">Google Blog</a></h3>
+<p>How STEM tools on Chromebooks turn students into makers and inventors</p>
+</div></div></div></div>
+</div>
+</div>
+  <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width6" about="" typeof="" id="pid-4081">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-image" about="" typeof="" id="pid-4076">
+  <div class="field field-name-field-c-image-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.pcmag.com/review/359957/dremel-digilab-3d45-3d-printer"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/max_1200/public/3D45_1.png?itok=Ull-lDOo" alt="" /></a></div></div></div><div class="field field-name-field-c-image-caption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="https://www.pcmag.com/review/359957/dremel-digilab-3d45-3d-printer" target="_blank">Dremel 3D45: PCMag Review</a></h3>
+<p>See why PCMag rated the 3D45 the #1 3D Printer of it's class!</p>
+</div></div></div></div>
+</div>
+</div>
+</div>
+</div></div></div></div>
+  </div>
+</div>
+
+</section></div></div></div></div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-zero plain-hero rellax padding-bottom-zero c-fb-col-full" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><style>#pid-1456 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_1440/public/c-hero-bgd-images/robot-hands.jpg?itok=gONZxu0_);}@media only screen and (min-width: 90rem) {#pid-1456 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_2880/public/c-hero-bgd-images/robot-hands.jpg?itok=gJH5O64d);}}@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi) {#pid-1456 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_2880/public/c-hero-bgd-images/robot-hands.jpg?itok=gJH5O64d);}}@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 90rem), only screen and (min-resolution: 192dpi) and (min-width: 90rem) {#pid-1456 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_4320/public/c-hero-bgd-images/robot-hands.jpg?itok=3Y4evpJ9);}}@media only screen and (max-width:48rem) {#pid-1456 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_800/public/c-hero-bgd-images/robot-hands.jpg?itok=QuKqaE8N);}}@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width:48rem), only screen and (min-resolution: 192dpi) and (max-width:48rem) {#pid-1456 {background-image: url(https://digilab.dremel.com/sites/default/files/styles/max_1600/public/c-hero-bgd-images/robot-hands.jpg?itok=jl9aZuXP);}}</style><div class="entity entity-paragraphs-item paragraphs-item-c-hero" about="" typeof="" id="pid-1456">
+
+  
+  <div class="overlay"></div>
+
+  <div class="hero-content">
+    <div class="hero-content-container">
+      <div class="hero-body">
+                              </div>
+                                  </div>
+  </div>
+</div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-default testimonials top-element padding-bottom-zero c-width12 c-bgd-color8" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-flexblock" about="" typeof="" id="pid-1656">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width12" about="" typeof="" id="pid-1541">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-body" about="" typeof="" id="pid-1536">
+  <div class="field field-name-field-c-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p class="sub-heading" style="text-align: center;">hear it from our</p>
+<h1 style="text-align: center;">consumer testimonials</h1>
+</div></div></div></div>
+</div>
+</div>
+  <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width12" about="" typeof="" id="pid-1581">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-body" about="" typeof="" id="pid-1576">
+  <div class="field field-name-field-c-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><hr /></div></div></div></div>
+</div>
+</div>
+  <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width12" about="" typeof="" id="pid-1611">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock" about="" typeof="" id="pid-1606">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width8" about="" typeof="" id="pid-1591">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-body" about="" typeof="" id="pid-1586">
+  <div class="field field-name-field-c-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>“Our five Dremel 3D printers in the College of Engineering makerspace have about 800 hours of use per unit, totaling 4,000 hours of printing. Dremel printers can stand up to the constant flow of students making parts for their projects. We are excited about this next level of manufacturing with the Dremel DigiLab 3D45.”</p>
+<p class="testimonial-source"><strong>ERIC SCHMIDT</strong> | DIRECTOR OF THE COLLEGE OF ENGINEERING MAKERSPACE AT THE UNIVERSITY OF ILLINOIS – CHICAGO</p>
+</div></div></div></div>
+</div>
+</div>
+  <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width4" about="" typeof="" id="pid-1601">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-image" about="" typeof="" id="pid-1596">
+  <div class="field field-name-field-c-image-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/max_1200/public/Printer_Alternate_01_1.png?itok=HMpgemae" alt="3D printers" /></div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width12" about="" typeof="" id="pid-1621">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-body" about="" typeof="" id="pid-1616">
+  <div class="field field-name-field-c-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><hr /></div></div></div></div>
+</div>
+</div>
+  <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width12" about="" typeof="" id="pid-1651">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock" about="" typeof="" id="pid-1646">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width4" about="" typeof="" id="pid-1631">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-image" about="" typeof="" id="pid-1626">
+  <div class="field field-name-field-c-image-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/max_1200/public/3D40%2BEDU%2BClassroom%2B3.jpg?itok=2yT7TrTw" alt="3d printer" /></div></div></div></div>
+</div>
+</div>
+  <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width8" about="" typeof="" id="pid-1641">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-body" about="" typeof="" id="pid-1636">
+  <div class="field field-name-field-c-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>“The Dremel DigiLab 3D40 is unstoppable! It's built to last in an educational setting. It is safe and user friendly! My students are constantly checking out what is printing and planning on what they will print next! Students design with intention - as they now can bring their 2-D conceptual design into the 3-D world! Holding their design in hand is magic!”</p>
+<p class="testimonial-source"><strong>SUSAN</strong> | PROJECT LEAD THE WAY INSTRUCTOR - HOLMES JUNIOR HIGH SCHOOL</p>
+<p> </p>
+<p> </p>
+</div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width12" about="" typeof="" id="pid-31326">
+  
+<div class="paragraphs-items paragraphs-items-field-c-fb-column-component paragraphs-items-field-c-fb-column-component-full paragraphs-items-full">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock" about="" typeof="" id="pid-31321">
+    <div class="entity entity-paragraphs-item paragraphs-item-c-flexblock-column c-fb-col-width12" about="" typeof="" id="pid-31336">
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-default padding-bottom-zero c-width12" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-body" about="" typeof="" id="pid-1506">
+  <div class="field field-name-field-c-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p class="sub-heading" style="text-align: center;">say hello to</p>
+<h1 style="text-align: center;">our partners</h1>
+</div></div></div></div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-default logos-grid padding-bottom-default c-width12 c-bgd-color7" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-block" about="" typeof="" id="pid-4146">
+  <div class="field field-name-field-c-block-ref field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item even"><section id="block-bean-logos-component" class="block block-bean clearfix">
+
+      
+  <div class="entity entity-bean bean-paragraph-block clearfix" about="/block/logos-component" typeof="">
+        <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-flexblock paragraphs-items-field-flexblock-full paragraphs-items-full">
+  <div class="field field-name-field-flexblock field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-images-grid image-grid" about="" typeof="" id="pid-4141">
+  <div class="field field-name-field-c-images-grid-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/large/public/c-images-grid-images/google-education_0.png?itok=L36qhE9K" alt="" /></div><div class="field-item odd"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/large/public/c-images-grid-images/autodesk_0.png?itok=uh2KNVVc" alt="" /></div><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/large/public/c-images-grid-images/hp_0.png?itok=s8ZOdY4I" alt="" /></div><div class="field-item odd"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/large/public/c-images-grid-images/first-robotics-competition_0.png?itok=wBAJ29Ew" alt="" /></div><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/large/public/c-images-grid-images/zspace_0.png?itok=ou2vpNBp" alt="" /></div><div class="field-item odd"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/large/public/c-images-grid-images/pltw_0.png?itok=7pQyssYl" alt="" /></div><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/large/public/c-images-grid-images/3Duniverse_logo_DigilabGrey_200pxWide.png?itok=woMoGERw" alt="" /></div><div class="field-item odd"><img typeof="foaf:Image" class="img-responsive" src="https://digilab.dremel.com/sites/default/files/styles/large/public/c-images-grid-images/dynamism_logo_DigilabGrey_200pxWide.png?itok=Yv9SXt4k" alt="" /></div></div></div></div>
+</div></div></div></div>
+  </div>
+</div>
+
+</section></div></div></div></div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-default hidden newsletter-modal padding-bottom-default c-width12" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-block" about="" typeof="" id="pid-5736">
+  <div class="field field-name-field-c-block-ref field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item even"><section id="block-bean-newsletter-signup" class="block block-bean clearfix">
+
+        <h2 class="block-title">Newsletter Signup</h2>
+    
+  <div class="entity entity-bean bean-modal-bean clearfix" about="/block/newsletter-signup" typeof="">
+  <div class="content">
+
+    
+  	<button class="button button-primary text-center" data-toggle="modal" data-target="#newsletter-popup"></button>
+
+    <div class="modal fade" id="newsletter-popup" tabindex="-1" role="dialog">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                          <h4 >Newsletter Signup</h4>
+                      </div>
+          <div class="modal-body">
+            <div  about="/webform/newsletter-popup" typeof="sioc:Item foaf:Document" class="ds-1col node node-webform node-promoted view-mode-default container clearfix">
+
+  
+  <div id="webform-ajax-wrapper-1326"><form class="webform-client-form webform-client-form-1326" action="/" method="post" id="webform-client-form-1326" accept-charset="UTF-8"><div><div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <img src="/sites/all/themes/dremel3dedu/images/newsletter_signup-image.jpg" class="img-responsive" alt="Dremel 3D Printer" />
+
+    </div>
+    <div class="col-md-6">
+      <div class="form-item webform-component webform-component-markup webform-component--top form-group form-item form-type-markup form-group"><h1>Sign Up For the DigiLab Newsletter!<br /><h1>
+</h1></h1><p>Be the first to know about new releases, special offers, maker projects, and more by signing up today.</p>
+</div>      <div class="form-item webform-component webform-component-textfield webform-component--name form-group form-item form-item-submitted-name form-type-textfield form-group"> <label class="control-label" for="edit-submitted-name">Name</label>
+<input class="form-control form-text" type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="128" /></div>      <div class="form-item webform-component webform-component-email webform-component--e-mail form-group form-item form-item-submitted-e-mail form-type-webform-email form-group"> <label class="control-label" for="edit-submitted-e-mail">Email <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="email form-control form-text form-email required" type="email" id="edit-submitted-e-mail" name="submitted[e_mail]" size="60" /></div>      <div class="form-item webform-component webform-component-radios webform-component--are-you-a-canadian-resident form-group form-item form-item-submitted-are-you-a-canadian-resident form-type-radios form-group"> <label class="control-label" for="edit-submitted-are-you-a-canadian-resident">Are You a Canadian Resident?</label>
+<div id="edit-submitted-are-you-a-canadian-resident" class="form-radios"><div class="form-item form-item-submitted-are-you-a-canadian-resident form-type-radio radio"> <label class="control-label" for="edit-submitted-are-you-a-canadian-resident-1"><input type="radio" id="edit-submitted-are-you-a-canadian-resident-1" name="submitted[are_you_a_canadian_resident]" value="yes" class="form-radio" />yes</label>
+</div><div class="form-item form-item-submitted-are-you-a-canadian-resident form-type-radio radio"> <label class="control-label" for="edit-submitted-are-you-a-canadian-resident-2"><input type="radio" id="edit-submitted-are-you-a-canadian-resident-2" name="submitted[are_you_a_canadian_resident]" value="no" checked="checked" class="form-radio" />no</label>
+</div></div></div>      <div class="form-item webform-component webform-component-hidden webform-component--hybris-source-id form-item form-item-submitted-hybris-source-id form-type-hidden" style="display: none"><input type="hidden" name="submitted[hybris_source_id]" value="DLNANewsPopup" />
+</div><input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-yqx_2u1CMEOUoKGzX-vi94LVjCeLZKy-RDSyFMJSUbk" />
+<input type="hidden" name="form_id" value="webform_client_form_1326" />
+<input type="hidden" name="webform_ajax_wrapper_id" value="webform-ajax-wrapper-1326" />
+<div class="form-actions"><button class="webform-submit button-primary btn btn-default form-submit" id="edit-webform-ajax-submit-1326" type="submit" name="op" value="Submit">Submit</button>
+</div>    </div>
+  </div>
+  <hr />
+  <div class="row">
+    <div class="col-md-12">
+      <p class="terms">By signing up you agree to receive emails from Dremel with news, special offers and promotions. You can unsubscribe at any time. See our terms of use and privacy policy for more information or contact us at Robert Bosch Tool Corporation, 1800 West Central Rd, Mount Prospect, IL 60056 or (877) 267-2499.</p>
+    </div>
+  </div>
+</div>
+</div></form></div></div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</section></div></div></div></div>
+</div></div></div></div>
+  </div>
+</div>
+</div><div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-c-section padding-top-default hidden ready-to-purchase-webform padding-bottom-default c-width12" about="" typeof="">
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-c-component paragraphs-items-field-c-component-full paragraphs-items-full">
+  <div class="field field-name-field-c-component field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-c-block" about="" typeof="" id="pid-6231">
+  <div class="field field-name-field-c-block-ref field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item even"><section id="block-bean-ready-to-purchase-modal" class="block block-bean clearfix">
+
+        <h2 class="block-title">Ready To Purchase?</h2>
+    
+  <div class="entity entity-bean bean-modal-bean clearfix" about="/block/ready-to-purchase-modal" typeof="">
+  <div class="content">
+
+    <div class="col-md-10 col-sm-12 col-sm-offset-1 text-center">
+<h1 class="text-white">Ready To Purchase? Have any questions?</h1>
+<h3 class="text-white">We're here to help and provide any additional information you need.</h3>
+</div>
+
+  	<button class="button button-primary text-center" data-toggle="modal" data-target="#readytopurchasemodal">Request Additional Information</button>
+
+    <div class="modal fade" id="readytopurchasemodal" tabindex="-1" role="dialog">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                          <h4 >Ready To Purchase?</h4>
+                      </div>
+          <div class="modal-body">
+            <div  about="/webform/information-request" typeof="sioc:Item foaf:Document" class="ds-1col node node-webform node-promoted view-mode-default container clearfix">
+
+  
+  <div id="webform-ajax-wrapper-23"><form class="webform-client-form webform-client-form-23" action="/" method="post" id="webform-client-form-23" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-hidden webform-component--returnURL form-item form-item-submitted-returnurl form-type-hidden" style="display: none"><input type="hidden" name="submitted[returnURL]" value="https://digilab.dremel.com" />
+</div><div  class="col-md-12 webform-layout-box vert webform-component--main-col"><div class="form-item webform-component webform-component-markup webform-component--main-col--header form-group form-item form-type-markup form-group"><h3> </h3>
+<h3><strong>To contact a sales rep immediately,<br /> please call <a href="tel:+18448003736">+1-844-800-3736</a>.</strong></h3>
+</div><div class="form-item webform-component webform-component-markup webform-component--main-col--contact-information form-group form-item form-type-markup form-group"><h2>Contact Information</h2>
+</div><div  class="webform-layout-box equal webform-component--main-col--name child-width-2"><div class="form-item webform-component webform-component-textfield webform-component--main-col--name--first-name form-group form-item form-item-submitted-main-col-name-first-name form-type-textfield form-group"> <label class="control-label" for="edit-submitted-main-col-name-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-main-col-name-first-name" name="submitted[main_col][name][first_name]" value="" size="60" maxlength="128" /></div><div class="form-item webform-component webform-component-textfield webform-component--main-col--name--last-name form-group form-item form-item-submitted-main-col-name-last-name form-type-textfield form-group"> <label class="control-label" for="edit-submitted-main-col-name-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-main-col-name-last-name" name="submitted[main_col][name][last_name]" value="" size="60" maxlength="128" /></div></div><div  class="webform-layout-box equal webform-component--main-col--email-phone child-width-2"><div class="form-item webform-component webform-component-email webform-component--main-col--email-phone--Email form-group form-item form-item-submitted-main-col-email-phone-email form-type-webform-email form-group"> <label class="control-label" for="edit-submitted-main-col-email-phone-email">Email <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="email form-control form-text form-email required" type="email" id="edit-submitted-main-col-email-phone-email" name="submitted[main_col][email_phone][Email]" size="60" /></div><div class="form-item webform-component webform-component-textfield webform-component--main-col--email-phone--Phone form-group form-item form-item-submitted-main-col-email-phone-phone form-type-textfield form-group"> <label class="control-label" for="edit-submitted-main-col-email-phone-phone">Phone <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-main-col-email-phone-phone" name="submitted[main_col][email_phone][Phone]" value="" size="60" maxlength="128" /></div></div><div  class="webform-layout-box equal webform-component--main-col--job-school child-width-2"><div class="form-item webform-component webform-component-textfield webform-component--main-col--job-school--Designation form-group form-item form-item-submitted-main-col-job-school-designation form-type-textfield form-group"> <label class="control-label" for="edit-submitted-main-col-job-school-designation">Job Title <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-main-col-job-school-designation" name="submitted[main_col][job_school][Designation]" value="" size="60" maxlength="100" /></div><div class="form-item webform-component webform-component-textfield webform-component--main-col--job-school--Company form-group form-item form-item-submitted-main-col-job-school-company form-type-textfield form-group"> <label class="control-label" for="edit-submitted-main-col-job-school-company">School / Company <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-main-col-job-school-company" name="submitted[main_col][job_school][Company]" value="" size="60" maxlength="128" /></div></div><div  class="webform-layout-box horiz webform-component--main-col--country-state"><div class="form-item webform-component webform-component-country-list webform-component--main-col--country-state--Country webform-container-inline form-group form-inline form-item form-item-submitted-main-col-country-state-country form-type-select form-group"> <label class="control-label" for="edit-submitted-main-col-country-state-country">Country <span class="form-required" title="This field is required.">*</span></label>
+<select class="form-control form-select required" id="edit-submitted-main-col-country-state-country" name="submitted[main_col][country_state][Country]"><option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="BQ">Caribbean Netherlands</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo (Brazzaville)</option><option value="CD">Congo (Kinshasa)</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CW">Curaçao</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island and McDonald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong S.A.R., China</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao S.A.R., China</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="KP">North Korea</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestinian Territory</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="BL">Saint Barthélemy</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="MF">Saint Martin (French part)</option><option value="PM">Saint Pierre and Miquelon</option><option value="VC">Saint Vincent and the Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SX">Sint Maarten</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia and the South Sandwich Islands</option><option value="KR">South Korea</option><option value="SS">South Sudan</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard and Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="VI">U.S. Virgin Islands</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US" selected="selected">United States</option><option value="UM">United States Minor Outlying Islands</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select></div><div class="form-item webform-component webform-component-select webform-component--main-col--country-state--state webform-container-inline form-group form-inline form-item form-item-submitted-main-col-country-state-state form-type-select form-group"> <label class="control-label" for="edit-submitted-main-col-country-state-state">State <span class="form-required" title="This field is required.">*</span></label>
+<select required="required" class="form-control form-select required" id="edit-submitted-main-col-country-state-state" name="submitted[main_col][country_state][state]"><option value="" selected="selected">- Select -</option><option value="Alabama">Alabama</option><option value="Alaska">Alaska</option><option value="Arizona">Arizona</option><option value="Arkansas">Arkansas</option><option value="California">California</option><option value="Colorado">Colorado</option><option value="Connecticut">Connecticut</option><option value="Deleware">Deleware</option><option value="Florida">Florida</option><option value="Georgia">Georgia</option><option value="Hawaii">Hawaii</option><option value="Idaho">Idaho</option><option value="Illinois">Illinois</option><option value="Indiana">Indiana</option><option value="Iowa">Iowa</option><option value="Kansas">Kansas</option><option value="Kentucky">Kentucky</option><option value="Louisiana">Louisiana</option><option value="Maine">Maine</option><option value="Maryland">Maryland</option><option value="Massachusetts">Massachusetts</option><option value="Michigan">Michigan</option><option value="Minnesota">Minnesota</option><option value="Mississippi">Mississippi</option><option value="Missouri">Missouri</option><option value="Montana">Montana</option><option value="Nebraska">Nebraska</option><option value="Nevada">Nevada</option><option value="New Hampshire">New Hampshire</option><option value="New Jersey">New Jersey</option><option value="New Mexico">New Mexico</option><option value="New York">New York</option><option value="North Carolina">North Carolina</option><option value="North Dakota">North Dakota</option><option value="Ohio">Ohio</option><option value="Oklahoma">Oklahoma</option><option value="Oregon">Oregon</option><option value="Pennsylvania">Pennsylvania</option><option value="Rhode Island">Rhode Island</option><option value="South Carolina">South Carolina</option><option value="South Dakota">South Dakota</option><option value="Tennessee">Tennessee</option><option value="Texas">Texas</option><option value="Utah">Utah</option><option value="Vermont">Vermont</option><option value="Virginia">Virginia</option><option value="Washington">Washington</option><option value="Washington D.C.">Washington D.C.</option><option value="West Virginia">West Virginia</option><option value="Wisconsin">Wisconsin</option><option value="Wyoming">Wyoming</option></select></div></div><div class="form-item webform-component webform-component-markup webform-component--main-col--purchase-information form-group form-item form-type-markup form-group"><h2>Purchase Information</h2>
+</div><div  class="webform-layout-box equal webform-component--main-col--segment-decdate child-width-2"><div class="form-item webform-component webform-component-select webform-component--main-col--segment-decdate--decision-date webform-container-inline form-group form-inline form-item form-item-submitted-main-col-segment-decdate-decision-date form-type-select form-group"> <label class="control-label" for="edit-submitted-main-col-segment-decdate-decision-date">Decision Date <span class="form-required" title="This field is required.">*</span></label>
+<select required="required" class="form-control form-select required" id="edit-submitted-main-col-segment-decdate-decision-date" name="submitted[main_col][segment_decdate][decision_date]"><option value="" selected="selected">- Select -</option><option value="Immediately">Immediately</option><option value="Less than a Month">Less than a Month</option><option value="1 to 3 Months">1 to 3 Months</option><option value="3 to 6 Months">3 to 6 Months</option><option value="6 Months or Longer">6 Months or Longer</option></select></div><div class="form-item webform-component webform-component-select webform-component--main-col--segment-decdate--Lead Source webform-container-inline form-group form-inline form-item form-item-submitted-main-col-segment-decdate-lead-source form-type-select form-group"> <label class="control-label" for="edit-submitted-main-col-segment-decdate-lead-source">How Did You Hear About Us? <span class="form-required" title="This field is required.">*</span></label>
+<select required="required" class="form-control form-select required" id="edit-submitted-main-col-segment-decdate-lead-source" name="submitted[main_col][segment_decdate][Lead Source]"><option value="" selected="selected">- Select -</option><option value="Blog / Article">Article / Blog</option><option value="Referral - Word of Mouth">Referral / Word of Mouth</option><option value="Google / Internet Search">Google / Search Engine</option><option value="Trade Show">Trade Show / Conference</option><option value="Email Advertisement">Email Advertisement</option></select></div></div><div  class="webform-layout-box equal webform-component--main-col--quantities-segment child-width-2"><div  class="webform-layout-box horiz webform-component--main-col--quantities-segment--quantities"><div class="form-item webform-component webform-component-markup webform-component--main-col--quantities-segment--quantities--quantities-markup form-group form-item form-type-markup form-group"><p>Quantity to Quote?</p>
+</div><div  class="webform-layout-box vert webform-component--main-col--quantities-segment--quantities--quantities-fields"><div class="form-item webform-component webform-component-number webform-component--main-col--quantities-segment--quantities--quantities-fields--3d-printers webform-container-inline form-group form-inline form-item form-item-submitted-main-col-quantities-segment-quantities-quantities-fields-3d-printers form-type-webform-number form-group"> <label class="control-label" for="edit-submitted-main-col-quantities-segment-quantities-quantities-fields-3d-printers">3D Printers <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text form-number required" type="text" id="edit-submitted-main-col-quantities-segment-quantities-quantities-fields-3d-printers" name="submitted[main_col][quantities_segment][quantities][quantities_fields][3d_printers]" step="1" /></div></div></div><div class="form-item webform-component webform-component-select webform-component--main-col--quantities-segment--LEADCF20 webform-container-inline form-group form-inline form-item form-item-submitted-main-col-quantities-segment-leadcf20 form-type-select form-group"> <label class="control-label" for="edit-submitted-main-col-quantities-segment-leadcf20">Segment <span class="form-required" title="This field is required.">*</span></label>
+<select required="required" class="form-control form-select required" id="edit-submitted-main-col-quantities-segment-leadcf20" name="submitted[main_col][quantities_segment][LEADCF20]"><option value="" selected="selected">- Select -</option><option value="K-12">K-12</option><option value="Higher Ed">Higher Ed</option><option value="Corporation">Corporation</option><option value="Library / Institution">Library / Institution</option><option value="Consumer">Consumer</option><option value="Small Business">Small Business</option><option value="Other">Other</option></select></div></div><div class="form-item webform-component webform-component-textarea webform-component--main-col--LEADCF18 form-group form-item form-item-submitted-main-col-leadcf18 form-type-textarea form-group"> <label class="control-label" for="edit-submitted-main-col-leadcf18">Comment</label>
+<div class="form-textarea-wrapper"><textarea class="form-control form-textarea" id="edit-submitted-main-col-leadcf18" name="submitted[main_col][LEADCF18]" cols="60" rows="5"></textarea></div></div></div><div class="form-item webform-component webform-component-hidden webform-component--site-referral form-item form-item-submitted-site-referral form-type-hidden" style="display: none"><input type="hidden" name="submitted[site_referral]" value="" />
+</div><input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-nJSN9320nyVPUShKkegp8I2pzevmKwvBPDPV6lZ_Jzg" />
+<input type="hidden" name="form_id" value="webform_client_form_23" />
+<input type="hidden" name="webform_ajax_wrapper_id" value="webform-ajax-wrapper-23" />
+<div class="form-actions"><button class="webform-submit button-primary btn btn-default form-submit" id="edit-webform-ajax-submit-23" type="submit" name="op" value="Submit">Submit</button>
+</div></div></form></div></div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</section></div></div></div></div>
+</div></div></div></div>
+  </div>
+</div>
+</div></div></div></div>
+    </article>
+
+</section>
+  </div>
+    </section>
+  </div>
+</div>
+  <footer class="footer container-fluid">
+    <div class="pre-footer">
+      <div class="row">
+        <div class="footer--menu-primary">
+            <div class="region region-pre-footer">
+    <section id="block-menu-menu-pre-footer-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first expanded footer--quote-menu"><a href="https://digilab.dremel.com/information-request?">Get a Quote</a><ul class="menu nav"><li class="first leaf"><a href="/webform/newsletter-popup" aria-label="More information on the Sign Up For Newsletter">Sign Up For Newsletter</a></li>
+<li class="leaf"><a href="/products" aria-label="More information on the Where to Buy">Where to Buy</a></li>
+<li class="leaf"><a href="https://shop.dremel.com/delivery-and-returns/" aria-label="More information on the Return Policy">Return Policy</a></li>
+<li class="last leaf"><a href="https://digilab.dremel.com/sites/default/files/Dremel%203D45%20Warranty.pdf" aria-label="More information on the Warranty Information">Warranty Information</a></li>
+</ul></li>
+<li class="expanded"><a href="/products">Products</a><ul class="menu nav"><li class="first leaf"><a href="/products/3d45" aria-label="More information on the 3D45">3D45</a></li>
+<li class="leaf"><a href="/products/3d40-FLEX" aria-label="More information on the 3D40 FLEX">3D40 FLEX</a></li>
+<li class="leaf"><a href="/products/edu-bundle" aria-label="More information on the 3D EDU">3D EDU</a></li>
+<li class="last leaf"><a href="/products/3d20" aria-label="More information on the 3D20">3D20</a></li>
+</ul></li>
+<li class="expanded"><a href="/explore">Explore</a><ul class="menu nav"><li class="first leaf"><a href="/blog" aria-label="More information on the Blog">Blog</a></li>
+<li class="leaf"><a href="https://digilab.dremel.com/about-us" aria-label="More information on the About ">About </a></li>
+<li class="last leaf"><a href="https://digilab.dremel.com/news" aria-label="More information on the News">News</a></li>
+</ul></li>
+<li class="expanded"><a href="/resources">Educational Resources</a><ul class="menu nav"><li class="first leaf"><a href="/resources/lesson-plans" aria-label="More information on the Lesson Plans">Lesson Plans</a></li>
+<li class="leaf"><a href="/resources/professional-development" aria-label="More information on the Professional Development">Professional Development</a></li>
+<li class="last leaf"><a href="/funding" aria-label="More information on the Funding">Funding</a></li>
+</ul></li>
+<li class="expanded"><a href="/get-a-quote">Request Information</a><ul class="menu nav"><li class="first leaf"><a aria-label="More information on the Sales Inquiries (+1 844-800-3736)" class="nolink">Sales Inquiries (+1 844-800-3736)</a></li>
+<li class="leaf"><a aria-label="More information on the Customer Service  (+1 844-437-6533)" class="nolink">Customer Service  (+1 844-437-6533)</a></li>
+<li class="last leaf"><a href="/support/reseller-application" aria-label="More information on the New Reseller Application">New Reseller Application</a></li>
+</ul></li>
+<li class="expanded"><a href="https://digilab.dremel.com/promos">Promotions</a><ul class="menu nav"><li class="first last leaf"><a href="https://digilab.dremel.com/lp_3dtradein   " aria-label="More information on the Trade-ins">Trade-ins</a></li>
+</ul></li>
+<li class="expanded"><a href="/products/filaments">Materials</a><ul class="menu nav"><li class="first leaf"><a href="/products/filaments" aria-label="More information on the Filaments">Filaments</a></li>
+<li class="last leaf"><a href="/products/materials" aria-label="More information on the Laser Cutter Materials">Laser Cutter Materials</a></li>
+</ul></li>
+<li class="expanded"><a class="nolink">Software</a><ul class="menu nav"><li class="first leaf"><a href="/3D-software" aria-label="More information on the 3D Software">3D Software</a></li>
+<li class="last leaf"><a href="/laser-software" aria-label="More information on the Laser Software">Laser Software</a></li>
+</ul></li>
+<li class="last expanded"><a class="nolink">Support</a><ul class="menu nav"><li class="first leaf"><a href="/service-3d45" aria-label="More information on the 3D45">3D45</a></li>
+<li class="leaf"><a href="/Service-3D40" aria-label="More information on the 3D40">3D40</a></li>
+<li class="leaf"><a href="/service-3d20" aria-label="More information on the 3D20">3D20</a></li>
+<li class="last leaf"><a href="/lc40-discontinuance-faqs" aria-label="More information on the LC40">LC40</a></li>
+</ul></li>
+</ul>
+</section>
+  </div>
+        </div>
+        <div class="container footer--social-media">
+          <a href="https://www.facebook.com/DremelDigiLab" target="_blank" class="icon icon-facebook"></a>
+          <a href="https://twitter.com/DremelDigiLab" target="_blank" class="icon icon-twitter"></a>
+          <a href="https://www.instagram.com/dremeldigilab" target="_blank" class="icon icon-instagram"></a>
+          <a href="https://www.pinterest.com/dremeldigilab" target="_blank" class="icon icon-pintrest"></a>
+        </div>
+      </div>
+    </div>
+      <div class="footer-wrapper footer-end">
+      <div class="container-fluid">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="footer--logo">
+              <img src="/sites/all/themes/dremel3dedu/images/dremel.png" alt="Dremel" />
+            </div>
+            <div class="footer--menu">
+                <div class="region region-footer">
+    <section id="block-menu-menu-footer-menu" class="block block-menu text-center clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/terms" title="Terms Of Use">Terms</a></li>
+<li class="leaf"><a href="/privacy" title="Privacy Policy">Privacy</a></li>
+<li class="leaf"><a href="https://digilab.dremel.com/sites/default/files/EULAGen2_final%20TAC%2002may2017%20%20.pdf">EULA</a></li>
+<li class="leaf"><a href="https://digilab.dremel.com/web-accessibility">Accessibility</a></li>
+<li class="last leaf"><a href="https://www.dremel.com/en_US/unsubscribe">Unsubscribe</a></li>
+</ul>
+</section>
+  </div>
+            </div>
+            <div class="footer--copyright">
+              &copy; Copyright 2021 DREMEL - All Rights Reserved
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </footer>
+    <div class="region region-page-bottom">
+    <script src="//cdn.pricespider.com/1/lib/ps-widget.js" async></script><script type="text/javascript" src="https://secure.leadforensics.com/js/141496.js"></script>
+      <noscript><img src="https://secure.leadforensics.com/141496.png" alt="" style="display:none;" /></noscript>    <aside class="notification">
+      <div class="notification-inner">
+      <div class="notification-content" onclick="closeCovid()">
+        
+        <p><strong>Dremel 3D Printers and related products are not FDA approved for any medical application</strong> such as, but not limited to, printing or making test swabs and ventilator components. The purchaser and any end user assumes all risk with respect to any medical related products or devices created by Dremel 3D Printers and related products. Robert Bosch Tool Corporation/Dremel disclaims any representations or warranties of any kind, whether express or implied, with respect to any products created by Dremel 3D Printers or related parts. It is the sole responsibility of the customer to evaluate and determine the suitability of any products or devices created by Dremel 3D Printers or related products.</p>
+      </div>
+      <button class="notification-close" type="button">&times;</button>
+      </div>
+    </aside>
+   
+  </div>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/js/sso-scripts.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/js/janrain.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/dremel3dedu/js/custom-ui.js?qq6l4j"></script>
+<script src="https://crm.zoho.com/crm/javascript/zcga.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/modules/custom/astute/js/astute.js?qq6l4j"></script>
+<script src="https://digilab.dremel.com/sites/all/themes/bootstrap/js/bootstrap.js?qq6l4j"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9eb7c160e4","applicationID":"65791987","transactionName":"ZlwDZhRRXRJVBUNfXF8WIFESWVwPGxZWUVZuVABcB1dWE2sIWFJWbk8IVxFvQwBTAw==","queueTime":0,"applicationTime":210,"atts":"ShsAEFxLThw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

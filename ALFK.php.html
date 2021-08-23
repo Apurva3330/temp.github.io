@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 //EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<title>Art Lab For Kids - Susan Schwake</title>
+		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+		<link href="alfk.css" rel="stylesheet" type="text/css" media="all">
+		
+		<script type="text/javascript" src="js/jquery-pack.js"></script>
+		<script type="text/javascript" src="js/jquery.cycle.js"></script>
+		<script>
+		$(function() {
+
+    
+    $('#slides').cycle({
+    pauseOnPagerHover: 0,
+        fx:     'fade',
+        speed:   1000,
+        timeout: 0,
+        delay:-1500,
+         pager:  '#nav', 
+    pagerAnchorBuilder: function(idx, slide) { 
+        // return selector string for existing anchor 
+        return '<li><a href="#"><img src="' + jQuery(slide).find('img').attr('src') + '" width="50" height="auto" /></a></li>'; 
+    } 
+    });
+    
+
+       
+       
+});
+</script>
+
+	</head>
+
+	<body>
+	
+		
+		<div id="container">
+		<div id="alfa" style="background:#419CB7; position:absolute; float:left; padding:3px 15px; text-align:center; margin:0 0 0 0px; width:auto; border-radius:0 0 5px 5px"> <a href="http://susanschwake.com/class">Art Class: Susan's online art courses for adults.</a></div>
+        <!--<div id="alfa" style="background:#84B5B5; position:absolute; padding:3px 15px; text-align:center; margin:0 0 0 450px; width:auto; border-radius:0 0 5px 5px"> <b><a href="http://arc.artstreamstudios.com">Art {retreat} Camp</a></b> 2016 on Mayhew Island, NH. Summer Camp for<strong> Adults</strong>!</div>-->
+		<div id="head">
+		<div id="hinfo">
+		<div id="title">
+		<h4>Susan Schwake</h4>
+		<h2>books - art adventures for all ages</h2>
+	<a href="index.php"><img src="http://artstreamstudios.com/aktu/ALFKEYcover.png"  height="100" width="100"></a>&nbsp;&nbsp;
+		<a href="ArtCamp.php"><img src="img/art-camp-cover.png"  height="100" width="100"></a>&nbsp;&nbsp;
+		<a href="AFAS.php"><img src="img/Art-for-all-seasons-book.jpg"  height="100" width="100"></a>&nbsp;&nbsp;
+		<a href="ALFK.php"><img src="img/cover.jpg"  height="100" width="100"></a>&nbsp;&nbsp;
+		<a href="ALFL.php"><img src="img/ALFL.jpg"  height="100" width="100"></a>&nbsp;&nbsp;
+		<a href="3DAL.php"><img src="img/3DAL.jpg" height="100" width="100"></a>&nbsp;
+		</div>
+		
+		<div id="monstah">
+						<img src="img/monstah.png"></div>
+		<div id="cover"><img src="img/cover.jpg"></div>
+		</div>
+		<div id="menus">
+		<div id="menu1">
+		<div class="m1a"><a href="index.php">books</a></div>
+		<div class="m1"><a href="author.html">author</a></div>
+		<div class="m1"><a href="reviews.html">reviews</a></div>
+		<div class="m1"><a href="http://handtoart.blogspot.com" target="blog">blog</a></div>
+		<div class="m1"><a href="buy.html">buy</a></div>
+		
+		</div>
+		<div class="clear"></div>
+		<div id="menu2">
+		<div class="m2"><a href="index.php">Express Yourself</a></div>  
+        <div class="m2"><a href="ArtCamp.php">Art Camp</a></div>  
+		<div class="m2"><a href="AFAS.php">Art for all Seasons</a></div>  
+		<div class="m2 s"><a href="ALFK.php">Art Lab for Kids</a></div>                 
+		<div class="m2"><a href="ALFL.php">Little Kids</a></div>
+		<div class="m2"><a href="3DAL.php">3-D Art Lab</a></div>
+		
+		</div>
+		</div>
+		</div>
+		<div id="mainr">
+		<div id="text">
+		<h3>Art Lab for Kids</h3><img src="img/cover.jpg"><div id="ar"> Art Lab for Kids published by Quarry Books.<a href="buy.html">Order a signed copy here.</a>
+				<div id="nl">
+				 	
+           <script language=JavaScript type=text/javascript>
+function checkNEmail(form) {
+	if (isBlank(form.email.value) || isBlank(form.name.value) || !isEmailValid(form.email.value) ) 
+	{
+		alert("Please enter a valid Name and  Email Address .\nThe email or name you have typed in does not appear to be valid.");
+		form.email.focus();
+		return false;
+	}
+	}
+
+function checkEmail(form) {
+	if (isBlank(form.email.value) || !isEmailValid(form.email.value) ) {
+		alert("Please enter a valid Email Address.\nThe email you have typed in does not appear to be valid.");
+		form.email.focus();
+		return false;
+	}
+return true;
+
+}
+
+function isBlank(fieldValue) {
+	var blankSpaces = / /g;
+	fieldValue = fieldValue.replace(blankSpaces, "");
+	return (fieldValue == "") ? true : false;
+}
+
+function isEmailValid(fieldValue) {
+	var emailFilter = /^.+@.+\..{2,4}$/;
+	var atSignFound = 0;
+	for (var i = 0; i <= fieldValue.length; i++)
+		if ( fieldValue.charAt(i) == "@" )
+			atSignFound++;
+	if ( atSignFound > 1 )
+		return false;
+	else
+		return ( emailFilter.test(fieldValue) && !doesEmailHaveInvalidChar(fieldValue) ) ? true : false;
+}
+
+function doesEmailHaveInvalidChar(fieldValue) {
+	var illegalChars = /[\(\)\<\>\,\;\:\\\/\"\[\] ]/;
+	return ( illegalChars.test(fieldValue) ) ? true : false;
+}
+</script>
+
+
+<form action="http://susanschwake.com/newsletter/index.php?page=mail&" target="_blank" name="subscribe" onsubmit="javascript:return checkNEmail(this);" method="post">Newsletter<br>
+	 <input name="name" type="text" class="box" id="email2" value="Your Name" size="15" onfocus="this.value='';" style="font-size: 10px; font-family: Verdana;">
+
+  <input name="group" type="hidden" id="group[]" value="1">
+
+       
+
+<input name="email" type="text" class="box" id="email2" value="Your Email" size="15" onfocus="this.value='';" style="font-size: 10px; font-family: Verdana;">
+
+<input type="hidden" name="subscribe" id="subscribe" value="true" selected>
+
+         
+
+          <br>
+	<input name="Submit2" type="submit" class="box" value="Send" style="font-size: 10px; font-family: Verdana;">
+
+        
+
+   
+
+</form>		 <!--
+		 <form id="newsletter" action="http://susanschwake.com/cgi-sys/FormMail.cgi" method="post" name="newsletter" style="display:inline">
+<input type="hidden" name="recipient" value="info@susanschwake.com">
+<input type="hidden" value="newsletter ALFK" name="subject">
+<input type="hidden" name="required" value="email">
+<input type="hidden" name="redirect" value="../thanks.html">
+<hr>Sign up for newsletter: <br>
+<input type="text" name="email"  value="your email" style="font-family:Arial; font-size:10px; border:1px solid #999999; width:110px" onclick="javascript:if (document.newsletter.email.value == 'your email') {document.newsletter.email.value=''}"> 
+<input type="submit" name="signup" value="send"  style="font-family:Arial; font-size:10px; border:1px solid; border-color: #999999 #444444 #444444 #999999;"></form>
+-->
+		
+		</div>
+		</div>
+	<p>A refreshing source of ideas for creating fine art with children, Art Lab for Kids encourages the artist's own voice, marks and style. This fun and creative book features 52 fine art projects set into weekly lessons, beginning with drawing, moving through painting and printmaking, and then building to paper collage and mixed media. <p>Each lesson features and relates to the work of a contemporary artist working in a particular style. The labs can be used as singular projects or to build up to a year of hands-on fine art experiences. The lessons in this book are open-ended to be explored over and over -- with different results each time! 
+					<br><br><img src="img/alfki1.jpg" class="in"><br>
+					<img src="img/alfki2.jpg" class="in"><br>
+					<img src="img/alfki3.jpg" class="in">
+		</div>
+	<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-47890654-1', 'susanschwake.com');
+
+  ga('send', 'pageview');
+
+
+
+</script></body>
+
+</html>

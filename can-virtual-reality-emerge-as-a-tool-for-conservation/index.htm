@@ -1,0 +1,599 @@
+<!doctype html>
+<html class="no-js" lang="en-US" >
+	<head>
+		<meta charset="UTF-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:false}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1bf2c69c97",applicationID:"157999336"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+		<!-- Custom Data Layer for Google Tag Manager -->
+		<script id="dataLayerUpdate">
+            var dataLayer = window.dataLayer = window.dataLayer || [];
+            dataLayer.push({
+    "section": "Science & Technology",
+    "column": "",
+    "series": "",
+    "author": "Heather Millar",
+    "journal": "The Journal of the Learning Sciences",
+    "publishDate": "20160811",
+    "age": 1825,
+    "contentType": "Long Reads",
+    "wordCount": 1626,
+    "pageTitle": "Can Virtual Reality Emerge as a Tool for Conservation? &#8211; JSTOR Daily",
+    "pageType": "article"
+});
+		</script>
+		<!-- End Custom Data Layer for Google Tag Manager -->
+			<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W3S34Q8');</script>
+	<!-- End Google Tag Manager -->
+	
+	<!-- This site is optimized with the Yoast SEO plugin v16.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Can Virtual Reality Emerge as a Tool for Conservation? | JSTOR Daily</title>
+	<meta name="description" content="New advances in technology are sparking efforts to use virtual reality to help people gain a deeper appreciation of environmental challenges." />
+	<link rel="canonical" href="https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Can Virtual Reality Emerge as a Tool for Conservation? | JSTOR Daily" />
+	<meta property="og:description" content="New advances in technology are sparking efforts to use virtual reality to help people gain a deeper appreciation of environmental challenges." />
+	<meta property="og:url" content="https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/" />
+	<meta property="og:site_name" content="JSTOR Daily" />
+	<meta property="article:publisher" content="https://www.facebook.com/JSTOR.org" />
+	<meta property="article:published_time" content="2016-08-11T21:40:00+00:00" />
+	<meta property="article:modified_time" content="2016-08-11T21:45:52+00:00" />
+	<meta property="og:image" content="https://daily.jstor.org/wp-content/uploads/2016/08/Stanford_VR_coral_world_1050x700.jpg" />
+	<meta property="og:image:width" content="1050" />
+	<meta property="og:image:height" content="700" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@heather_millar" />
+	<meta name="twitter:site" content="@JSTOR_Daily" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://daily.jstor.org/#organization","name":"JSTOR Daily","url":"https://daily.jstor.org/","sameAs":["https://www.facebook.com/JSTOR.org","https://twitter.com/JSTOR_Daily"],"logo":{"@type":"ImageObject","@id":"https://daily.jstor.org/#logo","inLanguage":"en-US","url":"https://daily.jstor.org/wp-content/uploads/2016/08/J_Daily-Logo_04_350w.png","contentUrl":"https://daily.jstor.org/wp-content/uploads/2016/08/J_Daily-Logo_04_350w.png","width":351,"height":111,"caption":"JSTOR Daily"},"image":{"@id":"https://daily.jstor.org/#logo"}},{"@type":"WebSite","@id":"https://daily.jstor.org/#website","url":"https://daily.jstor.org/","name":"JSTOR Daily","description":"where news meets its scholarly match","publisher":{"@id":"https://daily.jstor.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://daily.jstor.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#primaryimage","inLanguage":"en-US","url":"https://daily.jstor.org/wp-content/uploads/2016/08/Stanford_VR_coral_world_1050x700.jpg","contentUrl":"https://daily.jstor.org/wp-content/uploads/2016/08/Stanford_VR_coral_world_1050x700.jpg","width":1050,"height":700,"caption":"Stanford VR coral world"},{"@type":"WebPage","@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#webpage","url":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/","name":"Can Virtual Reality Emerge as a Tool for Conservation? | JSTOR Daily","isPartOf":{"@id":"https://daily.jstor.org/#website"},"primaryImageOfPage":{"@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#primaryimage"},"datePublished":"2016-08-11T21:40:00+00:00","dateModified":"2016-08-11T21:45:52+00:00","description":"New advances in technology are sparking efforts to use virtual reality to help people gain a deeper appreciation of environmental challenges.","breadcrumb":{"@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/"]}]},{"@type":"BreadcrumbList","@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://daily.jstor.org/"},{"@type":"ListItem","position":2,"name":"Archives","item":"https://daily.jstor.org/archives/"},{"@type":"ListItem","position":3,"name":"Can Virtual Reality Emerge as a Tool for Conservation?"}]},{"@type":"Article","@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#article","isPartOf":{"@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#webpage"},"author":{"@id":"https://daily.jstor.org/#/schema/person/bd6991967dde1abcd1de483c8ade1005"},"headline":"Can Virtual Reality Emerge as a Tool for Conservation?","datePublished":"2016-08-11T21:40:00+00:00","dateModified":"2016-08-11T21:45:52+00:00","mainEntityOfPage":{"@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#webpage"},"wordCount":1591,"publisher":{"@id":"https://daily.jstor.org/#organization"},"image":{"@id":"https://daily.jstor.org/can-virtual-reality-emerge-as-a-tool-for-conservation/#primaryimage"},"thumbnailUrl":"https://daily.jstor.org/wp-content/uploads/2016/08/Stanford_VR_coral_world_1050x700.jpg","keywords":["conservation","oceans","virtual reality"],"articleSection":["Science &amp; Technology","Technology"],"inLanguage":"en-US"},{"@type":"Person","@id":"https://daily.jstor.org/#/schema/person/bd6991967dde1abcd1de483c8ade1005","name":"Heather Millar","image":{"@type":"ImageObject","@id":"https://daily.jstor.org/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/58faac92c81d06289e1fe7828b4fa58b?s=96&d=wp_user_avatar&r=g","contentUrl":"https://secure.gravatar.com/avatar/58faac92c81d06289e1fe7828b4fa58b?s=96&d=wp_user_avatar&r=g","caption":"Heather Millar"},"description":"Heather Millar is an award-winning freelance magazine writer and author who covers topics such as health, science, the environment, and geopolitics. Her work has appeared in The Atlantic Monthly, Smithsonian, The New York Times, and Wired, among other publications. She lives in San Francisco.","sameAs":["https://twitter.com/heather_millar"],"url":"https://daily.jstor.org/author/heather_millar/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//daily.jstor.org' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://daily.jstor.org/wp-includes/css/dist/block-library/style.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://daily.jstor.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://daily.jstor.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='main-stylesheet-css'  href='https://daily.jstor.org/wp-content/themes/daily2018/build/assets/css/app.css?ver=0.80' type='text/css' media='all' />
+<link rel='stylesheet' id='typekit-fonts-css'  href='https://use.typekit.net/nkz2sqr.css?ver=0.80' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//daily.jstor.org/wp-content/uploads/pum/pum-site-styles.css?generated=1627579470&#038;ver=1.16.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://daily.jstor.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://daily.jstor.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://daily.jstor.org/wp-json/" /><link rel="alternate" type="application/json" href="https://daily.jstor.org/wp-json/wp/v2/posts/25224" /><link rel="alternate" type="application/json+oembed" href="https://daily.jstor.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://daily.jstor.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F&#038;format=xml" />
+<link rel="icon" href="https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png" sizes="32x32" />
+<link rel="icon" href="https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png" />
+	</head>
+	<body class="post-template-default single single-post postid-25224 single-format-standard offcanvas">
+		<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3S34Q8"
+	                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+		
+	<a class="site-skip-link" href="#main">Skip to content</a>
+	
+	<header class="site-header" role="banner">
+		<div data-sticky-container>
+			<div class="top-bar-container sticky" data-sticky data-margin-top="0" /*data-options="stickyOn:small;"*/>
+				<div class="grid-container">
+					<nav class="site-navigation top-bar grid-x grid-margin-x" role="navigation">
+						<div class="top-bar-left cell medium-7 small-12">
+							<div class="hamburger" id="hamburger" aria-label="Main Menu" data-toggle="site-nav menu-overlay hamburger" data-toggler=".is-active">
+								<span class="line"></span>
+								<span class="line"></span>
+								<span class="line"></span>
+							</div>
+							<div class="top-bar-title">
+								<a href="https://daily.jstor.org/" rel="home"><img src="/wp-content/themes/daily2018/build/assets/images/j_dailylogo_header_184x60.png" srcset="/wp-content/themes/daily2018/build/assets/images/j_dailylogo_header_184x60.png 1x, /wp-content/themes/daily2018/build/assets/images/j_dailylogo_header_372x122.png 2x" class="logo" height="60" width="184"></a>
+								<a href="https://daily.jstor.org/" rel="home" class="tagline">where news meets its scholarly match</a>
+							</div>
+						</div>
+						<div class="top-bar-right cell medium-5 small-12">
+							<ul id="menu-secondary-menu" class="dropdown menu desktop-menu" data-dropdown-menu><li id="menu-item-460" class="newsletter menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a href="https://daily.jstor.org/newsletter/">Newsletters</a></li>
+<li id="menu-item-50712" class="icon facebook show-for-medium menu-item menu-item-type-custom menu-item-object-custom menu-item-50712"><a href="https://www.facebook.com/JSTORDaily"><i class="fab fa-facebook-f"></i></a></li>
+<li id="menu-item-50713" class="icon twitter show-for-medium menu-item menu-item-type-custom menu-item-object-custom menu-item-50713"><a href="https://twitter.com/JSTOR_Daily"><i class="fab fa-twitter"></i></a></li>
+<li id="menu-item-104734" class="icon instagram show-for-medium menu-item menu-item-type-custom menu-item-object-custom menu-item-104734"><a href="https://www.instagram.com/jstor_daily/?hl=en"><i class="fab fa-instagram"></i></a></li>
+</ul>						</div>
+					</nav>
+				</div>
+			</div>
+		</div>
+		<div>
+			<nav id="site-nav" class="site-nav" role="navigation" data-toggler=".expanded">
+				<div class="inner">
+					<!-- search form -->
+					
+<form role="search" method="get" id="searchform" action="https://daily.jstor.org/">
+	<div class="input-group">
+		<input type="text" class="input-group-field" value="" name="s" id="s" placeholder="Search">
+		<button type="submit" class="btn searchsubmit">
+			<i class="fas fa-search"></i>
+		</button>
+	</div>
+</form>
+					
+					<!-- nav -->
+					<div class="menu-wrapper">
+						<ul id="menu-main-menu" class="vertical menu"><li id="menu-item-50872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50872"><a href="https://daily.jstor.org/about/">About JSTOR Daily</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14"><a href="https://daily.jstor.org/category/arts/">Arts &amp; Culture</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-22560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22560"><a href="https://daily.jstor.org/category/arts/art-art-history/">Art &amp; Art History</a></li>
+	<li id="menu-item-23389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23389"><a href="https://daily.jstor.org/category/arts/film-media/">Film &amp; Media</a></li>
+	<li id="menu-item-22558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22558"><a href="https://daily.jstor.org/category/arts/language-literature/">Language &amp; Literature</a></li>
+	<li id="menu-item-23390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23390"><a href="https://daily.jstor.org/category/arts/performing-arts/">Performing Arts</a></li>
+</ul>
+</li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15"><a href="https://daily.jstor.org/category/business/">Business &amp; Economics</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-38547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38547"><a href="https://daily.jstor.org/category/business/business-business/">Business</a></li>
+	<li id="menu-item-38548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38548"><a href="https://daily.jstor.org/category/business/economics/">Economics</a></li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16"><a href="https://daily.jstor.org/category/politics/">Politics &amp; History</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-64218" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64218"><a href="https://daily.jstor.org/category/politics/politics-government/">Politics &amp; Government</a></li>
+	<li id="menu-item-64225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64225"><a href="https://daily.jstor.org/category/politics/us-history/">U.S. History</a></li>
+	<li id="menu-item-64226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64226"><a href="https://daily.jstor.org/category/politics/world-history/">World History</a></li>
+	<li id="menu-item-64224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64224"><a href="https://daily.jstor.org/category/politics/social-history/">Social History</a></li>
+	<li id="menu-item-64223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64223"><a href="https://daily.jstor.org/category/politics/quirky-history/">Quirky History</a></li>
+</ul>
+</li>
+<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-17"><a href="https://daily.jstor.org/category/science/">Science &amp; Technology</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-36228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36228"><a href="https://daily.jstor.org/category/science/health/">Health</a></li>
+	<li id="menu-item-36227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36227"><a href="https://daily.jstor.org/category/science/naturalscience/">Natural Science</a></li>
+	<li id="menu-item-36230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36230"><a href="https://daily.jstor.org/category/science/plantsanimals/">Plants &amp; Animals</a></li>
+	<li id="menu-item-33532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33532"><a href="https://daily.jstor.org/category/science/sustainability/">Sustainability &amp; The Environment</a></li>
+	<li id="menu-item-36229" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-36229"><a href="https://daily.jstor.org/category/science/technology/">Technology</a></li>
+</ul>
+</li>
+<li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-82"><a href="https://daily.jstor.org/category/education-and-society/">Education &amp; Society</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-38550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38550"><a href="https://daily.jstor.org/category/education-and-society/education/">Education</a></li>
+	<li id="menu-item-38552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38552"><a href="https://daily.jstor.org/category/education-and-society/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-38551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38551"><a href="https://daily.jstor.org/category/education-and-society/religion/">Religion</a></li>
+	<li id="menu-item-38549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38549"><a href="https://daily.jstor.org/category/education-and-society/social-sciences/">Social Sciences</a></li>
+</ul>
+</li>
+<li id="menu-item-106655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106655"><a href="https://daily.jstor.org/newsletter/">Newsletters</a></li>
+<li id="menu-item-50871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50871"><a href="https://daily.jstor.org/contact-us/?from_url=/can-virtual-reality-emerge-as-a-tool-for-conservation/">Contact The Editors</a></li>
+<li id="menu-item-135702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135702"><a href="https://www.patreon.com/jstordaily">Support JSTOR Daily</a></li>
+</ul>					</div>
+				</div>
+			</nav>
+		</div>
+
+	</header>
+	<div id="menu-overlay" data-toggle="site-nav menu-overlay hamburger" data-toggler=".shown"></div>
+	
+	<div class="topper">
+		<div class="article-media-title default ">
+			<div class="inner">
+				<div class="aritcle-titles-container">
+					<div class="inner">
+						<div class="slug"><a href="https://daily.jstor.org/category/science/">Science &amp; Technology</a></div>						<h1 class="entry-title">Can Virtual Reality Emerge as a Tool for Conservation?</h1>						<div class="subtitle">
+							<p>New advances in technology are sparking efforts to use virtual reality to help people gain a deeper appreciation of environmental challenges.</p>
+						</div>
+					</div>
+				</div>
+				
+			<div class="featured-img-container">
+				<div class="inner">
+					<img width="1050" height="700" src="https://daily.jstor.org/wp-content/uploads/2016/08/Stanford_VR_coral_world_1050x700.jpg" class="vertical-featured-img wp-post-image" alt="Stanford VR coral world" loading="lazy" />
+				</div>
+			</div>			</div>
+		</div>
+		<div class="article-meta-container grid-container">
+			<div class="grid-x grid-margin-x">
+				<div class="feature-img-attribution cell small-12">
+					<div class="caption">Researchers at Stanford are using VR to teach users about ocean acidification</div>
+					<div class="attribution">Linda A. Cicero / Stanford News Service</div>
+				</div>
+				
+				<div class="article-meta cell small-12">
+					<div class="article-authors byline"><span>By: </span>
+			<a href="https://daily.jstor.org/daily-author/heather-millar/">Heather Millar</a>
+			</div>					
+					<div class="article-date">
+						<time class="timestamp timestamp--published" datetime="2016-08-11T17:40:00-04:00">August 11, 2016</time>
+						<time class="timestamp--updated" datetime="2016-08-11T17:45:52-04:00">August 11, 2016</time>
+					</div>
+					
+					<div class="article-reading-time">
+						<i class="fas fa-clock"></i>
+						6 minutes
+					</div>
+					
+					
+	<div class="article-partner-meta">
+		First Appeared on <a href="http://e360.yale.edu/content/feature.msp?id=3010" target="_blank">Yale Environment 360</a>
+	</div>
+	
+					<div class="article-share-container article-top">
+                      
+	<div class="article-share">
+		<a class="article-share__link article-share__link--facebook" target="_blank" rel="noopener" href="https://www.facebook.com/dialog/share?app_id=419334385204394&display=popup&href=https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F&redirect_uri=https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F"><span><i class="fab fa-facebook-f"></i></span> Share</a>
+		<a class="article-share__link article-share__link--twitter" target="_blank" rel="noopener" href="http://twitter.com/intent/tweet?url=https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F&amp;text=Can+Virtual+Reality+Emerge+as+a+Tool+for+Conservation%3F&amp;via=JSTOR_Daily"><span><i class="fab fa-twitter"></i></span> Tweet</a>
+		<a class="article-share__link article-share__link--email" target="_blank" rel="noopener" href="mailto:?subject=Can%20Virtual%20Reality%20Emerge%20as%20a%20Tool%20for%20Conservation%3F&amp;body=New%20advances%20in%20technology%20are%20sparking%20efforts%20to%20use%20virtual%20reality%20to%20help%20people%20gain%20a%20deeper%20appreciation%20of%20environmental%20challenges.%0D%0A%0D%0A%20Read%20More: https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F"><span><i class="daily-svg email"></i></span> Email</a>
+		<a class="article-share__link article-share__link--print" href="javascript:window.print()"><span><i class="daily-svg print"></i></span> Print</a>
+	</div>
+						</div>
+				</div>
+			</div>
+		</div>
+	
+	</div>
+	
+	<div class="grid-container">
+		<div class="main-grid grid-x grid-margin-x">
+			<main class="main-content cell small-12 medium-8" id="main">
+									<article id="post-25224" class="post-25224 post type-post status-publish format-standard has-post-thumbnail hentry category-science category-technology tag-conservation tag-oceans tag-virtual-reality pub_tag-the-journal-of-the-learning-sciences daily_article_types-long-reads do-drop-cap">
+						<div class="entry-content">
+							<p>Could virtual reality (VR) — immersive digital experiences that mimic reality — save the environment?</p>
+<p>Well, that may be a bit of a stretch. But researchers say that it could perhaps promote better understanding of nature and give people empathetic insight into environmental challenges.</p>
+<p>“Virtual reality can give everyone, regardless of where they live, the kind of experience needed to generate the urgency required to prevent environmental calamity,” says Jeremy Bailenson, professor of communication at Stanford University.</p>
+<p>Bailenson’s <a href="https://vhil.stanford.edu/">Virtual Human Interaction Lab</a> (VHIL) this year released a short VR documentary and an interactive VR game that seek to <a href="https://vhil.stanford.edu/projects/2015/sustainable-behaviors/">explain the issue of ocean acidification</a>, the process by which excess carbon dioxide in the atmosphere dissolves in the ocean, making it more acidic and less healthy for ocean life.</p>
+<p>As Bailenson notes, “One of the greatest challenges to staving off irrevocable climate change isn&#8217;t simply getting buy-in from skeptical politicians – it’s getting people to visualize how driving a gas-guzzling car or living in an energy inefficient home is contributing to a problem that may only manifest itself completely in future decades.”</p>
+		<aside class="pull-quote alignleft">
+			<div class="pull-quote__text">Phenomena such as ocean acidification are difficult to illustrate because they happen in slow motion.</div>
+					</aside>
+		
+<p>The lab’s documentary and game were <a href="http://www.nytimes.com/2016/04/19/movies/virtual-reality-moviesadd-dimension-to-tribeca-festival.html?_r=0">presented at the Tribeca Film Festival</a> in April. Video from the documentary has been adapted to be included in Google Expeditions, a VR educational program that’s still in beta, but has already been shown to one million school kids around the world and will soon be released to many more.</p>
+<p>“Google Expeditions will be the means to reach the student for whom the textbook or the lecture isn’t working,” explains James Leonard, a program manager on the Google for Education team. “It’s a totally different medium. It’s powerful and super-engaging. It will bring students closer to places they otherwise wouldn’t be able to visit.”</p>
+<p>So far, the Google/Stanford effort seems to be one of the few aimed specifically at environmental education. Predictably, a lot of early VR investment is going into entertainment applications: VR movies and games.</p>
+<p>The nature documentary filmmaker David Attenborough has just produced a <a href="http://australianmuseum.net.au/landing/vr-experiences/">VR experience of a dive in the Great Barrier Reef</a>. While meant to entertain, that project will no doubt educate as well. In more academic and policy settings, VR is beginning to be used mostly to create 3D representations of pollution or other human impacts on wild areas.</p>
+<p>Many environmental issues are complex and difficult to explain fully. Phenomena like climate change, ocean acidification, extinction, and glacier erosion are especially challenging to illustrate, either because they’re happening in slow motion or because they’re evolving in remote places that few people see, or both.</p>
+<p>Virtual reality solves many of these problems, Bailenson says. With the proper software, video feed and VR headset, just about anyone might be able to experience environmental change in the Amazon, the Arctic, or even under the ocean.</p>
+<p>When I take my ocean acidification dive, I jump off from Palo Alto, California.</p>
+<p>One minute, I’m in a high tech virtual reality (VR) lab at Stanford University, standing on a “haptic” floor of aeronautic aluminum that can move and vibrate to simulate the feeling of movement, encircled by speakers that can immerse me in sound, and by cameras that can track my every move, where I look, how and where I turn my body.</p>
+<p>The next minute, I put on the VR headset and suddenly I’m in Italy, near the northern end of the Gulf of Naples, on a jetty that extends from a volcanic island called Ischia. To say it looks and feels idyllic would be an understatement: The sun glints off the waves and bright primary color boats bob in the harbor. On the island, pastel stucco houses stair-step up toward a gray, crenelated castle. Above water, everything seems lovely.</p>
+<p>Then I’m underwater. The sea around Ischia, it turns out, provides a perfect place to show people the contrast between a healthy ocean and an acidified one: In one part of the harbor, colorful schools of fish rush past me.<br />
+Sea grasses undulate. Eel squiggle by brilliant coral reefs. Along the bottom potter various species of sea snail.</p>
+<p>Next, I turn to the part of the harbor where volcanic vents have created an acidified environment: The corals, the eel, and many of the fish have disappeared. Everything looks red-brown and murky as certain types of algae have taken over.</p>
+<p>In my headset, Prof. Fio Micheli of Stanford’s Hopkins Marine Station in Monterey says, “One of the most difficult parts of my research is getting people to care about ocean acidification.”</p>
+<p>Full disclosure here: I knew all about ocean acidification before the VR tour; I’ve written about it for various magazines. But as I took off my VR headset, I felt upset and deeply sad. If a picture is worth a thousand words, then an experience — even a digital one — seems to be worth many more. As music video director and VR entrepreneur Chris Milk has put it, VR is an “empathy machine.”</p>
+<p>“The virtual reality platform allows someone who has never even been in the ocean to experience what ocean acidification can do to marine life. We are visual creatures, and visual examples can be very striking,” explains Kristy Kroeker, an assistant professor of ecology and evolutionary biology at the University of California, Santa Cruz and a consultant on the VR project.</p>
+<p>There was a lot of hype about VR in the 1990s, followed by technical challenges, missteps, and public disappointment. This time, <a href="http://www.popsci.com/oculus-vr-exec-explains-how-virtual-reality-will-change-world">the technology seems poised to become a mass experience</a>. Costs have come way down and computing power is improving all the time.</p>
+		<aside class="pull-quote alignright">
+			<div class="pull-quote__text">If people have a VR experience of cutting down an old-growth redwood, they are more likely to conserve paper.</div>
+					</aside>
+		
+<p>Google cardboard headsets and the Samsung Gear VR dipped a toe into this new universe last year, but experts generally said they were not quite ready for prime time. However, in late March, Facebook released the Oculus Rift headset, an immersive VR setup intended for mass market use, priced at $599, about $1,500 with a bundled computer. The first 30 Rift games have gone on sale, with another 100 to follow by the end of the year.</p>
+<p>Competitors such as HTC Vive, Sony PlayStation VR, and the Microsoft HoloLens are on the way. There are reports that both Google and Apple have projects targeting this new market.</p>
+<p>Meanwhile, the ocean VR experiences produced by VHIL are building on a decade of social science research that shows people who have a VR experience are more likely to change behavior in ways that benefit the planet.</p>
+<p>For instance, various VHIL studies have shown:</p>
+<p>• If a person has a VR experience of cutting down an old-growth redwood tree — feeling the vibration and sound of the chainsaw, the crash of the tree as it falls — that person is more likely to conserve paper.</p>
+<p>• If a person takes a VR shower and sees their avatar or doppelganger eating coal to represent the amount of energy used, that person is more likely to conserve water.</p>
+<p>• People who experienced an early version of my ocean acidification “dive” — one with more cartoonish graphics and less accurate biology — cared more about the issue than other people who just watched a video about it.</p>
+<p>VHIL is developing a fish avatar project, which will take movement data from electronically tagged fish in the kelp forests of Monterey Bay and transfer it into a virtual reality where people will be able to join the fish in their underwater world. The project’s goal is to enable individuals to “adopt a fish,” thus becoming more invested in the bay’s future.</p>
+<p>Currently, VHIL is working on how to distribute the latest ocean acidification experiences. Obviously, Google Expeditions provides one outlet. But having secured project funding from the Gordon and Betty Moore Foundation, the Stanford team now hopes to get as many views as possible for the documentary and the game as well. They’re also designing studies to measure the effect of the content.</p>
+<p>Cody Karutz, the Stanford team’s hardware manager, acknowledges that there’s still quite a bit of work to be done fine-tuning these experiences. For instance, you start the game on a boat in the Ischia harbor, but I found myself getting distracted by wanting to turn the ship’s wheel, which isn’t yet possible.</p>
+<p>When I was “swimming” around trying to collect samples in the game, my brain balked at conflict between the visual information — swimming horizontally — and the physical information — standing vertically in a lab.<br />
+Also, as I was swimming and bent to collect samples in the game, I had this weird feeling that half my body was above the sea floor, the other half below it.</p>
+<p>“Typical live camera arrays still capture two-dimensional information. The challenge is combining those with an additional sense of depth and integrating them over frames of time to create interactive graphics,” Karutz explains. “Computing power and data storage are the limitations right now, and that will sure change over the next few years.”</p>
+<p>Lots of people experience stimulation overload when experiencing both VR and a voice-over with content. The team is experimenting to find the best way to explain content without making people nauseated. There’s a fridge in the lab stocked with ginger ale for those who get woozy. I partook.</p>
+													</div>
+						
+						<div class="article-share-container article-bottom">
+							
+	<div class="article-share">
+		<a class="article-share__link article-share__link--facebook" target="_blank" rel="noopener" href="https://www.facebook.com/dialog/share?app_id=419334385204394&display=popup&href=https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F&redirect_uri=https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F"><span><i class="fab fa-facebook-f"></i></span> Share</a>
+		<a class="article-share__link article-share__link--twitter" target="_blank" rel="noopener" href="http://twitter.com/intent/tweet?url=https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F&amp;text=Can+Virtual+Reality+Emerge+as+a+Tool+for+Conservation%3F&amp;via=JSTOR_Daily"><span><i class="fab fa-twitter"></i></span> Tweet</a>
+		<a class="article-share__link article-share__link--email" target="_blank" rel="noopener" href="mailto:?subject=Can%20Virtual%20Reality%20Emerge%20as%20a%20Tool%20for%20Conservation%3F&amp;body=New%20advances%20in%20technology%20are%20sparking%20efforts%20to%20use%20virtual%20reality%20to%20help%20people%20gain%20a%20deeper%20appreciation%20of%20environmental%20challenges.%0D%0A%0D%0A%20Read%20More: https%3A%2F%2Fdaily.jstor.org%2Fcan-virtual-reality-emerge-as-a-tool-for-conservation%2F"><span><i class="daily-svg email"></i></span> Email</a>
+		<a class="article-share__link article-share__link--print" href="javascript:window.print()"><span><i class="daily-svg print"></i></span> Print</a>
+	</div>
+							</div>
+						
+						<div class="feedback-solicitation">Have a correction or comment about this article? <br /><a href='/contact-us?[from_url]'>Please contact us.</a></div>						
+						<div class="entry-tags hide-for-small-only"><span class="post_tag"><a href="https://daily.jstor.org/tag/conservation/">conservation</a></span><span class="post_tag"><a href="https://daily.jstor.org/tag/oceans/">oceans</a></span><span class="post_tag"><a href="https://daily.jstor.org/tag/virtual-reality/">virtual&nbsp;reality</a></span><span class="pub_tag"><a href="https://daily.jstor.org/pub_tag/the-journal-of-the-learning-sciences/">The&nbsp;Journal&nbsp;of&nbsp;the&nbsp;Learning&nbsp;Sciences</a></span></div>							
+	<div class="article-citations-container"><a class="anchor" id="resources"></a>
+		<div class="jstor-logo">
+			<img src="/wp-content/uploads/2018/02/jstor-logo@2x.png" alt="JSTOR logo" width="65" height="90" >
+		</div>
+		<div class="article-citations">
+			<h2>Resources</h2>
+			<p class="text-tight">
+				JSTOR is a digital library for scholars, researchers, and students. JSTOR Daily readers can access the original research behind our articles for free on JSTOR.			</p>
+			
+								<div class="citation color-brand">
+						<div class="citation__title bar">
+							<a href="https://www.jstor.org/stable/27736722?mag=can-virtual-reality-emerge-as-a-tool-for-conservation" data-journal="The Journal of the Learning Sciences">The Use of Immersive Virtual Reality in the Learning Sciences: Digital Transformations of Teachers, Students, and Social Context</a>
+						</div>
+												<div class="citation_byline">
+							By: Jeremy N. Bailenson, Nick Yee, Jim Blascovich, Andrew C. Beall, Nicole Lundblad and Michael Jin						</div>
+													<div class="citation_source">
+							The Journal of the Learning Sciences, Vol. 17, No. 1 (Jan. - Mar., 2008), pp. 102-141						</div>
+						<div class="citation_publisher">
+							Taylor &amp; Francis, Ltd.						</div>
+					</div>
+							
+		</div>
+	</div>
+	
+							
+
+						
+						
+	<div class="article-partner-container">
+		<div class="article-partner-logo">
+			<a href="http://e360.yale.edu/" target="_blank"><img src="https://daily.jstor.org/wp-content/uploads/2016/06/YaleE360_logo.jpg" alt="Article Partner Logo" class="partner-logo"></a>
+		</div>
+		<div class="article-partner-info">
+			Read the original article on <a href="http://e360.yale.edu/content/feature.msp?id=3010" target="_blank">Yale Environment 360</a>.
+			To read more from <a href="http://e360.yale.edu/content/feature.msp?id=3010" target="_blank">Yale Environment 360</a>,
+			follow them on <a href="https://twitter.com/YaleE360">Twitter</a>.
+			Copyright 2016.
+		</div>
+	</div>
+							
+						<div class="article-bottom-email-signup">
+							
+	<div class="daily_email_signup weekly-digest ">
+		<h4>Join Our Newsletter</h4>
+		<div role="form" class="wpcf7" id="wpcf7-f50708-p25224-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/can-virtual-reality-emerge-as-a-tool-for-conservation/#wpcf7-f50708-p25224-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="50708" />
+<input type="hidden" name="_wpcf7_version" value="5.4.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f50708-p25224-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="25224" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p class="info-text">
+Get your fix of JSTOR Daily’s best stories in your inbox each Thursday.
+</p>
+<div class="flex-wrapper">
+<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span><input type="submit" value="Subscribe" class="wpcf7-form-control wpcf7-submit button" />
+</div>
+<div><input type="hidden" class="wpcf7-redirect" name="wpcf7-redirect" value="/thank-you-weekly-newsletters/" /><input type="hidden" class="form-name" name="form-name" value="newsletter_signup_weekly_digest" /></div>
+<p class="email-additional">
+<a href="https://about.jstor.org/privacy/" target="_blank">Privacy Policy</a> &nbsp; <a href="http://www.jstor.org/contact-us/" target="_blank">Contact Us</a><br />
+You may unsubscribe at any time by clicking on the provided link on any marketing message.</p>
+<input type='hidden' class='wpcf7-pum' value='{"closepopup":true,"closedelay":2,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+	</div>
+							</div>
+						
+					</article>
+							</main>
+			
+			<aside class="sidebar cell small-12 medium-4">
+													<div data-sticky-container id="next-story-s">
+						<div class="next-story-container">
+							<h4 class="meta-title bar">Read this next</h4>
+							<div class="next-story">
+								
+<div class="article-tease">
+			<div class="article-tease__featured-image">
+			<a href="https://daily.jstor.org/the-natural-resources-you-didnt-know-you-needed/">
+				<img width="600" height="400" src="https://daily.jstor.org/wp-content/uploads/2016/08/helium_flying_machines_1050x700-600x400.jpg" class=" wp-post-image" alt="Airships and Flying Machines" loading="lazy" />			</a>
+		</div>
+		<div class="slug"><a href="https://daily.jstor.org/category/science/naturalscience/">Natural Science</a></div>	<h3><a href="https://daily.jstor.org/the-natural-resources-you-didnt-know-you-needed/">The Natural Resources You Didn&#8217;t Know You Needed</a></h3>	<div class="subtitle">Fossil fuels might get all the attention, but a recent discovery in Tanzania is a reminder of the other, less-heralded natural resources that we use.</div></div>							</div>
+						
+						</div>
+					</div>
+									<div class="post-widgets">
+					<div id="daily_trending_posts_widget-2" class="widget daily_trending_posts_widget">		<div class="trending-stories">
+				<h4>Trending Posts</h4>
+	<ol>
+					<li>
+				<a href="https://daily.jstor.org/heres-why-the-cdc-recommends-wearing-masks-indoors-even-if-youve-been-fully-vaccinated-against-covid-19/">Here&#8217;s Why the CDC Recommends Indoor Masks for the Vaccinated</a>			</li>
+						<li>
+				<a href="https://daily.jstor.org/return-to-pirate-island/">Return to Pirate Island</a>			</li>
+						<li>
+				<a href="https://daily.jstor.org/healing-and-memory-in-ancient-greece/">Healing and Memory in Ancient Greece</a>			</li>
+						<li>
+				<a href="https://daily.jstor.org/how-carpe-diem-got-lost-in-translation/">How &#8220;Carpe Diem&#8221; Got Lost in Translation</a>			</li>
+						<li>
+				<a href="https://daily.jstor.org/herbs-verbs-how-to-do-witchcraft-for-real/">Herbs &#038; Verbs: How to Do Witchcraft for Real</a>			</li>
+				
+	</ol>
+			</div>
+		</div>				</div>
+			
+			</aside>
+			
+			<div class="article-footer cell small-12" id="article-footer-s">
+				<div class="grid-x grid-margin-x">
+					<div class="cell more-stories small-12 medium-8">
+						<h4 class="bar">More Stories</h4>
+						<div class="grid-margin-x grid-x">
+																<div class="cell large-6 medium-12 small-12">
+										
+<div class="article-tease">
+			<div class="article-tease__featured-image">
+			<a href="https://daily.jstor.org/climate-changes-dangerous-effects-on-the-boreal-forest/">
+				<img width="600" height="400" src="https://daily.jstor.org/wp-content/uploads/2021/08/climate_changes_dangerous_impact_on_the_boreal_forest_1050x700-600x400.jpg" class=" wp-post-image" alt="Aerial View of Boreal Nature Forest in Summer, Quebec, Canada" loading="lazy" />			</a>
+		</div>
+		<div class="slug category"><a href="https://daily.jstor.org/category/science/plantsanimals/">Plants &amp; Animals</a></div>	<h3><a href="https://daily.jstor.org/climate-changes-dangerous-effects-on-the-boreal-forest/">Climate Change&#8217;s Dangerous Effects on the Boreal Forest</a></h3>	<div class="subtitle">The forest's unique ecosystem protects the world's largest carbon sink—the Earth's permafrost layer. But for how much longer?</div></div>									</div>
+																		<div class="cell large-6 medium-12 small-12">
+										
+<div class="article-tease">
+			<div class="article-tease__featured-image">
+			<a href="https://daily.jstor.org/heres-why-the-cdc-recommends-wearing-masks-indoors-even-if-youve-been-fully-vaccinated-against-covid-19/">
+				<img width="600" height="391" src="https://daily.jstor.org/wp-content/uploads/2021/08/Indoor_Mask1075x700-600x391.jpg" class=" wp-post-image" alt="Businesspeople working and maintaining social distance on a sofa in a modern office" loading="lazy" />			</a>
+		</div>
+		<div class="slug category"><a href="https://daily.jstor.org/category/science/health/">Health</a></div>	<h3><a href="https://daily.jstor.org/heres-why-the-cdc-recommends-wearing-masks-indoors-even-if-youve-been-fully-vaccinated-against-covid-19/">Here&#8217;s Why the CDC Recommends Indoor Masks for the Vaccinated</a></h3>	<div class="subtitle">The CDC guidance applies to areas with high coronavirus transmission rates.</div></div>									</div>
+																		<div class="cell large-6 medium-12 small-12">
+										
+<div class="article-tease">
+			<div class="article-tease__featured-image">
+			<a href="https://daily.jstor.org/could-more-urban-trees-mitigate-runoff-and-flooding/">
+				<img width="600" height="400" src="https://daily.jstor.org/wp-content/uploads/2021/08/could_more_urban_trees_help_mitigate_runoff_1050x700-600x400.jpg" class=" wp-post-image" alt="42nd Street in Manhattan, New York" loading="lazy" />			</a>
+		</div>
+		<div class="slug category"><a href="https://daily.jstor.org/category/science/plantsanimals/">Plants &amp; Animals</a></div>	<h3><a href="https://daily.jstor.org/could-more-urban-trees-mitigate-runoff-and-flooding/">Could More Urban Trees Mitigate Runoff and Flooding?</a></h3>	<div class="subtitle">With climate change comes more flooding. As cities confront the risks and potential damages, trees could become even more important.</div></div>									</div>
+																		<div class="cell large-6 medium-12 small-12">
+										
+<div class="article-tease">
+			<div class="article-tease__featured-image">
+			<a href="https://daily.jstor.org/dude-there-are-sand-flies-that-consume-cannabis/">
+				<img width="600" height="400" src="https://daily.jstor.org/wp-content/uploads/2021/07/sand_flies_and_cannabis_1050x700-600x400.jpg" class=" wp-post-image" alt="" loading="lazy" />			</a>
+		</div>
+		<div class="slug category"><a href="https://daily.jstor.org/category/science/plantsanimals/">Plants &amp; Animals</a></div>	<h3><a href="https://daily.jstor.org/dude-there-are-sand-flies-that-consume-cannabis/">Dude, There Are Sand Flies That Consume Cannabis</a></h3>	<div class="subtitle">Could these blood-sucking pests actually have the munchies?</div></div>									</div>
+															</div>
+					</div>
+					<div class="cell small-12 medium-4 post-bottom-widgets">
+						<div id="daily_recent_posts_widget-3" class="widget daily_recent_posts_widget">		<div class="recent-stories" id="recent-stories-s">
+				<h4>Recent Posts</h4>
+	<ol>
+					<li>
+				<a href="https://daily.jstor.org/the-back-to-school-shopping-tradition-in-history/">The Back-to-School Shopping Tradition in History</a>			</li>
+						<li>
+				<a href="https://daily.jstor.org/venus-the-green-knight-and-old-school-peaches/">Venus, the Green Knight, and Old-School Peaches</a>			</li>
+						<li>
+				<a href="https://daily.jstor.org/asthma-tropes-and-the-kids-who-hate-them/">Asthma Tropes and the Kids Who Hate Them</a>			</li>
+						<li>
+				<a href="https://daily.jstor.org/climate-changes-dangerous-effects-on-the-boreal-forest/">Climate Change&#8217;s Dangerous Effects on the Boreal Forest</a>			</li>
+						<li>
+				<a href="https://daily.jstor.org/heres-why-the-cdc-recommends-wearing-masks-indoors-even-if-youve-been-fully-vaccinated-against-covid-19/">Here&#8217;s Why the CDC Recommends Indoor Masks for the Vaccinated</a>			</li>
+				
+	</ol>
+			</div>
+		</div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<div class="footer-widget">
+	<div class="grid-container">
+      <div id="custom_html-6" class="widget_text widget_custom_html"><div class="textwidget custom-html-widget"><div class="grid-x grid-margin-x become-member">
+	<div class="cell medium-4 small-6">
+	<h1>
+		Support JSTOR Daily
+	</h1>
+</div>
+
+<div class="cell medium-8 small-6">
+	<div class="description">
+		Help us keep publishing stories that provide scholarly context to the news.
+	</div>
+	<div>
+		<a href="https://www.patreon.com/jstordaily" class="btn">Become a member</a>
+	</div>
+</div>
+</div>
+</div></div>	</div>
+</div>
+
+<div class="footer-container">
+	<footer class="footer grid-container">
+		<div class="grid-x grid-margin-x">
+			<div class="cell medium-8 small-12">
+				<div class="description-wrapper">
+					<div id="custom_html-4"><h3>About Us</h3><div class="textwidget custom-html-widget"><p>JSTOR Daily provides context for current events using scholarship found in JSTOR, a digital library of academic journals, books, and other material. We publish articles grounded in peer-reviewed research and provide free access to that research for all of our readers.
+				</p></div></div>					<ul id="menu-footer-menu" class=""><li id="menu-item-50714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50714"><a href="https://daily.jstor.org/contact-us/?from_url=/can-virtual-reality-emerge-as-a-tool-for-conservation/">Contact The Editors</a></li>
+<li id="menu-item-50716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50716"><a href="https://daily.jstor.org/masthead/">Masthead</a></li>
+<li id="menu-item-50717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50717"><a href="https://daily.jstor.org/newsletter/">Newsletters</a></li>
+<li id="menu-item-50715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50715"><a href="https://daily.jstor.org/about/">About Us</a></li>
+<li id="menu-item-273061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273061"><a href="https://daily.jstor.org/submit/">Submission Guidelines</a></li>
+<li id="menu-item-50719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50719"><a href="/feed">RSS</a></li>
+<li id="menu-item-135700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135700"><a href="https://www.patreon.com/jstordaily">Support JSTOR Daily</a></li>
+</ul><ul id="menu-copyright-menu" class=""><li id="menu-item-50720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50720"><a href="https://www.jstor.org/">JSTOR.org</a></li>
+<li id="menu-item-50721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50721"><a href="https://daily.jstor.org/terms-and-conditions/">Terms and Conditions of Use</a></li>
+<li id="menu-item-50722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50722"><a href="https://www.ithaka.org/privacypolicy">Privacy Policy</a></li>
+<li id="menu-item-50723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50723"><a href="https://www.ithaka.org/cookies">Cookie Policy</a></li>
+<li id="menu-item-50724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50724"><a href="https://about.jstor.org/accessibility/">Accessibility</a></li>
+</ul>				</div>
+			</div>
+			<div class="cell medium-4 small-12 copyright">
+				<div class="copyright-wrapper">
+					<a href="https://www.jstor.org"><img alt="logo" src="/wp-content/themes/daily2018/build/assets/images/j_logo_footer_65x88.png" srcset="/wp-content/themes/daily2018/build/assets/images/j_logo_footer_65x88.png 1x, /wp-content/themes/daily2018/build/assets/images/j_logo_footer_122x168.png 2x" class="logo" height="63" width="85"></a>
+					<div id="custom_html-5"><div class="textwidget custom-html-widget"><p>			JSTOR is part of ITHAKA, a not-for-profit organization helping the academic community use digital technologies to preserve the scholarly record and to advance research and teaching in sustainable ways.
+				</p>
+				<p>
+					&copy;<span class="currentyear"></span> ITHAKA. All Rights Reserved. JSTOR®, the JSTOR logo, and ITHAKA® are registered trademarks of ITHAKA.
+				</p></div></div>				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+
+<div id="pum-118008" class="pum pum-overlay pum-theme-117991 pum-theme-lightbox popmake-overlay auto_open click_open" data-popmake="{&quot;id&quot;:118008,&quot;slug&quot;:&quot;weekly-nl&quot;,&quot;theme_id&quot;:117991,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-118008&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:true}},{&quot;event&quot;:&quot;cf7_form_success&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-118008&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:true}},{&quot;event&quot;:&quot;manual&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;Daily_visitor_from&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:true}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;delay&quot;:2000,&quot;cookie_name&quot;:[&quot;pum-118008&quot;,&quot;Daily_visitor_from&quot;]}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]},&quot;conditions&quot;:[[{&quot;target&quot;:&quot;url_contains&quot;,&quot;not_operand&quot;:true,&quot;settings&quot;:{&quot;search&quot;:&quot;utm_content=email&quot;},&quot;search&quot;:&quot;utm_content=email&quot;}]]}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-118008" class="pum-container popmake theme-117991 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			
+	<div class="daily_email_signup weekly-digest ">
+		<h4>Sign up for our weekly newsletter</h4>
+		<div role="form" class="wpcf7" id="wpcf7-f50708-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/can-virtual-reality-emerge-as-a-tool-for-conservation/#wpcf7-f50708-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="50708" />
+<input type="hidden" name="_wpcf7_version" value="5.4.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f50708-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p class="info-text">
+Get your fix of JSTOR Daily’s best stories in your inbox each Thursday.
+</p>
+<div class="flex-wrapper">
+<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span><input type="submit" value="Subscribe" class="wpcf7-form-control wpcf7-submit button" />
+</div>
+<div><input type="hidden" class="wpcf7-redirect" name="wpcf7-redirect" value="/thank-you-weekly-newsletters/" /><input type="hidden" class="form-name" name="form-name" value="newsletter_signup_weekly_digest" /></div>
+<p class="email-additional">
+<a href="https://about.jstor.org/privacy/" target="_blank">Privacy Policy</a> &nbsp; <a href="http://www.jstor.org/contact-us/" target="_blank">Contact Us</a><br />
+You may unsubscribe at any time by clicking on the provided link on any marketing message.</p>
+<input type='hidden' class='wpcf7-pum' value='{"closepopup":true,"closedelay":2,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+	</div>
+	
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			&times;            </button>
+		
+	</div>
+
+</div>
+<script type='text/javascript' src='https://daily.jstor.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://daily.jstor.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/daily.jstor.org\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://daily.jstor.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://daily.jstor.org/wp-content/themes/daily2018/build/assets/js/app.js?ver=0.80' id='foundation-js'></script>
+<script type='text/javascript' src='https://use.fontawesome.com/releases/v5.0.6/js/all.js?ver=5.0.6' id='fontawesome-js'></script>
+<script type='text/javascript' src='https://daily.jstor.org/wp-content/themes/daily2018/includes/js/site.js?ver=0.80' id='daily_custom_js-js'></script>
+<script type='text/javascript' src='https://daily.jstor.org/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='popup-maker-site-js-extra'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.16.2","pm_dir_url":"https:\/\/daily.jstor.org\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/daily.jstor.org\/wp-admin\/admin-ajax.php","restapi":"https:\/\/daily.jstor.org\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"117990","debug_mode":"","disable_tracking":"1","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"page":"25224"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/daily.jstor.org\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-118008":{"triggers":[{"type":"auto_open","settings":{"delay":2000,"cookie_name":["pum-118008","Daily_visitor_from"]}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-118008","key":"","session":false,"time":"1 month","path":true}},{"event":"cf7_form_success","settings":{"name":"pum-118008","key":"","session":false,"time":"1 month","path":true}},{"event":"manual","settings":{"name":"Daily_visitor_from","time":"1 month","path":true}}],"disable_on_mobile":false,"disable_on_tablet":false,"explain":null,"type_section":null,"theme_id":"117991","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":118008,"slug":"weekly-nl","conditions":[[{"target":"url_contains","not_operand":true,"settings":{"search":"utm_content=email"},"search":"utm_content=email"}]]}};
+/* ]]> */
+</script>
+<script type="text/plain" src=//daily.jstor.org/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1627891771&#038;ver=1.16.2 id="popup-maker-site-js" class="optanon-category-C0003"></script>
+<script type='text/javascript' src='https://daily.jstor.org/wp-includes/js/wp-embed.min.js?ver=5.8' id='wp-embed-js'></script>
+<script>
+    window.FontAwesomeConfig = {
+        searchPseudoElements: true
+    }
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"1bf2c69c97","applicationID":"157999336","transactionName":"YQEGMBdSCxFRV0NYWlhLJQcRWgoMH0deX1JaAQ==","queueTime":0,"applicationTime":287,"atts":"TUYFRl9IGB8=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>
